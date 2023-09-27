@@ -3,7 +3,7 @@ url: https://lawawarenessweeks.cdc.gov.sg
 favicon: /images/favicon.png
 colors:
   primary-color: "#ee4f13"
-  secondary-color: "#b81211"
+  secondary-color: "#457aee"
   media-colors:
     - title: media-color-one
       color: "#ee5012"
