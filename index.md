@@ -4,12 +4,10 @@ title: Law Awareness Weeks @ CDC
 description: This is an informational site about Law Awareness Weeks @ CDC.
 image: /images/isomer-logo.svg
 permalink: /
-notification: There will be a scheduled downtime on all CDC websites on 17
-  April. The website may not be available during this period. We apologise for
-  the inconvenience caused.
+notification: ""
 sections:
   - hero:
-      background: /images/LAWCDC Homepage Banner-3.png
+      background: /images/lawcdc2023 hero image - no logo banner.png
       url: /about/
       key_highlights:
         - title: WEBINAR TOPICS
