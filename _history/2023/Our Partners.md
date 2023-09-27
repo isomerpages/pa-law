@@ -10,13 +10,15 @@ Law Awareness Weeks @ CDC 2023 is brought to you by the five Community Developme
 ![](/images/ncpc%20nus%20pro%20bono.png)
 ## Webinar Collaborators
 ![](/images/new%20partners%202022.png)
-## Law Society Pro Bono Services
+## Pro Bono SG
 
-Law Society Pro Bono Services is an initiative by The Law Society of Singapore to help bring free legal assistance to those in need in our community. It is part of The Law Society's stated mission to ensure access to justice for all.
+Pro Bono SG (UEN No. 201700430E) is a registered charity with the status of Institution of a Public Character and a company limited by guarantee. It started as a department within The Law Society of Singapore and later became Law Society Pro Bono Services. Since 2007, we’ve expanded our legal initiatives and programs, helping over 150,000 people with legal awareness, guidance, and representation.
 
-Our work is supported by our volunteers who give generously and selflessly of their time and expertise for the needy in our community and financially by contributions from individual lawyers, law practices, private donations, foundations, corporations and key stakeholders such as the Ministry of Law, TOTE Board and various community partners.
+In FY 21/22, we helped over 17,000 individuals and community organisations. Our volunteer base has grown to 1,000 registered volunteers from various industries and specialisations.
 
-For more information on our pro bono programmes please visit [https://www.lawsocprobono.org](https://www.lawsocprobono.org).
+To improve our services, Pro Bono SG works closely with community partners. Thanks to the support from our partners and supporters, we were renamed Pro Bono SG in 2022 to reflect the commitment of everyone in Singapore to our mission of doing good in the community.
+
+For more information on our pro bono programmes&nbsp;please visit&nbsp;[https://www.probono.sg.](https://www.probono.sg.)
 
 ## Community Development Councils
 
