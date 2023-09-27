@@ -23,13 +23,13 @@ sections:
           description: ""
           url: /partners/
   - infopic:
-      title: About LAW@CDC 2022
+      title: About LAW@CDC 2023
       description: LAW@CDC is a nationwide effort to promote awareness and
         understanding of the law in the community through a series of talks.
       button: Find out more
       url: /about/
-      alt: Key visual of LAW@CDC 2022
-      image: /images/banner hi-res.jpg
+      alt: Key visual of LAW@CDC 2023
+      image: /images/lawcdc 2023 hero image.png
   - infobar:
       title: Webinar Topics
       description: Register for our webinars to learn about your rights and equip
