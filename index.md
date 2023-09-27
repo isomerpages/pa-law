@@ -38,7 +38,7 @@ sections:
       url: /webinar/
   - infobar:
       title: Our Partners
-      description: LAW@CDC 2022 is brought to you by Law Society Pro Bono Services and
+      description: LAW@CDC 2023 is brought to you by Law Society Pro Bono Services and
         the five Community Development Councils.
       button: Learn more
       url: /partners/
