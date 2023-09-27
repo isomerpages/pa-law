@@ -4,9 +4,9 @@ permalink: /2023/partners/
 description: ""
 third_nav_title: "2023"
 ---
-Law Awareness Weeks@CDC 2022 is brought to you by Law Society Pro Bono Services, in partnership with the five Community Development Councils, National University of Singapore Faculty of Law Centre for Pro Bono Clinical Legal Education, Singapore Management University Pro Bono Centre, Singapore University of Social Sciences School of Law and Singapore Corporate Counsel Association Pro Bono Chapter, supported by the People’s Association.
+Law Awareness Weeks @ CDC 2023 is brought to you by the five Community Development Council (CDC) and Pro Bono SG, in partnership with National University of Singapore Faculty of Law Centre for Pro Bono Clinical Legal Education, Singapore Management University Pro Bono Centre, Singapore University of Social Sciences School of Law and Singapore Corporate Counsel Association Pro Bono Chapter, supported by the People’s Association.
 
-## LAW@CDC 2022 Partners
+## LAW@CDC 2023 Partners
 ![](/images/ncpc%20nus%20pro%20bono.png)
 ## Webinar Collaborators
 ![](/images/new%20partners%202022.png)
