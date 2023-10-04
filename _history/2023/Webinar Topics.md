@@ -44,7 +44,7 @@ Whether you are contemplating divorce, currently in the process, or starting ane
 
 ### **离婚事宜和顾虑 - 监护、照顾和控制**
 
-**Monday, 30 October 2022, 7.00pm – 8.30pm**
+**Monday, 30 October 2023, 7.00pm – 8.30pm**
 ![](/images/ONLINE%20SHOPPING%20IS%20IT%20SAFE_.png)
 
 当您尝试用力量和韧性驾驭民事离婚的复杂性时，发现一条变革性的前进道路。想要解锁有效沟通、财务规划和情绪治疗的实用策略？
@@ -54,9 +54,9 @@ Whether you are contemplating divorce, currently in the process, or starting ane
 <a href="https://us02web.zoom.us/webinar/register/7016887170596/WN_T9F8-6VAQt6g5nE2zD6jXA" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button" style="width:200px !important;"></a>
 <hr>
 
-### Harassment at the Workplace - Is Help Available?
+### Dealing with Creditors
 
-**Tuesday, 11 October 2022, 7.00pm – 8.30pm**
+**Tuesday, 31 October 2023, 7.00pm – 8.30pm**
 ![](/images/Harassment%20at%20the%20Workplace%20-%20%20is%20Help%20Available_.png)
 
 Have you ever been a victim of workplace harassment such as physical abuse, abusive behaviour, cyber bullying or sexual harassment? A recent study has shown that workplace bullying is increasingly prevalent in Singapore. Given the current economic uncertainty, many employees find themselves already facing harassment, termination or even retrenchment as businesses struggle to stay relevant and afloat.
