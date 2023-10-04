@@ -18,16 +18,16 @@ third_nav_title: "2023"
 <a href="https://us02web.zoom.us/webinar/register/7016887170596/WN\_1llGiylTQreH2uqT9hJM2g" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button" style="width:200px !important;"></a>
 <hr>
 
-### Believe It or Not! How to Spot and Avoid Scams
+### Conflicts with Neighbours – can this be resolved?
 
-**Monday, 3 October 2022, 7.00pm – 8.30pm**
+**Tuesday, 24 October 2023, 7.00pm – 8.30pm**
 ![](/images/believe%20it%20or%20not!%20how%20to%20spot%20and%20avoid%20scams.png)
 
-In recent times, there have been increasing incidents of victims falling prey to various scams, from simple email or text message scams to sophisticated and elaborate scams. It was reported in a recent Straits Times article that since January 2022, at least 46 victims have lost a minimum of $12.3 million after the re-emergence of Chinese official impersonation scams.
+Are you tired of endless arguments over property boundaries, noisy gatherings, or unruly pets? Delve into a comprehensive exploration of mediation techniques, legal rights and responsibilities, and proactive communication approaches that can transform contentious relationships into harmonious coexistence. Uncover practical tips on addressing common disputes like noise disturbances, shared amenities, and property encroachments.
+<br>
+Join our moderator, Philip Lin Sing Man (Vice President and Senior Counsel, Marriott International) and speakers, Lim Lei Theng (Partner, Allen &amp; Gledhill) and Sunil Rai (Master Mediator, Community Mediation Centre) as they provide real-life case studies and advice to equip you with invaluable strategies and insights on effectively resolving conflicts with your neighbours. Gain the knowledge and tools you need to navigate the intricate landscape of neighbour conflicts and achieve lasting resolutions. Let’s take the opportunity to foster better neighbourly relationships and foster a sense of unity within your community.
 
-In light of the recent developments, join us as our moderator, Samson Leo (Co-Founder &amp; Chief Legal Officer, Xfers/Fazz Financial Group), and speakers, Nicholas Khoo (Council Member, NCPC) and Eunice Chua (CEO, FIDReC), discuss insights through discussions of case scenarios on how to identify scams as well as steps to take when one is in the unfortunate situation of being a victim of a scam.
-
-<a href="https://us02web.zoom.us/webinar/register/8616596832361/WN_QewCA2r5T2a-Zx1GCMFJPQ" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button" style="width:200px !important;"></a>
+<a href="https://us02web.zoom.us/webinar/register/7016887170596/WN\_98K0huMVTIK1CS6pXIFowA" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button" style="width:200px !important;"></a>
 <hr>
 
 ### Preparing for Golden Years
