@@ -4,7 +4,8 @@ permalink: /2023/about/
 description: ""
 third_nav_title: "2023"
 ---
-The Law Awareness Weeks @ CDC 2023 (LAW@CDC 2023) is a collaboration between Pro Bono SG and the five Community Development Councils, National University of Singapore Faculty of Law, Singapore University of Social Sciences School of Law, Singapore Management University School of Law, the Singapore Association of Social Workers and the Singapore Corporate Counsel Association Pro Bono Chapter, supported by the People’s Association.
+
+![pre launch hero image](/images/pre%20launch%20hero%20image.png)The Law Awareness Weeks @ CDC 2023 (LAW@CDC 2023) is a collaboration between Pro Bono SG and the five Community Development Councils, National University of Singapore Faculty of Law, Singapore University of Social Sciences School of Law, Singapore Management University School of Law, the Singapore Association of Social Workers and the Singapore Corporate Counsel Association Pro Bono Chapter, supported by the People’s Association.
 
 LAW@CDC 2023 is a nationwide effort to promote awareness and understanding of the law in the community through a series of talks, so that people living and working in Singapore may know their rights and be empowered when faced with common legal issues.   This year, there will be 11 law awareness webinars aired ‘live’ online from 16 September - 1 November 2023.
 
