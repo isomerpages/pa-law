@@ -42,17 +42,16 @@ Whether you are contemplating divorce, currently in the process, or starting ane
 <a href="https://us02web.zoom.us/webinar/register/7016887170596/WN\_yXOW790zQhmcmmqAnzWA4Q" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button" style="width:200px !important;"></a>
 <hr>
 
-### Online Shopping – Is It Safe?
+### **离婚事宜和顾虑 - 监护、照顾和控制**
 
-**Wednesday, 5 October 2022, 7.00pm – 8.30pm**
+**Monday, 30 October 2022, 7.00pm – 8.30pm**
 ![](/images/ONLINE%20SHOPPING%20IS%20IT%20SAFE_.png)
 
-Do you go online shopping? Do you buy investment products online? Do you use an electronic wallet? The panel will discuss common traps to avoid in digital transactions. Common scenarios such as unauthorized transactions, undelivered goods, instalment plans and more will be discussed.
+当您尝试用力量和韧性驾驭民事离婚的复杂性时，发现一条变革性的前进道路。想要解锁有效沟通、财务规划和情绪治疗的实用策略？
 
-Join us as our moderator, Soh Gill (Legal Counsel, Capgemini Singapore Pte Ltd), and speakers, Dr Toh See Kiat (Chairman, Goodwins Law Corporation) and Eunice Chua (CEO, FIDReC), share about the possible disputes in online transactions and how to avoid or 
-manage them.&nbsp;
+无论您是正在考虑离婚、目前正在离婚还是重新开始，都可以加入我们的小组，因为他们会探讨合法权利、资产分割、子女监护权和共同抚养等主题，让您掌握做出明智决定所需的知识和确保更平稳的过渡。获得有关授权工具和策略的见解，这些工具和策略将把您的离婚之旅转变为个人发展和更光明未来的机会。
 
-<a href="https://us02web.zoom.us/webinar/register/8416613941538/WN_VHf39cwNT4ezA-Xlv9b1BA" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button" style="width:200px !important;"></a>
+<a href="https://us02web.zoom.us/webinar/register/7016887170596/WN_T9F8-6VAQt6g5nE2zD6jXA" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button" style="width:200px !important;"></a>
 <hr>
 
 ### Harassment at the Workplace - Is Help Available?
