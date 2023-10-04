@@ -6,16 +6,16 @@ third_nav_title: "2023"
 ---
 <span id="webinar_page_top"></span>
 
-### Divorce &amp; You (Syariah)
-**Tuesday, 27 September 2022, 7.00pm – 8.30pm**
+### **与邻居的冲突 — 这可以解决吗？
+**Monday, 23 October 2023, 7.00pm – 8.30pm**
 
 ![](/images/Divorce%20&amp;%20You%20(Syariah).png)
 
-Divorcing or looking to divorce and having trouble understanding the Syariah divorce process? Worried about money, housing and offsprings? Do you have many other questions about divorce in the Syariah Courts?
+您是否厌倦了无休止的财产边界争论、嘈杂的聚会或不守规矩的宠物？深入全面探索调解技巧、法律权利和责任，以及可以将有争议的关系转变为和谐共处的主动沟通方法。发现解决噪音干扰、共享便利设施和财产侵占等常见纠纷的实用技巧。
+<br>
+加入我们的小组，因为他们提供现实生活中的案例研究和建议，为您提供有效解决与邻居冲突的宝贵策略和见解。获得你需要的知识和工具来驾驭错综复杂的邻里冲突并实现持久的解决方案。让我们借此机会培养更好的邻里关系，培养社区内的团结感。
 
-Join us as our moderator, Rebecca Vathanasin (Senior Associate, Gloria James-Civetta &amp; Co), and speaker, Halijah Mohamed (Managing Director, Halijah Mohd &amp; Co), as they share about divorce proceedings in the Syariah Courts and cover the most frequently asked questions such as the children, maintenance, as well as inheritance.
-
-<a href="https://us02web.zoom.us/webinar/register/1516474982740/WN_oFn0_AiHSo6T0SF9AHM_WA" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button" style="width:200px !important;"></a>
+<a href="https://us02web.zoom.us/webinar/register/7016887170596/WN\_1llGiylTQreH2uqT9hJM2g" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button" style="width:200px !important;"></a>
 <hr>
 
 ### Believe It or Not! How to Spot and Avoid Scams
