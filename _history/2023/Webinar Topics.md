@@ -32,14 +32,16 @@ Join our moderator, Philip Lin Sing Man (Vice President and Senior Counsel, Marr
 
 ### Divorce Matters and Concerns - Custody, Care and Control
 
-**Wednesday, 4 October 2022, 7.00pm – 8.30pm**
+**Wednesday, 25 October 2023, 7.00pm – 8.30pm**
 ![](/images/preparing%20for%20golden%20years.png)
 
-Planning for your later years but not sure what to do? Concerned but unaware about what happens after the demise of a loved one? It’s never too early to plan ahead for the future. The most precious gift you can leave your family is peace of mind.
+Discover a transformative path forward as you try to navigate the complexities of a civil divorce with strength and resilience. Looking to unlock practical strategies for effective communication, financial planning, and emotional healing?&nbsp;
+<br>
+Whether you are contemplating divorce, currently in the process, or starting anew, join our moderator, Lim Liyen (Volunteer, Pro Bono SG) and speakers Yap Teong Liang (Director, TL Yap Law Chambers LLC) and Abigail Lee (Executive Director, Healing Hearts Centre) as they explore topics such as legal rights, division of assets, child custody, and co-parenting, equipping you with the knowledge needed to make informed decisions and ensure a smoother transition. Gain insights on empowering tools and strategies that will transform your divorce journey into an opportunity for personal development and a brighter future.
 
-Join us as our moderator, Jerrick Lim (Senior Legal Counsel, EVYD Research Pte Ltd) and speaker, Rajan Chettiar (Managing Director, Rajan Chettiar LLC), share about a variety of legal tools you can use to ensure that your family is taken care of while your wishes are respected even after you’re gone.
+**
 
-<a href="https://us02web.zoom.us/webinar/register/3216596832117/WN_5BRElu6jS92v1tegMj35wg" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button" style="width:200px !important;"></a>
+<a href="https://us02web.zoom.us/webinar/register/7016887170596/WN\_yXOW790zQhmcmmqAnzWA4Q" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button" style="width:200px !important;"></a>
 <hr>
 
 ### Online Shopping – Is It Safe?
