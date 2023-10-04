@@ -30,9 +30,9 @@ Join our moderator, Philip Lin Sing Man (Vice President and Senior Counsel, Marr
 <a href="https://us02web.zoom.us/webinar/register/7016887170596/WN\_98K0huMVTIK1CS6pXIFowA" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button" style="width:200px !important;"></a>
 <hr>
 
-### Preparing for Golden Years
+### Divorce Matters and Concerns - Custody, Care and Control
 
-**Tuesday, 4 October 2022, 7.00pm – 8.30pm**
+**Wednesday, 4 October 2022, 7.00pm – 8.30pm**
 ![](/images/preparing%20for%20golden%20years.png)
 
 Planning for your later years but not sure what to do? Concerned but unaware about what happens after the demise of a loved one? It’s never too early to plan ahead for the future. The most precious gift you can leave your family is peace of mind.
