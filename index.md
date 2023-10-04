@@ -27,7 +27,7 @@ sections:
       description: LAW@CDC is a nationwide effort to promote awareness and
         understanding of the law in the community through a series of talks.
       button: Find out more
-      url: /about/
+      url: /2023/about/
       alt: Key visual of LAW@CDC 2023
       image: /images/lawcdc 2023 hero image.png
   - infobar:
@@ -35,11 +35,11 @@ sections:
       description: Register for our webinars to learn about your rights and equip
         yourself on how to best handle basic legal issues.
       button: Register now
-      url: /webinar/
+      url: /2023/webinar/
   - infobar:
       title: Our Partners
       description: LAW@CDC 2023 is brought to you by Law Society Pro Bono Services and
         the five Community Development Councils.
       button: Learn more
-      url: /partners/
+      url: /2023/partners/
 ---
