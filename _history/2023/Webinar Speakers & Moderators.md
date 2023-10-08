@@ -12,7 +12,7 @@ Dr Lam Is the Senior consultant in the Department of General Medicine and Clinic
 
 ### Ahmad Nizam Abbas
 
-<img src="/images/dr%20adeline%20lam.png" style="width:250px !important;">
+<img src="/images/ahmad%20nizam%20abbas.png" style="width:250px !important;">
 
 Ahmad Nizam Abbas was admitted as an Advocate and Solicitor of the Supreme Court of Singapore in January 1994. In 2013, he obtained a Master of Laws in Islamic Law and Finance from the Singapore Management University. He is the Founder and Managing Director of Crescent Law Chambers.&nbsp;
 
