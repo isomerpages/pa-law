@@ -42,7 +42,7 @@ Amarjit has also been frequently interviewed by various media on current issues 
 
 
 ### AMIRA BUDIYANO
-<img src="/images/amira%20budiyano.png" style="width:250px !important;">
+<img src="/images/SPEAKERS%20LAW2023/amira%20budiyano.png" style="width:250px !important;">
 
 Amira’s practice currently focuses on IP and technology, particularly data protection (DP). She has advised various educational institutions, associations, and other entities on DP obligations and has been involved in data breach investigations by the PDPC. Regarding other areas, her work includes amongst others, advising on IP strategy, commercialisation and other regulatory and technology-related issues. 
  
@@ -53,13 +53,13 @@ She is regularly invited to speak on and provide her viewpoints on several occas
 
 
 ### ANDREW LEE
-<img src="/images/Amarjit%20Kaur.jpg" style="width:250px !important;">
+<img src="/images/SPEAKERS%20LAW2023/andrew%20lee.png" style="width:250px !important;">
 
 Andrew is the Assistant General Counsel for a global education provider and was formerly an Associate Director at Drew &amp; Napier LLC. His passions lie in dispute resolution, employment, intellectual property, data protection and family law. He’s found volunteering with LSPBS particularly rewarding and fun and looks to continue in his free time.
 
 
 ### BERNARD CHOO CHEE WEE
-<img src="/images/Amarjit%20Kaur.jpg" style="width:250px !important;">
+<img src="/images/SPEAKERS%20LAW2023/bernard%20choo.png" style="width:250px !important;">
 
 Mr Bernard Choo has been volunteering as a Council Member with the National Crime Prevention Council since 2018.
  
@@ -67,7 +67,7 @@ In his day job, Mr Choo is the Editor for Shin Min Daily News.
 
 
 ### DR CHAU MO YEE
-<img src="/images/Amarjit%20Kaur.jpg" style="width:250px !important;">
+<img src="/images/SPEAKERS%20LAW2023/dr%20chau%20mo%20yee.png" style="width:250px !important;">
 
 Dr Chau Mo Yee is an Associate Consultant in Family Medicine and currently works at Tan Tock Seng Hospital and Dover Park. She has more than ten years of clinical experience in palliative care, including outpatient and inpatient services. She is also an Advance Care Planning coordinator, helping many patients and families embark on this important conversation. She has also been invited to share her knowledge on palliative care and advance care planning on various occasions. She believes it is crucial to raise public awareness of these issues so that people can plan earlier.
 
@@ -78,21 +78,21 @@ Dr Chau Mo Yee is an Associate Consultant in Family Medicine and currently works
 
 
 ### ELAINE HO
-<img src="/images/Amarjit%20Kaur.jpg" style="width:250px !important;">
+<img src="/images/SPEAKERS%20LAW2023/elaine%20ho.png" style="width:250px !important;">
 
 Elaine is senior legal counsel in a leading fintech. She spent 10 years in private practice, mostly in US white shoe firms, before transitioning in-house to trade finance legal roles in US based firms, then to her current role.
 
 
 
 ### EUNICE CHUA
-<img src="/images/Amarjit%20Kaur.jpg" style="width:250px !important;">
+<img src="/images/SPEAKERS%20LAW2023/eunice%20chua.png" style="width:250px !important;">
 
 Eunice is the Chief Executive Officer of FIDReC and a Research Fellow at the Singapore International Dispute Resolution Academy. She was previously an Assistant Professor of Law at the Singapore Management University School of Law and Deputy CEO of the Singapore International Mediation Centre. Eunice has also served as Assistant Registrar of the Supreme Court, and Magistrate of the State Courts. Her areas of expertise are dispute resolution, evidence and procedure.
 
 
 
 ### FAITH PNG
-<img src="/images/Amarjit%20Kaur.jpg" style="width:250px !important;">
+<img src="/images/SPEAKERS%20LAW2023/faith%20png.png" style="width:250px !important;">
 
 Faith Png is a social service practitioner in the community with more than 10 years of frontline and supervisory experience. She has had the privilege of companioning with gang-involved youths, caregivers of people living with dementia, vulnerable adults in mental health and frail elderly. 
 Faith has come to appreciate the importance of living well begins with self-compassion and leaving well begins with a honest conversation with one's self. She believes in working collaboratively with those who are in the process of making sense of their way of being in the world.
@@ -109,7 +109,7 @@ Montfort Care
 
 
 ### FOO MENG YEEN
-<img src="/images/Amarjit%20Kaur.jpg" style="width:250px !important;">
+<img src="/images/SPEAKERS%20LAW2023/foo%20meng%20yeen.png" style="width:250px !important;">
 
 As a legal counsel in health technology fraternity, I have personal inclination to want to know more about health and its impact on individuals and families. This brings about also a keen interest on the consequences when health of any individual is no longer ablet to support continuation of the individual in living capacity. Questions asked of me by friends who have had to walk the journey of sickness and also face the loss of loved ones and agonies they have to face when issues of material resources arise, have made me aware of how much having knowledge about the law can assist one be prepared for crises and to reduce or prevent further crises upon crises. I am therefore hopeful that this topic being covered under SCCA pro bono program will bring real benefit to the participants. 
 
@@ -121,7 +121,7 @@ Synapxe Pte Ltd
 
 
 ## JEN XU XUEKUN
-<img src="/images/Amarjit%20Kaur.jpg" style="width:250px !important;">
+<img src="/images/SPEAKERS%20LAW2023/jen%20xu%20xuekun.png" style="width:250px !important;">
 
 Jen is currently inhouse legal at the Singapore office of a Swiss core banking software company, leading negotiations for new prospects for on-premises and SaaS deals across APAC &amp; MEA. Prior to the same, she has a varied experience spanning from general and specialised litigation to banking and finance as well as general corporate transactional advisory work (in particular, advising early-stage start-ups and on M&amp;A transactions). Given her language edge, she has also advised numerous Chinese clients on a variety of issues across her career.   
 
@@ -132,14 +132,14 @@ Avaloq Asia Pte. Ltd.
 
 
 ### DR JULIA LAM
-<img src="/images/Amarjit%20Kaur.jpg" style="width:250px !important;">
+<img src="/images/SPEAKERS%20LAW2023/dr%20julia%20lam.png" style="width:250px !important;">
 
 Dr Julia CY Lam, DPsych, currently serves as an Advisor on the board of One Hope Centre, a charity that provides counselling for persons with behavioural addictions such as gambling and spending addictions. She is also a Consultant Forensic Psychologist at Forensic Psych Services, a company she founded in May 2015. She specializes in forensic psychological assessment and provides reports on medico-legal issues for Court purposes. A scientist-practitioner, she has worked in universities, hospitals, prisons and correction services, gambling treatment facilities and private clinics. She has been a pioneer in forensic-clinical work in the private sector of Singapore since 2009.Julia CY Lam, DPsych, is a Consultant Forensic Psychologist at Forensic Psych Services, a company she founded in May 2015. She specializes in forensic psychological assessment and provides reports on medico-legal issues for Court purposes. A scientist-practitioner, she has worked in universities, hospitals, prisons and correction services, gambling treatment facilities and private clinics. She has been a pioneer in forensic-clinical work in the private sector of Singapore since 2009.
 
 
 
 ### JULIA LEE
-<img src="/images/Amarjit%20Kaur.jpg" style="width:250px !important;">
+<img src="/images/SPEAKERS%20LAW2023/julia%20lee.png" style="width:250px !important;">
 
 Julia holds a Masters in Health Science (Gerontology) and a BA in Social Work. She is a registered social worker with over 30 years of experience in the field of eldercare. She pioneered the Home Care and Senior Activity Centre services at TOUCH. She was also national winner of the Outstanding Social Worker Award in 2014. 
  
@@ -147,14 +147,14 @@ Today, she serves in TOUCH Community Services as Senior Director for Social Work
 
 
 ### JUNE LIM
-<img src="/images/Amarjit%20Kaur.jpg" style="width:250px !important;">
+<img src="/images/SPEAKERS%20LAW2023/june%20lim.png" style="width:250px !important;">
 
 June is the Managing Director of Eden Law Corporation, a low bono private law firm committed to providing competent and affordable legal representation to clients of modest means and underprivileged communities throughout Singapore. She has a keen interest in matrimonial matters involving child abductions/relocations and foreign wives living in and outside of Singapore. June volunteers with LSPBS' Criminal Legal Aid Scheme, the Legal Aid Bureau and Community Justice Centre.
 
 
 
 ### KRISTINE LAM
-<img src="/images/Amarjit%20Kaur.jpg" style="width:250px !important;">
+<img src="/images/SPEAKERS%20LAW2023/kristine%20lam.png" style="width:250px !important;">
 
 Kristine graduated from the National University of Singapore with a Bachelor of Arts degree majoring in Social Work. She joined Care Corner Family Service Centre (Queenstown) in 2012 and is currently an accredited Registered Social Worker (RSW) with the Social Work Accreditation Board, Singapore.
 
@@ -167,7 +167,7 @@ Currently, she is leading the Care Corner Youth Services under children and yout
 
 
 ### LIM LEI THENG
-<img src="/images/Amarjit%20Kaur.jpg" style="width:250px !important;">
+<img src="/images/SPEAKERS%20LAW2023/lim%20lei%20theng.png" style="width:250px !important;">
 
 Lei Theng is Co-Head of Allen &amp; Gledhill‘s Pro Bono programme.
 Lei Theng has been recognised for her volunteer contributions to the Legal Aid Bureau, the State Courts and various charities. She has been involved in the development of numerous innovative and sustainable pro bono opportunities that provide high quality legal services to individuals, families, communities and charities. Lei Theng was also instrumental in the setting up of the National University of Singapore’s Pro Bono Office in 2014, and she was appointed founding Co-Director of the NUS Centre for Pro Bono &amp; Clinical Legal Education in 2017, a post she held until June 2020.
@@ -175,7 +175,7 @@ Lei Theng is also a mediator, having been a Principal Mediator with the Singapor
 
 
 ### LIM LIYEN
-<img src="/images/Amarjit%20Kaur.jpg" style="width:250px !important;">
+<img src="/images/SPEAKERS%20LAW2023/lim%20liyen.png" style="width:250px !important;">
 
 As a volunteer at Pro Bono SG since October 2017, Liyen has assisted in the development of content and has moderated legal webinars on a variety of topics.  It is a project she greatly enjoys being a part of.  Liyen was called to the Singapore bar in 2000.  She practiced as a corporate/commercial lawyer for about 3 years before joining Siemens Pte Ltd as in-house legal counsel.  She has two teenage children.
 
