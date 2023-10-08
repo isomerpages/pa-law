@@ -4,11 +4,23 @@ permalink: /2023/speakers/
 description: ""
 third_nav_title: "2023"
 ---
-### Dr Adaline Lam
+### Dr Adeline Lam
 
 <img src="/images/dr%20adeline%20lam.png" style="width:250px !important;">
 
 Dr Lam Is the Senior consultant in the Department of General Medicine and Clinical Co-lead ACP team at Tan Tock Seng Hospital. She is also a member of the Advance Care Planning Steering Committee of Singapore.
+
+### Ahmad Nizam Abbas
+
+<img src="/images/dr%20adeline%20lam.png" style="width:250px !important;">
+
+Ahmad Nizam Abbas was admitted as an Advocate and Solicitor of the Supreme Court of Singapore in January 1994. In 2013, he obtained a Master of Laws in Islamic Law and Finance from the Singapore Management University. He is the Founder and Managing Director of Crescent Law Chambers.&nbsp;
+
+Ahmad Nizam has published several articles on Muslim law in Singapore, in particular jurisdictional issues between the civil courts ( Family Justice Court) and Syariah Court . In October 2022, a book he co-authored entitled ‘Muslim Family Law in Singapore’ (Academy Publishing)was launched by a High Court judge . He is the co-creator of the module on Muslim Family Law at the Singapore University of Social Sciences and have spoken at various conferences organised by National University of Singapore and Singapore Management University.&nbsp;&nbsp;&nbsp;
+
+Ahmad is active in community and social work and has been involved at diverse organizations such as Central Singapore CDC, MUIS and Mendaki .He has held leadership positions as the Chairman of TRANS Family Services Centre and President of Mendaki Club.
+
+For his services in community work, Ahmad was awarded the PBM (Pingat Bakti Masyarakat or Public Service Medal) from the President of Singapore during the 2007 National Day Awards.
 
 
 ### Amarjit Kaur
