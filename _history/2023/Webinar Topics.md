@@ -86,7 +86,7 @@ This webinar is brought to you by LawWorks – a collaboration between the Natio
 ### Syariah Divorce and Related Matters
 
 **Monday, 4 November 2023, 7.30pm – 9.00pm**
-![](/images/so%20you%20want%20to%20be%20%20a%20social%20media%20influencer.png)
+![20231106 Syariah Divorce and Related Matters](/images/20231106%20syariah%20divorce%20and%20related%20matters.png)
 
 Looking to explore the unique challenges and empowering strategies within the context of a Syariah divorce? Unsure of how to navigate the intricate processes of the Syariah Court?
   
@@ -98,7 +98,7 @@ Join our moderator, Amira Budiyano (Attorney, Kyndryl) and speakers, Ahmad Nizam
 ### Protect Yourself - How to Spot and Avoid Scams
 
 **Tuesday, 7 November 2023, 7.00pm – 8.30pm**
-![](/images/NEIGHBOUR%20OR%20FOE_.png)
+![20231107 Protect Yourself - How to Spot and Avoid Scams](/images/20231107%20protect%20yourself%20-%20how%20to%20spot%20and%20avoid%20scams.png)
 
 Don't become another victim of scams! Unsure on how to protect yourself from the ever-evolving world of scams and fraud? In today's digital age, scams can lurk around every corner, targeting unsuspecting individuals with cunning tactics and sophisticated schemes.&nbsp;
 
@@ -110,8 +110,7 @@ Join our moderator, Eunice Chua (Chief Executive Officer, FIDReC) and speakers, 
 ### Perceraian di Mahkamah Syariah dan hal berkaitan dengannya
 
 **Wednesday, 8 November 2023, 7.30pm – 9.00pm**
-![](/images/Legal%20Considerations%20for%20Caregivers.png)
-
+![20231108 Perceraian syariah dan perkara berkaitan](/images/20231108%20perceraian%20syariah%20dan%20perkara%20berkaitan.png)
 Ingin ketahui tentang perkara-perkara yang berkaitan dengan perceraian di Mahkamah Syariah, seperti cabaran yang unik dan strategi yang membantu? Tidak pasti bagaimana untuk mengharungi proses yang rumit di Mahkamah Syariah?
 
 Sertai program kami di mana sekumpulan panel akan berkongsi maklumat terperinci mengenai proses perceraian di Mahkamah Syariah&nbsp;di Singapura, serta melengkapkan individu-individu&nbsp;yang ingin meneruskan proses itu tanpa representasi peguam&nbsp;dengan kemahiran untuk mengharungi proses perceraian dengan penuh keyakinan. Dapatkan pandangan tentang prinsip-prinsip Islam, hak perundangan, dan kesejahteraan emosi semasa melalui fasa kritikal ini&nbsp;dalam hidup anda.&nbsp;
