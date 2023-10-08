@@ -42,7 +42,7 @@ Amarjit has also been frequently interviewed by various media on current issues 
 
 
 ### AMIRA BUDIYANO
-<img src="/images/Amarjit%20Kaur.jpg" style="width:250px !important;">
+<img src="/images/amira%budiyano.png" style="width:250px !important;">
 
 Amira’s practice currently focuses on IP and technology, particularly data protection (DP). She has advised various educational institutions, associations, and other entities on DP obligations and has been involved in data breach investigations by the PDPC. Regarding other areas, her work includes amongst others, advising on IP strategy, commercialisation and other regulatory and technology-related issues. 
  
