@@ -59,11 +59,13 @@ Whether you are contemplating divorce, currently in the process, or starting ane
 **Tuesday, 31 October 2023, 7.00pm – 8.30pm**
 ![](/images/Harassment%20at%20the%20Workplace%20-%20%20is%20Help%20Available_.png)
 
-Have you ever been a victim of workplace harassment such as physical abuse, abusive behaviour, cyber bullying or sexual harassment? A recent study has shown that workplace bullying is increasingly prevalent in Singapore. Given the current economic uncertainty, many employees find themselves already facing harassment, termination or even retrenchment as businesses struggle to stay relevant and afloat.
+**
 
-Join us at this webinar with moderator Sarita Misir (Senior Associate, Baker McKenzie) , together with Patrick Tay (Assistant Secretary-General and Director of Legal, NTUC), and Amarjit Kaur (Partner, Withers KhattarWong), as they share real life examples, your legal rights, and how you can obtain assistance in such circumstances.
+Dealing with debt and creditors is a difficult matter to handle, for you, your loved ones, and your business. Sometimes, the process starts even more upstream when addiction could be the leading cause to getting into debt. We understand that it is not an easy conversation to have, but we are here to give you advice on how you and your loved ones can better navigate if caught in such a situation.&nbsp;
 
-<a href="https://us02web.zoom.us/webinar/register/7316613945196/WN_hH_2WyNlQcGCKY04JHz98A" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button" style="width:200px !important;"></a>
+Join our moderator, Samson Leo (Co-Founder &amp; Chief Legal Officer, Xfers/Fazz Financial Group) and speakers, Toh Wei Yi (Partner, Harry Elias Partnerships), Tan Huey Min (General Manager, Credit Counselling Singapore) and Dr Julia Lam (Advisor, One Hope Centre) as they discuss how you can handle this matter better and insights to help you gain a better grasp of this tough issue!
+
+<a href="https://us02web.zoom.us/webinar/register/7016887170596/WN\_PvU7S1odSK-mGF0VottPxw" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button" style="width:200px !important;"></a>
 <hr>
 
 ### Be CyberSafe!
