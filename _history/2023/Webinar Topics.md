@@ -148,8 +148,7 @@ Sama ada anda sedang mempertimbangkan untuk bercerai, ataupun&nbsp;sedang&nbsp;m
 ### Dealing with or Encountering Family Violence?
 
 **Wednesday, 15 November 2023, 7.00pm – 8.30pm**
-![](/images/Divorce%20&amp;%20You%20(Civil).png)
-
+![](/images/20231115%20dealing%20with%20or%20encountering%20family%20violence.png)
 Discover the startling statistics and hidden realities that exist behind closed doors as we shine a light on this pervasive problem on family violence. Learn how to identify warning signs and gain practical strategies for prevention, intervention, and support. By raising awareness and fostering understanding, we can empower individuals, families, and communities to take a stand against family violence.&nbsp;
 
 Join our moderator, Nadia Fernandopulle (Principal Legal Counsel, Robert Walters Group) and speakers, June Lim (Managing Director, Eden Law Corporation) and Kristine Lam (Principal Social Worker, Care Corner Singapore Ltd) as they provide invaluable insights into the root causes, dynamics, and impact of family violence, explore effective communication techniques, conflict resolution strategies, and resources available to break the cycle of abuse. Together, let's be the solution and create a safer, more compassionate world for everyone.
@@ -160,8 +159,7 @@ Join our moderator, Nadia Fernandopulle (Principal Legal Counsel, Robert Walters
 ### 关于遗嘱和临终事宜的高级法律规划
 
 **Monday, 20 November 2023, 7.00pm – 8.30pm**
-![](/images/Divorce%20&amp;%20You%20(Civil).png)
-
+![](/images/20231120%20关于遗嘱和临终事宜的高级法律规划.png)
 被遗嘱、ACP（预先护理计划）、AMD（预先医疗指示）和 LPA（持久授权书）等复杂的法律文件所淹没？加入我们，我们将通过信息丰富且引人入胜的会议为您揭开这些神秘面纱，该会议旨在为您提供必要的知识和工具，以保护您的资产并确保您的愿望得到兑现。
 
 在遗产规划和法律行业专家的带领下，本次网络研讨会将涵盖广泛的主题，包括制定综合遗嘱的重要性、理解遗产管理的复杂性以及利用 ACP、AMD 和 LPA 的力量指定受信任的个人代表您做出决定。
@@ -174,8 +172,7 @@ Join our moderator, Nadia Fernandopulle (Principal Legal Counsel, Robert Walters
 ### Advance Legal Planning on Wills and End-of-Life Matters
 
 **Monday, 27 November 2023, 7.00pm – 8.30pm**
-![](/images/Divorce%20&amp;%20You%20(Civil).png)
-
+![](/images/20231127%20advance%20legal%20planning%20on%20wills%20and%20end-of-life%20matters%20(webinar).png)
 Planning for your later years but not sure what to do? Concerned but unaware about what happens after the demise of a loved one? It’s never too early to plan ahead for the future. The most precious gift you can leave your family is peace of mind.
 
 Join our moderator, Ng Shu Ping (Head of Legal &amp; Compliance (Asia cluster), Group of companies providing workforce&nbsp;solutions) and speakers, Tan Shen Kiat (Managing Director, Kin &amp; Kith Law Corporation), Dr Adeline Lam (Senior Consultant for General Medicine and Clinical Co-Lead for ACP, Tan Tock Seng Hospital) and Julia Lee (Senior Director, TOUCH Community Services) as they share about a variety of legal tools you can use to ensure that your family is taken care of while your wishes are respected even after you are gone.
