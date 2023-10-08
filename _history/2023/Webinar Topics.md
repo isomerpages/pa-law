@@ -44,7 +44,7 @@ Whether you are contemplating divorce, currently in the process, or starting ane
 ### **离婚事宜和顾虑 - 监护、照顾和控制**
 
 **Monday, 30 October 2023, 7.00pm – 8.30pm**
-
+![20231030 离婚事宜和顾虑 -  监护、照顾和控制](/images/20231030%20离婚事宜和顾虑%20-%20%20监护、照顾和控制.png)
 
 当您尝试用力量和韧性驾驭民事离婚的复杂性时，发现一条变革性的前进道路。想要解锁有效沟通、财务规划和情绪治疗的实用策略？
 
