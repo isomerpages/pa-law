@@ -26,6 +26,8 @@ For his services in community work, Ahmad was awarded the PBM (Pingat Bakti Masy
 ### Amarjit Kaur
 
 <img src="/images/Amarjit%20Kaur.jpg" style="width:250px !important;">
+**
+
 Amarjit is a partner in the litigation and arbitration team, with a focus on employment matters.
 
 She is a commercial disputes lawyer who has acted in high-value and complex litigation and international arbitration matters.
