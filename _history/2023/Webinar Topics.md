@@ -68,51 +68,62 @@ Join our moderator, Samson Leo (Co-Founder &amp; Chief Legal Officer, Xfers/Fazz
 <a href="https://us02web.zoom.us/webinar/register/7016887170596/WN\_PvU7S1odSK-mGF0VottPxw" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button" style="width:200px !important;"></a>
 <hr>
 
-### Be CyberSafe!
+### What is Workplace Harassment and how do I deal with it?
 
-**Wednesday, 12 October 2022, 7.00pm – 8.30pm**
+**Wednesday, 1 November 2023, 7.00pm – 8.30pm**
 ![](/images/BE%20CYBERSAFE!.png)
 
-Are you worried about Cybersecurity and how your data is being handled? Organizations today are sitting on huge amounts of data and everyone is struggling to make sense of how their data is protected. What can organisations do to minimise cybersecurity risks especially given new work patterns which evolved as a result of the pandemic? What should you, as a consumer, expect of organisations? What can you do if you feel that your data has been misused or not treated properly? Our panel will discuss the common pitfalls in managing privacy risks as well as the implications and things to note when you face data and security breaches.
+Are you tired of feeling helpless when faced with workplace harassment?
 
-Join us as our moderator, Yos Pang (APJ Head of Legal, SNYK), and speakers, Jeffrey Lim (Director, Joyce A. Tan &amp; Partners LLC) and Genie Sugene Gan (Head of Public Policy &amp; Government Affairs, Asia-Pacific &amp; Middle-East, Turkey and Africa), as they discuss about the possible breaches as well as the legal remedies to prepare and activate.
+Do you yearn for a safe and respectful workplace where your potential can flourish?
+ 
+Are you ready to stand up, speak out, and champion positive change?
+ 
 
-<a href="https://us02web.zoom.us/webinar/register/6516613364959/WN_BrAnLKuMR8WgoBmLVys-7A" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button" style="width:200px !important;"></a>
+Uncertain on how to unravel the complexities of workplace harassment and wondering if there are practical strategies to confront and overcome it? Feel to the need to cultivate a culture of inclusivity and respect at your workplace, ensuring that every employee's rights are protected?&nbsp;
+Join our moderator, Serene Gan (Deputy Head of Legal, International Property Group) and speakers Amarjit Kaur (Partner, Withers KhatterWong) and Patrick Tay (Assistant Secretary-General, Director, Legal, NTUC) as they explore effective methods for preventing and addressing workplace discrimination and harassment, and learn how to implement robust policies that promote equality and diversity. Let’s create workplaces where fairness thrives, fosters employee engagement, productivity, and long-term success!  
+
+This webinar is brought to you by LawWorks – a collaboration between the National Trades Union Congress (NTUC) and Pro Bono SG.
+
+<a href="https://us02web.zoom.us/webinar/register/7016887170596/WN_9IRkzIf0SOyEnPKh_b05rQ" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button" style="width:200px !important;"></a>
 <hr>
 
-### So You Want to be a Social Media Influencer?
+### Syariah Divorce and Related Matters
 
-**Monday, 17 October 2022, 7.00pm – 8.30pm**
+**Monday, 4 November 2023, 7.30pm – 9.00pm**
 ![](/images/so%20you%20want%20to%20be%20%20a%20social%20media%20influencer.png)
 
-Are you a social media influencer? Or hope to garner more followers to become one? Are you just a frequent user of social media platforms?
+Looking to explore the unique challenges and empowering strategies within the context of a Syariah divorce? Unsure of how to navigate the intricate processes of the Syariah Court?
+  
+Join our moderator, Amira Budiyano (Attorney, Kyndryl) and speakers, Ahmad Nizam Abbas (Managing Director, Crescent Law Chambers) and Nurhafizah Syed (Assistant Senior Social Worker, PPIS As-Salaam, Divorce Support Specialist Agency) as they aim to provide a comprehensive understanding of the Syariah divorce process in Singapore and equip individuals proceeding with the process without legal representation with the tools to navigate it with confidence and resilience. Gain insights into Islamic principles, legal rights, and emotional well-being during this critical phase of your life. Whether you're considering or already undergoing a divorce under Syariah law, this webinar will empower you to make informed decisions and embrace a brighter future. Embark on a journey towards personal growth and emotional empowerment.**
 
-Join us as our moderator, Serene Gan (Senior Legal Counsel, International property Group) and speakers, Cho Pei Lin (Managing Director, APRW) and, Fong Wei Li (Managing Director, Forward Legal LLC), as they discuss about your legal rights on social media platforms and contractual rights when doing product placements for businesses. Also learn about what you legally can and cannot say or use, to keep yourself out of trouble! Stay informed!
-
-<a href="https://us02web.zoom.us/webinar/register/6516613364959/WN_ocDRLtsEQVeGzS07sfhd7A" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button" style="width:200px !important;"></a>
+<a href="https://us02web.zoom.us/webinar/register/7016887170596/WN_IeQkD7oKRY6ePYhHKSSYCw" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button" style="width:200px !important;"></a>
 <hr>
 
-### Neighbour or Foe?
+### Protect Yourself - How to Spot and Avoid Scams
 
-**Tuesday, 18 October 2022, 7.00pm – 8.30pm**
+**Tuesday, 7 November 2023, 7.00pm – 8.30pm**
 ![](/images/NEIGHBOUR%20OR%20FOE_.png)
-The pandemic has forced many of us to stay and work from home – but some of us may have found that working from home leads to greater tension with the neighbours.&nbsp; Statistically, neighbourly disputes have risen in number. How can such conflicts be resolved? Are there ways to fix these issues without going to Court? What if you know someone who has a dispute with his neighbor?
 
-Join us as our moderator, Kellyn Lee (Senior Associate, Drew &amp; Napier), and speakers, Gloria James (Head Lawyer, Gloria James-Civetta &amp; Co) and Katherine Yap (Master Mediator, Community Mediation Centre), as they share how such conflicts can be resolved amicably!&nbsp;
+Don't become another victim of scams! Unsure on how to protect yourself from the ever-evolving world of scams and fraud? In today's digital age, scams can lurk around every corner, targeting unsuspecting individuals with cunning tactics and sophisticated schemes.&nbsp;
 
-<a href="https://us02web.zoom.us/webinar/register/6516613364959/WN_186EGH8iRdCL2J0E6F5iEg" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button" style="width:200px !important;"></a>
+Join our moderator, Eunice Chua (Chief Executive Officer, FIDReC) and speakers, Yam Wern-Jhien (Director, Setia Law LLC) and Nicholas Aaron Khoo (Council Member, National Crime Prevention Council) as they aim to arm you with invaluable knowledge and practical strategies to identify, avoid, and combat scams effectively. From phishing emails and fake websites to investment fraud and identity theft, they will explore the most prevalent scams and share with you on how to recognise red flags before it is too late. Also discover powerful techniques to safeguard your personal and financial information, understand the psychology behind scams, and learn how to protect yourself, your loved ones, and your business from falling prey to deceptive practices.
+
+<a href="https://us02web.zoom.us/webinar/register/7016887170596/WN_n_io-o6aSvqC4KurCemytg" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button" style="width:200px !important;"></a>
 <hr>
 
-### Legal Considerations for Caregivers
+### Perceraian di Mahkamah Syariah dan hal berkaitan dengannya
 
-**Tuesday, 25 October 2022, 7.00pm – 8.30pm**
+**Wednesday, 8 November 2023, 7.30pm – 9.00pm**
 ![](/images/Legal%20Considerations%20for%20Caregivers.png)
 
-When your loved ones slowly loses his/her mental capacity or they get injured and needs constant care or have been born with medical conditions that requires your constant supervision? How will you manage to care for them while also protecting yourself, legally and emotionally.
+Ingin ketahui tentang perkara-perkara yang berkaitan dengan perceraian di Mahkamah Syariah, seperti cabaran yang unik dan strategi yang membantu? Tidak pasti bagaimana untuk mengharungi proses yang rumit di Mahkamah Syariah?
 
-Join us as our moderator, Lee Mei Zhen (Assistant VP, International Bank), and speakers, Dr Chen Shiling (TBC) and Peggy Sarah Yee (Director, PY Legal LLC) as they address topics like the role and responsibilities of caregivers, what legal instruments and process can be put in place to protect your loved one and yourself, the caregiver.
+Sertai program kami di mana sekumpulan panel akan berkongsi maklumat terperinci mengenai proses perceraian di Mahkamah Syariah&nbsp;di Singapura, serta melengkapkan individu-individu&nbsp;yang ingin meneruskan proses itu tanpa representasi peguam&nbsp;dengan kemahiran untuk mengharungi proses perceraian dengan penuh keyakinan. Dapatkan pandangan tentang prinsip-prinsip Islam, hak perundangan, dan kesejahteraan emosi semasa melalui fasa kritikal ini&nbsp;dalam hidup anda.&nbsp;
 
-<a href="https://us02web.zoom.us/webinar/register/6516613364959/WN_6S4ImJLZTVOlo6XLs1nPxQ" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button" style="width:200px !important;"></a>
+Sama ada anda sedang mempertimbangkan untuk bercerai, ataupun&nbsp;sedang&nbsp;melalui perceraian di Mahkamah Syariah, webinar ini boleh memperkasakan anda&nbsp;bagi membuat keputusan&nbsp;yang penuh informasimenuju masa depan yang lebih cerah. Mulakan perjalanan&nbsp;anda&nbsp;ke arah perkembangan kehidupan dan emosi yang lebih positif.
+
+<a href="https://us02web.zoom.us/webinar/register/7016887170596/WN_0FtkNF7eTgqgV9rCX4cWsQ" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button" style="width:200px !important;"></a>
 <hr>
 
 ### Help! I am a Victim of Online Harm!
