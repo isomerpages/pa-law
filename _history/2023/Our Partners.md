@@ -6,10 +6,8 @@ third_nav_title: "2023"
 ---
 Law Awareness Weeks @ CDC 2023 is brought to you by the five Community Development Council (CDC) and Pro Bono SG, in partnership with National University of Singapore Faculty of Law Centre for Pro Bono Clinical Legal Education, Singapore Management University Pro Bono Centre, Singapore University of Social Sciences School of Law and Singapore Corporate Counsel Association Pro Bono Chapter, supported by the People’s Association.
 
-## LAW@CDC 2023 Partners
-![](/images/ncpc%20nus%20pro%20bono.png)
 ## Webinar Collaborators
-![](/images/new%20partners%202022.png)
+![](/images/picture1.png)
 
 ## Community Development Councils
 
@@ -71,10 +69,6 @@ For more information, please visit[ https://www.suss.edu.sg/]( https://www.suss.
 
 ## The Singapore Corporate Counsel Association
 
-The Singapore Corporate Counsel Association Limited, is the national association serving the in-house community in Singapore. As connectivity is imperative to in-house lawyers in their day to day projects and tasks, to make sensible and important resolutions to the organization they serve, the SCCA aims to serve the needs of just that.
-
-Currently, the SCCA reaches out to over 3000 in-house counsel in Singapore and continues to grow its network and connections in the region and around the world with counsel ranging from 10,000 in APAC to 100,000 around the world.
-
-It prides in building reputable training programs, toolkits, competency frameworks and skills required by domestic and regional corporate lawyers and will continue to be committed in this endeavour.
+The Singapore Corporate Counsel Association Limited (“SCCA”) is the pioneer national organisation serving the in-house community in Singapore. It prides in building reputable regional training programs, leadership and industry conversations, legal counsel career toolkits, competency frameworks encompassing technical knowledge, skills, and the right attitude and character for corporate lawyers. SCCA Pro Bono Chapter aims to encourage volunteerism and the pro bono spirit among the in-house community.
 
 For more information, please visit [https://www.scca.org.sg/](https://www.scca.org.sg/)
