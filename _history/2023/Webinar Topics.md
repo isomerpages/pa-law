@@ -67,8 +67,7 @@ Join our moderator, Samson Leo (Co-Founder &amp; Chief Legal Officer, Xfers/Fazz
 ### What is Workplace Harassment and how do I deal with it?
 
 **Wednesday, 1 November 2023, 7.00pm – 8.30pm**
-![](/images/BE%20CYBERSAFE!.png)
-
+![20231101 What is Workplace Harassment and how do I deal with it](/images/20231101%20what%20is%20workplace%20harassment%20and%20how%20do%20i%20deal%20with%20it.png)
 Are you tired of feeling helpless when faced with workplace harassment?
 
 Do you yearn for a safe and respectful workplace where your potential can flourish?
