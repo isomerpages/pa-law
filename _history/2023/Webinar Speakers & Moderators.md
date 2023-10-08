@@ -181,13 +181,13 @@ As a volunteer at Pro Bono SG since October 2017, Liyen has assisted in the deve
 
 
 ### MARGARET YEOW
-<img src="/images/Amarjit%20Kaur.jpg" style="width:250px !important;">
+<img src="/images/SPEAKERS%20LAW2023/margret%20yeow.png" style="width:250px !important;">
 
 Margaret Yeow Tin Tin is a director of Hoh Law Corporation and head of their family Law department. She specialises in family related disputes for divorces, mental capacity and estate and probate conflicts. She is also a trainer with the Singapore Mediation Centre (SMC) for mediation and for Part B Law students in Mediation Advocacy. She is also an assessor and coach for mediation with the SMC. 
 
 
 ### MARJIANAH BINTE ABU BAKAR 
-<img src="/images/Amarjit%20Kaur.jpg" style="width:250px !important;">
+<img src="/images/SPEAKERS%20LAW2023/marjianah%20binte%20abu%20bakar.png" style="width:250px !important;">
 ‘
 Life is full of trials and tribulations, but each presents an opportunity for the individual to grow from strength to strength’ – a philosophy that guides the work and services offered at PPIS As-Salaam Family Support Centre, at the same time, serves as one of Marjianah’s favourite go-to quotes whenever she needs that gentle push to motivate her during tough days.
 
@@ -195,7 +195,7 @@ A social worker by training, Marjianah has been with PPIS As-Salaam when the age
 
 
 ### DR MARTIN WONG, PBM
-<img src="/images/Amarjit%20Kaur.jpg" style="width:250px !important;">
+<img src="/images/SPEAKERS%20LAW2023/dr%20martin%20wong.png" style="width:250px !important;">
 
 Dr Martin Wong, PBM, is an accomplished professional with a Doctoral degree in Business Administration from Southwest State University. With over 20 years of experience, he has made significant contributions to Singapore's community engagement and charitable sector.
 
@@ -209,7 +209,7 @@ With a steadfast commitment to serving the community and a passion for his field
 
 
 ### MELVIN LOH
-<img src="/images/Amarjit%20Kaur.jpg" style="width:250px !important;">
+<img src="/images/SPEAKERS%20LAW2023/melvin%20loh.png" style="width:250px !important;">
 
 Melvin is a Senior Lecturer with the School of Law, Singapore University of Social Sciences. He specializes in mediation and negotiation, as well as criminal law.
  
@@ -223,7 +223,7 @@ He is also a lifelong volunteer outside of his legal profession, giving time to 
 
 
 ### NADIA FERNANDOPULLE
-<img src="/images/Amarjit%20Kaur.jpg" style="width:250px !important;">
+<img src="/images/SPEAKERS%20LAW2023/nadia%20fernandopulle.png" style="width:250px !important;">
 
 Having completed her LLB in the UK and being called to the Bar as a member of Inner Temple in 2011, Nadia completed her Masters in Law specialising in Intellectual Property Law, returning to Sri Lanka thereafter to work at the Supreme Court as a clerk. Thereafter she completed her Attorneys-at-law in 2013.
  
@@ -236,13 +236,13 @@ In her free time, Nadia loves to travel with her husband, and enjoy unique food 
 
 ### NG SHU PING
 
-<img src="/images/Amarjit%20Kaur.jpg" style="width:250px !important;">
+<img src="/images/SPEAKERS%20LAW2023/ng%20shu%20ping.png" style="width:250px !important;">
 
 Shu Ping is a Legal and Compliance professional whose career path has given her a diverse experience across litigation and disputes, investigations, compliance and remediation in different industries and Fortune 500 companies. She is currently an in-house Legal Counsel managing a team across various Asia countries in the Legal &amp; Compliance department.
 
 
 ### NICHOLAS AARON KHOO
-<img src="/images/Amarjit%20Kaur.jpg" style="width:250px !important;">
+<img src="/images/SPEAKERS%20LAW2023/nicholas%20aaron%20khoo.png" style="width:250px !important;">
 
 With over 20 years of diverse experience, Nicholas has been a co-founder and board member in businesses, non profits, and government. Worked with Fortune 500 CEOs, headed up the region for an investor in digital-first education, Nicholas has also led a regional team for Visa supporting the biggest internet businesses like Tencent, Alibaba, Ctrip, and SEA manage their risks in digital transactions, serving on Visa's Asia Pacific Merchant Sales &amp; Solutions leadership. 
 
@@ -254,7 +254,7 @@ In 2018, Nicholas was honoured both as a Friend of the Ministry of Culture, Comm
 
 
 ### NURHAFIZAH SYED
-<img src="/images/Amarjit%20Kaur.jpg" style="width:250px !important;">
+<img src="/images/SPEAKERS%20LAW2023/nurhafizah%20syed.png" style="width:250px !important;">
 
 Helming the role as an Assistant Senior Social Worker at PPIS As-Salaam since 2019, Hafizah supports families – parents and children – who are going through divorce or have divorced, towards rebuilding their life after divorce. She does so by providing counselling support to affected family members, instilling positive messages, and reminding them that they are not alone. Hafizah also supervises the agency’s social work associates, ensuring they are supported as they professionally carry out their frontline roles in interacting with clients. 
 
@@ -264,13 +264,13 @@ Hafizah sees the beauty of growth at many different levels – individuals, fami
 
 
 ### PATRICK TAY
-<img src="/images/Amarjit%20Kaur.jpg" style="width:250px !important;">
+<img src="/images/SPEAKERS%20LAW2023/patrick%20tay.png" style="width:250px !important;">
 
 Patrick is the Assistant Secretary-General of NTUC and also Director of NTUC’s Legal Services and Strategy. Concurrently, he is an elected MP and member of the NTUC Central Committee. He chairs the Government Parliamentary Committee (GPC) for Education and is a member of the GPC for Law and Home Affairs. He has been representing the Labour Movement in all the tripartite workgroups to review/update employment and industrial relations legislation.
 
 
 ### PEGGY SARAH YEE
-<img src="/images/Amarjit%20Kaur.jpg" style="width:250px !important;">
+<img src="/images/SPEAKERS%20LAW2023/peggy%20sarah%20yee.png" style="width:250px !important;">
 
 Peggy is actively involved in various aspects of legal practice, acting for both multi-national, local and individual clients alike.​ She handles a broad spectrum of legal matters, in particular in the areas of Family and Civil Litigation, Real Estate Conveyancing, Probate and Estate and Corporate matters.​
 
@@ -278,14 +278,14 @@ Peggy is particularly interested and invested in Family Law matters. She conside
 
 
 ### PHILIP LIN SING MAN
-<img src="/images/Amarjit%20Kaur.jpg" style="width:250px !important;">
+<img src="/images/SPEAKERS%20LAW2023/philip%20man.png" style="width:250px !important;">
 
 Philip has been a part of the Marriott International legal team for over 10 years.  He oversees legal matters relating to development of hotels and other lodging facilities in certain regions in Asia.  He is also responsible for operations matters for Asia-Pacific (excluding China)  Prior to working with Marriott International, Philip worked in international law firms, where he specialized in M&amp;A, IPO and other corporate matters.
 
 
 ### RICHARD SIAW
 
-<img src="/images/Amarjit%20Kaur.jpg" style="width:250px !important;">
+<img src="/images/SPEAKERS%20LAW2023/richard%20siaw.png" style="width:250px !important;">
 
 Richard is the founder and current Managing Director of R. S. Solomon LLC, a full-service law practice in Singapore. His principal areas of practice are commercial litigation &amp; corporate advisory, criminal and family matters. He also advises high-net-worth clients on fanily offices and migration issues. 
  
@@ -295,7 +295,7 @@ Richard is frequently invited to give talks on a wide range of legal topics in p
 
 
 ### SAMSON LEO
-<img src="/images/Amarjit%20Kaur.jpg" style="width:250px !important;">
+<img src="/images/SPEAKERS%20LAW2023/samson%20leo.png" style="width:250px !important;">
 
 Samson Leo is currently the Chief Legal Officer of Fazz Financial Group and Xfers, which are both high-growth “Fintech 250” companies. Since his time as co-founder and Chief Legal Officer in Xfers, he has grown Xfers from a 3-person start-up to a regional company with more than 200 people across Singapore, Indonesia, Taiwan, Vietnam and Philippines. Today, he heads the Fazz Financial Group’s legal team of 6 legal counsels in Singapore &amp; Indonesia, and oversees the FFG Compliance committee consisting of senior compliance professionals and their team.
 
@@ -305,7 +305,7 @@ Samson’s compliance leadership was also recognised by the Minister of Home Aff
 
 
 ### SERENE GAN
-<img src="/images/Amarjit%20Kaur.jpg" style="width:250px !important;">
+<img src="/images/SPEAKERS%20LAW2023/serene%20gan.png" style="width:250px !important;">
 
 Serene is a senior regional legal counsel, qualified in Singapore and New York, with a background in Singapore and regional corporate work as well as commercial litigation. Serene provides practical legal advice to her clients, allowing them to capture business opportunities while effectively managing transactions, operations and on-the-ground legal risks. 
  
@@ -313,14 +313,14 @@ She is the board member of the Singapore Corporate Counsel Association and chair
 
 
 ### SUNIL RAI
-<img src="/images/Amarjit%20Kaur.jpg" style="width:250px !important;">
+<img src="/images/SPEAKERS%20LAW2023/sunil%20rai.png" style="width:250px !important;">
 
 Named as a Leading Individual by Legal500 for Startups and Venture Capital in 2023, Sunil Rai is a corporate lawyer who actively advises early-stage entities and venture-backed companies throughout their growth cycle, including issues related to incorporation, venture fundraising, corporate governance, commercial contracts, strategic partnerships, day-to-day operations, and M&amp;A transactions. 
 
 Sunil has also been volunteering with Community Mediation Centre and CASE since 2009 and he was appointed master mediator by CMC in 2022. Sunil is always grateful for the opportunity to resolve matters for fellow residents and the community through mediation. 
 
 ### TAN HUEY MIN
-<img src="/images/Amarjit%20Kaur.jpg" style="width:250px !important;">
+<img src="/images/SPEAKERS%20LAW2023/tan%20huey%20min.png" style="width:250px !important;">
 
 Huey Min is the Head of Agency of Credit Counselling Singapore. She started as a volunteer and is a founding member of Credit Counselling Singapore that was set up in 2004. 
  
@@ -330,14 +330,14 @@ Before joining CCS, Huey Min was a lecturer at Temasek Polytechnic, and she also
 
 
 ### TAN SHEN KIAT
-<img src="/images/Amarjit%20Kaur.jpg" style="width:250px !important;">
+<img src="/images/SPEAKERS%20LAW2023/tan%20shen%20kiat.png" style="width:250px !important;">
 
 Shen Kiat has often been described as a combination of a lawyer and social worker by those that he worked with. He believes sleep is often underrated, and he needs at least 8 hours to behave humanely for the day. He is a delighted co-founder of  Kith &amp; Kin Law Corporation - a dedicated STEM Law practice in estate planning and later-life planning with the mission to help healthy families stay strong.
 
 
 
 ### TOH WEI YI
-<img src="/images/Amarjit%20Kaur.jpg" style="width:250px !important;">
+<img src="/images/SPEAKERS%20LAW2023/toh%20wei%20yi.png" style="width:250px !important;">
 
 Wei Yi is partner at Harry Elias Partnership LLP, specialising in commercial litigation involving issues of contract, directors’ duties, shareholders’ disputes, employment, banking law, negligence and defamation. Her experience also includes a non-contentious aspect of advisory work pertaining to regulations and constitutions, statutory regulations, employment matters, commercial contracts and lease agreements.
  
@@ -346,7 +346,7 @@ She has been actively involved as a member of committees of the Law Society of S
 
 
 ### VICTORIA TING
-<img src="/images/Amarjit%20Kaur.jpg" style="width:250px !important;">
+<img src="/images/SPEAKERS%20LAW2023/victoria%20ting.png" style="width:250px !important;">
 
 Victoria is an Associate Director with Setia Law LLC, specialising in financial crime, fraud and investigations.  Prior to working at Setia Law, she was a Deputy Public Prosecutor with the Attorney-General’s Chambers of Singapore, where she handled multiple fraud, money-laundering and bribery prosecutions.  She graduated from Cambridge University and holds an LLM from Columbia Law School.
 
@@ -357,7 +357,7 @@ Setia Law LLC
 
 
 ### YAP TEONG LIANG
-<img src="/images/Amarjit%20Kaur.jpg" style="width:250px !important;">
+<img src="/images/SPEAKERS%20LAW2023/yap%20teong%20liang.png" style="width:250px !important;">
 
 Teong Liang was called to the Bar of England and Wales (Middle Temple) in 1991 and admitted as an Advocate &amp; Solicitor of the Supreme Court of Singapore in June 1992. On 10 June 2002, he set up his boutique law firm specialising in Family Law.
  
@@ -369,7 +369,7 @@ Teong Liang has presented papers at both local and overseas family law conferenc
 
 
 ### YAM WERN-JHIEN
-<img src="/images/Amarjit%20Kaur.jpg" style="width:250px !important;">
+<img src="/images/SPEAKERS%20LAW2023/yam%20wern-jhien.png" style="width:250px !important;">
 
 Wern-Jhien is a Director and Co-Founder of Setia Law LLC, a high-stakes dispute resolution and crisis management team in Singapore . 
  
@@ -379,7 +379,7 @@ With considerable advocacy experience, he has appeared at all levels of the Supr
 
 
 ### YEOW MING ZHEN
-<img src="/images/Amarjit%20Kaur.jpg" style="width:250px !important;">
+<img src="/images/SPEAKERS%20LAW2023/yeow%20ming%20zhen.png" style="width:250px !important;">
 
 Ms Yeow Ming Zhen is the Head of Strengthening Families Programme@Family Service Centre (FAM@FSC), under Methodist Welfare Services (MWS). 
 FAM@FSC programme is an initiative by Ministry of Social and Family Development (MSF) to support couples and families with family counselling, as well as divorce support programmes. 
