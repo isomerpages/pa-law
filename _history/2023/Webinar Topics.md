@@ -20,7 +20,7 @@ third_nav_title: "2023"
 ### Conflicts with Neighbours – can this be resolved?
 
 **Tuesday, 24 October 2023, 7.00pm – 8.30pm**
-![](/images/believe%20it%20or%20not!%20how%20to%20spot%20and%20avoid%20scams.png)
+![20231024 Conflicts with Neighbours – can this be resolved](/images/20231024%20conflicts%20with%20neighbours%20–%20can%20this%20be%20resolved.png)
 
 Are you tired of endless arguments over property boundaries, noisy gatherings, or unruly pets? Delve into a comprehensive exploration of mediation techniques, legal rights and responsibilities, and proactive communication approaches that can transform contentious relationships into harmonious coexistence. Uncover practical tips on addressing common disputes like noise disturbances, shared amenities, and property encroachments.
 <br>
