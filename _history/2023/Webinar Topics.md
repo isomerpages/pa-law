@@ -56,10 +56,7 @@ Whether you are contemplating divorce, currently in the process, or starting ane
 ### Dealing with Creditors
 
 **Tuesday, 31 October 2023, 7.00pm – 8.30pm**
-![](/images/Harassment%20at%20the%20Workplace%20-%20%20is%20Help%20Available_.png)
-
-**
-
+![20231031 Dealing with Creditors](/images/20231031%20dealing%20with%20creditors.png)
 Dealing with debt and creditors is a difficult matter to handle, for you, your loved ones, and your business. Sometimes, the process starts even more upstream when addiction could be the leading cause to getting into debt. We understand that it is not an easy conversation to have, but we are here to give you advice on how you and your loved ones can better navigate if caught in such a situation.&nbsp;
 
 Join our moderator, Samson Leo (Co-Founder &amp; Chief Legal Officer, Xfers/Fazz Financial Group) and speakers, Toh Wei Yi (Partner, Harry Elias Partnerships), Tan Huey Min (General Manager, Credit Counselling Singapore) and Dr Julia Lam (Advisor, One Hope Centre) as they discuss how you can handle this matter better and insights to help you gain a better grasp of this tough issue!
