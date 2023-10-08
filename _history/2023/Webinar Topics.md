@@ -123,7 +123,7 @@ Sama ada anda sedang mempertimbangkan untuk bercerai, ataupun&nbsp;sedang&nbsp;m
 ### 处理或遭遇家庭暴力？
 
 **Thursday, 9 November 2023, 7.00pm – 9.00pm**
-![](/images/HELP!%20%20I%20AM%20A%20VICTIM%20OF%20ONLINE%20HARMS!.png)
+![20231109 处理或遭遇家庭暴力？](/images/20231109%20处理或遭遇家庭暴力？.png)
 
 当我们揭示这个普遍存在的家庭暴力问题时，发现闭门造车后存在的惊人统计数据和隐藏的现实。了解如何识别警告信号并获得实用的预防、干预和支持策略。通过提高认识和促进理解，我们可以使个人、家庭和社区有能力反对家庭暴力。
 
@@ -136,7 +136,7 @@ Sama ada anda sedang mempertimbangkan untuk bercerai, ataupun&nbsp;sedang&nbsp;m
 ### 保护自己 — 如何发现和避免诈骗
 
 **Tuesday, 14 November 2023, 7.00pm – 8.30pm**
-![](/images/Divorce%20&amp;%20You%20(Civil).png)
+![](/images/20231114%20保护自己%20—%20如何发现和避免诈骗.png)
 
 不要成为诈骗的另一个受害者！不确定如何保护自己免受不断变化的诈骗和欺诈世界的侵害？在当今的数字时代，诈骗可能潜伏在每个角落，以狡猾的策略和复杂的计划针对毫无戒心的个人。
 
