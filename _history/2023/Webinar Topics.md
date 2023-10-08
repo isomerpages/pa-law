@@ -32,7 +32,7 @@ Join our moderator, Philip Lin Sing Man (Vice President and Senior Counsel, Marr
 ### Divorce Matters and Concerns - Custody, Care and Control
 
 **Wednesday, 25 October 2023, 7.00pm – 8.30pm**
-![](/images/preparing%20for%20golden%20years.png)
+![20231025 Divorce matters and concerns - Custody, Care and Control](/images/20231025%20divorce%20matters%20and%20concerns%20-%20custody,%20care%20and%20control.png)
 
 Discover a transformative path forward as you try to navigate the complexities of a civil divorce with strength and resilience. Looking to unlock practical strategies for effective communication, financial planning, and emotional healing?&nbsp;
 <br>
@@ -44,7 +44,7 @@ Whether you are contemplating divorce, currently in the process, or starting ane
 ### **离婚事宜和顾虑 - 监护、照顾和控制**
 
 **Monday, 30 October 2023, 7.00pm – 8.30pm**
-![](/images/ONLINE%20SHOPPING%20IS%20IT%20SAFE_.png)
+
 
 当您尝试用力量和韧性驾驭民事离婚的复杂性时，发现一条变革性的前进道路。想要解锁有效沟通、财务规划和情绪治疗的实用策略？
 
