@@ -4,14 +4,11 @@ permalink: /2023/speakers/
 description: ""
 third_nav_title: "2023"
 ---
-### Abigail Lee
+### Dr Adaline Lam
 
-<img src="/images/Abigail%20Lee.jpg" style="width:250px !important;">
-Abigail is the Executive Director of Healing Hearts Centre, and the current President of the Association for Play Therapy (Singapore).&nbsp;
+<img src="/images/dr%20adeline%20lam.png" style="width:250px !important;">
 
-With close to 15 years of experience as a counsellor, play therapist, supervisor and trainer, Abigail works with children, adolescents, individuals and families who have experienced trauma, abuse and anxiety issues.&nbsp;
-
-She is a Certified Circle of Security Facilitator with Circle of Security International and a Certified TraumaPlay therapist and supervisor. In addition, she is appointed by the Family Justice Courts as a Parenting Coordinator and by the Singapore Mediation Centre as a Collaborative Family Practice Counsellor to work with families undergoing separation and divorce.
+Dr Lam Is the Senior consultant in the Department of General Medicine and Clinical Co-lead ACP team at Tan Tock Seng Hospital. She is also a member of the Advance Care Planning Steering Committee of Singapore.
 
 
 ### Amarjit Kaur
