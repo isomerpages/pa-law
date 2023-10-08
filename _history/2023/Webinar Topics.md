@@ -126,30 +126,69 @@ Sama ada anda sedang mempertimbangkan untuk bercerai, ataupun&nbsp;sedang&nbsp;m
 <a href="https://us02web.zoom.us/webinar/register/7016887170596/WN_0FtkNF7eTgqgV9rCX4cWsQ" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button" style="width:200px !important;"></a>
 <hr>
 
-### Help! I am a Victim of Online Harm!
+### 处理或遭遇家庭暴力？
 
-**Wednesday, 26 October 2022, 7.00pm – 8.30pm**
+**Thursday, 9 November 2023, 7.00pm – 9.00pm**
 ![](/images/HELP!%20%20I%20AM%20A%20VICTIM%20OF%20ONLINE%20HARMS!.png)
 
-Is someone defaming you online or perhaps sharing intimate photos or videos of you? Do you know someone who is being stalked or harassed online? Whether you are in one of these situations or want to know what can be done if you ever need to support someone, join us for this informative discussion!
+当我们揭示这个普遍存在的家庭暴力问题时，发现闭门造车后存在的惊人统计数据和隐藏的现实。了解如何识别警告信号并获得实用的预防、干预和支持策略。通过提高认识和促进理解，我们可以使个人、家庭和社区有能力反对家庭暴力。
 
-Our moderator Derek Low (Contracts Negotiator, TotalEnergies) and speakers, Christine Tee (Partner, Allen &amp; Gledhill) and Simran Kuar Toor (CEO, S.H.E. Ltd) will address topics such as cyberbullying, harassment, repeated unwanted contact, impersonation, stalking, defamation, doxxing and technologically-facilitated sexual violence, with a focus on explaining the legal remedies that are available, and how to access them.
+  
+加入该小组，因为他们对家庭暴力的根本原因、动态和影响提供了宝贵的见解，探索有效的沟通技巧、冲突解决策略和可用于打破虐待循环的资源。让我们一起成为解决方案，为每个人创造一个更安全、更富有同情心的世界。
 
-<a href="https://us02web.zoom.us/webinar/register/6516613364959/WN_wvBwJBEwTRWfq8hJtKj3bg" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button" style="width:200px !important;"></a>
+<a href="https://us02web.zoom.us/webinar/register/7016887170596/WN_aq4pvjLSSvux8y373Qh8RA" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button" style="width:200px !important;"></a>
 <hr>
 
-### Divorce &amp; You (Civil)
+### 保护自己 — 如何发现和避免诈骗
 
-**Thursday, 27 October 2022, 7.00pm – 8.30pm**
+**Tuesday, 14 November 2023, 7.00pm – 8.30pm**
 ![](/images/Divorce%20&amp;%20You%20(Civil).png)
 
-The on-going pandemic has not only affected society at large, it has also affected families, perhaps especially for marriages. Spouses who find themselves in each other’s presence all day, every day, may learn some hard truths about their marriage.
+不要成为诈骗的另一个受害者！不确定如何保护自己免受不断变化的诈骗和欺诈世界的侵害？在当今的数字时代，诈骗可能潜伏在每个角落，以狡猾的策略和复杂的计划针对毫无戒心的个人。
 
-Has the experience given rise to some marital issues for you? Are you worried about your financial situation and your children?
+加入小组，因为他们旨在为您提供宝贵的知识和实用策略，以有效地识别、避免和打击诈骗。从网络钓鱼电子邮件和虚假网站到投资欺诈和身份盗窃，他们将探索最普遍的骗局，并与您分享如何在为时已晚之前识别危险信号。还可以发现保护您的个人和财务信息的强大技术，了解诈骗背后的心理，并学习如何保护您自己、您的亲人和您的企业免遭欺骗行为的侵害。
 
-Join our moderator Lim Liyen (Volunteer, LSPBS) and speakers, Yap Teong Liang (Director, T L Yap Law Chambers LLC) and Abigail Lee (Executive Director, Healing Hearts Centre), as they walk you through divorce proceedings, mediation and explore other options for couples facing marital disputes and discuss ancillary matters such as children’s welfare, maintenance, division of matrimonial assets and more.
-
-<a href="https://us02web.zoom.us/webinar/register/6516613364959/WN_ncSEE_rOTh2NtY-sd3KEgQ" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button" style="width:200px !important;"></a>
+<a href="https://us02web.zoom.us/webinar/register/7016887170596/WN_o_-1WKN3TkmItctOVQCc9A" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button" style="width:200px !important;"></a>
 <hr>
+
+### Dealing with or Encountering Family Violence?
+
+**Wednesday, 15 November 2023, 7.00pm – 8.30pm**
+![](/images/Divorce%20&amp;%20You%20(Civil).png)
+
+Discover the startling statistics and hidden realities that exist behind closed doors as we shine a light on this pervasive problem on family violence. Learn how to identify warning signs and gain practical strategies for prevention, intervention, and support. By raising awareness and fostering understanding, we can empower individuals, families, and communities to take a stand against family violence.&nbsp;
+
+Join our moderator, Nadia Fernandopulle (Principal Legal Counsel, Robert Walters Group) and speakers, June Lim (Managing Director, Eden Law Corporation) and Kristine Lam (Principal Social Worker, Care Corner Singapore Ltd) as they provide invaluable insights into the root causes, dynamics, and impact of family violence, explore effective communication techniques, conflict resolution strategies, and resources available to break the cycle of abuse. Together, let's be the solution and create a safer, more compassionate world for everyone.
+
+<a href="https://us02web.zoom.us/webinar/register/6516613364959/WN_186EGH8iRdCL2J0E6F5iEg" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button" style="width:200px !important;"></a>
+<hr>
+
+### 关于遗嘱和临终事宜的高级法律规划
+
+**Monday, 20 November 2023, 7.00pm – 8.30pm**
+![](/images/Divorce%20&amp;%20You%20(Civil).png)
+
+被遗嘱、ACP（预先护理计划）、AMD（预先医疗指示）和 LPA（持久授权书）等复杂的法律文件所淹没？加入我们，我们将通过信息丰富且引人入胜的会议为您揭开这些神秘面纱，该会议旨在为您提供必要的知识和工具，以保护您的资产并确保您的愿望得到兑现。
+
+在遗产规划和法律行业专家的带领下，本次网络研讨会将涵盖广泛的主题，包括制定综合遗嘱的重要性、理解遗产管理的复杂性以及利用 ACP、AMD 和 LPA 的力量指定受信任的个人代表您做出决定。
+
+无论您是希望开始遗产规划之旅的年轻专业人士，还是寻求更新现有安排的经验丰富的个人，请加入主持人 \[TBC\] 女士（指定）与 \[TBC\] 先生（指定）和 \[TBC\] 女士（指定）聊天因为它们可以帮助您清楚地了解各种法律文件，确保对子孙后代产生持久影响。踏上通往安全且受到良好保护的遗产之路。
+
+<a href="https://us02web.zoom.us/webinar/register/7016887170596/WN__guFlOUQRJGgZyw6NmWTJA" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button" style="width:200px !important;"></a>
+<hr>
+
+### Advance Legal Planning on Wills and End-of-Life Matters
+
+**Monday, 27 November 2023, 7.00pm – 8.30pm**
+![](/images/Divorce%20&amp;%20You%20(Civil).png)
+
+Planning for your later years but not sure what to do? Concerned but unaware about what happens after the demise of a loved one? It’s never too early to plan ahead for the future. The most precious gift you can leave your family is peace of mind.
+
+Join our moderator, Ng Shu Ping (Head of Legal &amp; Compliance (Asia cluster), Group of companies providing workforce&nbsp;solutions) and speakers, Tan Shen Kiat (Managing Director, Kin &amp; Kith Law Corporation), Dr Adeline Lam (Senior Consultant for General Medicine and Clinical Co-Lead for ACP, Tan Tock Seng Hospital) and Julia Lee (Senior Director, TOUCH Community Services) as they share about a variety of legal tools you can use to ensure that your family is taken care of while your wishes are respected even after you are gone.
+
+
+<a href="https://us02web.zoom.us/webinar/register/7016887170596/WN_VM9cV56zQwyuFTkqGwZQEw" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button" style="width:200px !important;"></a>
+<hr>
+
 
 [Back to Top](#webinar_page_top)
