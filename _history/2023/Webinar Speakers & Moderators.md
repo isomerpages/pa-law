@@ -26,7 +26,7 @@ For his services in community work, Ahmad was awarded the PBM (Pingat Bakti Masy
 ### Amarjit Kaur
 
 <img src="/images/Amarjit%20Kaur.jpg" style="width:250px !important;">
-**
+
 
 Amarjit is a partner in the litigation and arbitration team, with a focus on employment matters.
 
@@ -41,180 +41,300 @@ Amarjit is a frontrunner in training and performing cultural assessments on #MeT
 Amarjit has also been frequently interviewed by various media on current issues and matters relating to employment.
 
 
-### Dr Chen Shiling
-<img src="/images/Dr%20Chen%20Shiling.png" style="width:250px !important;">
-Dr Chen Shiling is a physician with special interests in dementia and adults with intellectual disability (ID). She is deeply passionate about improving the lives of both populations, and is currently working with Tsao Foundation and Khoo Teck Puat Hospital in providing care for both populations. She is also the founder of “Happee Hearts Movement”, which advocates and provides for the health needs of adults with ID. Dr Chen is currently a member of the Management Committee of Alzheimer's Disease Association (ADA) and also chairs their Programmes and Services Sub-Committee. She is also a member of the Residential and Community-based Care Services Committee in Movement for the Intellectually Disabled of Singapore (MINDS) and serves on their Healthcare Working Group. Dr Chen is also a member of the AWWA Programmes and Services Committee and also serves on the board of Mamre Oaks Ltd. She is also an appointed member of the Adult Protection Team (APT), Ministry of Social and Family Development.
+### AMIRA BUDIYANO
+Amira’s practice currently focuses on IP and technology, particularly data protection (DP). She has advised various educational institutions, associations, and other entities on DP obligations and has been involved in data breach investigations by the PDPC. Regarding other areas, her work includes amongst others, advising on IP strategy, commercialisation and other regulatory and technology-related issues. 
+ 
+Amira also continues to advise various Statutory Boards and other foundations and organisations on a plethora of legal matters, ranging from collaboration and procurement documentation, to other contractual and regulatory issues.
+ 
+She is regularly invited to speak on and provide her viewpoints on several occasions relating to range of matters including IP, DP, contracts, and on establishing businesses. 
 
 
-### Cho Pei Lin
-<img src="/images/Cho%20Pei%20Lin.jpg" style="width:250px !important;">
-Pei Lin&nbsp;is a pioneer in introducing Litigation PR to Singapore and her forte includes providing strategic PR consultancy in&nbsp;public affairs and&nbsp;public education&nbsp;campaign communications,&nbsp;corporate,&nbsp;litigation&nbsp;and&nbsp;crisis communications&nbsp;and&nbsp;government relations. Her strong acumen for developing creative and effective communication strategies has seen her sought after by clients ranging from government agencies, to global listed companies&nbsp;and&nbsp;non-profit organizations. Pei Lin is an accredited PR Practitioner of the Institute of Public Relations Singapore and has an Honours Bachelor of Law Degree from the National University of Singapore. She volunteers with various community and non-profit organizations.&nbsp;&nbsp;
 
-### Christine Tee
-<img src="/images/Christine%20Tee.jpg" style="width:250px !important;">
-Christine’s practice is in litigation and dispute resolution, with a focus on professional liability, employment and investigations.
-
-Christine regularly advises companies on a wide variety of dispute. She also advises and assists in corporate investigations into employee misconduct and wrongdoing.&nbsp; This includes investigations into breaches of anti-harassment policies, as well as unauthorised retention of confidential and proprietary information and data.
-
-Christine has acted as counsel in High Court Suits involving allegations of harassment by ex-employees, as well as counsel in POHA court proceedings.
+### ANDREW LEE
+Andrew is the Assistant General Counsel for a global education provider and was formerly an Associate Director at Drew &amp; Napier LLC. His passions lie in dispute resolution, employment, intellectual property, data protection and family law. He’s found volunteering with LSPBS particularly rewarding and fun and looks to continue in his free time.
 
 
-### Derek Low
-<img src="/images/Derek%20Low.jpg" style="width:250px !important;">
-Derek is currently a contracts negotiator with TotalEnergies, specializing in the law relating to international trading in oil and gas. As a former litigation lawyer, Derek has a keen interest in legal issues concerning the social compact of Singapore, and he keeps an eye out for new developments in fields such as Criminal Law, Family Law and new emerging areas such as harassment and personal data protection.
+### BERNARD CHOO CHEE WEE
+Mr Bernard Choo has been volunteering as a Council Member with the National Crime Prevention Council since 2018.
+ 
+In his day job, Mr Choo is the Editor for Shin Min Daily News.
 
-### Eunice Chua
-<img src="/images/Eunice%20Chua.jpg" style="width:250px !important;">
+
+### DR CHAU MO YEE
+Dr Chau Mo Yee is an Associate Consultant in Family Medicine and currently works at Tan Tock Seng Hospital and Dover Park. She has more than ten years of clinical experience in palliative care, including outpatient and inpatient services. She is also an Advance Care Planning coordinator, helping many patients and families embark on this important conversation. She has also been invited to share her knowledge on palliative care and advance care planning on various occasions. She believes it is crucial to raise public awareness of these issues so that people can plan earlier.
+
+周慕仪医生是一名家庭医学副顾问医生，现在任职于陈笃生医院和托福园。她拥有十余年的慈怀疗护的临床经验，包括门诊和住院服务。她也是一名预先护理计划协调员，协助不少病人和家属进行这个重要的对话。她也受邀在不同的场合分享关于慈怀疗护和预先护理计划的知识。她相信提高公众对这些课题的认知，好让人们能更早做出规划是至关重要的。
+
+周慕仪
+陈笃生医院慈怀护理部家庭医学科副顾问医生
+
+
+### ELAINE HO
+Elaine is senior legal counsel in a leading fintech. She spent 10 years in private practice, mostly in US white shoe firms, before transitioning in-house to trade finance legal roles in US based firms, then to her current role.
+
+
+
+### EUNICE CHUA
 Eunice is the Chief Executive Officer of FIDReC and a Research Fellow at the Singapore International Dispute Resolution Academy. She was previously an Assistant Professor of Law at the Singapore Management University School of Law and Deputy CEO of the Singapore International Mediation Centre. Eunice has also served as Assistant Registrar of the Supreme Court, and Magistrate of the State Courts. Her areas of expertise are dispute resolution, evidence and procedure.
 
-### Fong Wei Li
-<img src="/images/Fong%20Wei%20Li.jpg" style="width:250px !important;">
-Wei Li is the managing director of Forward Legal LLC – a small law firm specialising in Internet and social media law. He primarily practises litigation and arbitration, with a focus on media, Internet, and China-related matters. Wei Li also enjoys sharing his experience. He is an active member of the Law Awareness Committee and is often invited to conduct public talks and seminars aimed at promoting legal knowledge and awareness among laypersons. In addition to lawyering, Wei Li is an adjunct faculty member at the Singapore Management University’s YPH School of Law.
-
-### Genie Sugene Gan
-<img src="/images/Genie%20Gan.jpg" style="width:250px !important;">
-Genie heads up Kaspersky’s Public Affairs in the Asia-Pacific &amp; Middle-East, Turkey and Africa regions, where she is responsible for developing trusted relations with government and institutional stakeholders for the company, while integrating the business, communications and public policy strategies.
-
-She frequently speaks on international platforms and is a thought leader in topics surrounding public policy, and the intersection of technology and policy. She holds a JD, an honours degree in Accountancy, and a Specialist Diploma in Counselling Psychology. Called to the Singapore Bar, she is also Mediation Coach at the Singapore Mediation Centre, and a Mediator at the Singapore International Mediation Institute.
-
-Genie started her journeys in accountancy and law in Big Four Firms. Early on, she founded a successful start-up in the services industry before spending a significant time in Public Service as a government officer, taking on various portfolios such as Special Assistant to Minister(Law) and Singapore Delegate to the UN General Assembly, and Director at the Law Society.
-
-Outside her professional portfolio, her passion for teaching, non-profit and charity work has led her to be an adjunct lecturer at universities and serve on various Boards and Committees of Non-Profit Organizations and volunteer for pro bono legal causes.
 
 
-### Gloria James
-<img src="/images/Gloria%20James-Civetta.jpeg" style="width:250px !important;">
-Gloria has been a practising lawyer since 1996 and has gained considerable experience and knowledge in diverse areas of the law pertaining to Family Law, Criminal Law, Civil Law and Estate Law.
-
-In 2011, Gloria became a certified Associate Mediator at the State Courts of Singapore and the Singapore Mediation Centre under the joint training workshop.
-
-In 2014, Gloria attained certification in Mediating Disputes from the Harvard Mediation Program under the guidance of Professor Robert H. Mnookin. She also trained with Regent’s University of London under the guidance of Paul Randolph in the area of mediation coupled with psychotherapy and psychology.
-
-In 2015, Gloria underwent an intensive 40 hours Family Mediation Workshop jointly organized by the Singapore Mediation Centre and Erickson Mediation Institute. She was accredited as a Family Mediator in the Singapore Mediation Centre and Family Justice Courts of Singapore.
-
-With this training, she is capable of managing high conflict personalities in an intensive, emotional and volatile background. She is also able to empathise with, and provide emotional support to clients.
-
-### Halijah Mohamad
-<img src="/images/Halijah%20Mohamad.jpg" style="width:250px !important;">
-Halijah&nbsp;Mohamad graduated from National University of&nbsp;S’pore&nbsp;and was called to the bar in 1984. The focus of her practice is family law (in both civil and&nbsp;syariah&nbsp;courts). She is involved with various NGOs (including AWARE &amp; Muslim Financial Planning Association). She is now Vice President of&nbsp;S’pore&nbsp;Association of Women's Lawyers. She is a member of the Family Law&nbsp;Practice&nbsp;and Muslim Law&nbsp;Practice&nbsp;Committees in the Law Society.&nbsp;&nbsp;
-
-She is also part of&nbsp;Musawah&nbsp;(a global movement for equality in Muslim family). She had been involved in representations to Select Committee on several bills including Administration of Muslim Law Act, Women's Charter, Penal Code, and Maintenance of Parents Act.&nbsp; She contributed the chapter on Overview of Syariah law in family matters in the book LAW &amp; PRACTICE OF FAMILY LAW IN S’PORE published by Sweet &amp; Maxwell (2016).&nbsp;&nbsp;&nbsp;
+### FAITH PNG
+Faith Png is a social service practitioner in the community with more than 10 years of frontline and supervisory experience. She has had the privilege of companioning with gang-involved youths, caregivers of people living with dementia, vulnerable adults in mental health and frail elderly. 
+Faith has come to appreciate the importance of living well begins with self-compassion and leaving well begins with a honest conversation with one's self. She believes in working collaboratively with those who are in the process of making sense of their way of being in the world.
+ 
+方月云参与社会服务工作有10年以上的经验。她在社区护理服务对象曾经包括高危青少年、失智症患者与他们的看顾者、以及现在的健康问题患者和体弱的老年人。
+社会工作让月云渐渐领悟到乐活人生始于善待自己，而乐活今生则始于与自己的坦诚对话。她相信在认识自我的過程有一个人相随陪伴，互相合作真实可贵。
+Faith Png
+方月云
+Lead Social Worker
+资深社工
+Montfort Care
+蒙福关爱
 
 
-### Jeffrey Lim
-<img src="/images/Jeffrey%20Lim.jpg" style="width:250px !important;">
-Jeffrey Lim is a lawyer specialising in data governance, cybersecurity, privacy and artificial intelligence. His clients include global e-commerce multinationals and technology companies. He was in-house counsel at a global technology company where he managed a data privacy compliance program for East Asia, ANZ and India.
 
-Jeffrey is Chair of the Law Society’s Cybersecurity &amp; Data Protection Committee, and legal advisor to the Singapore Computer Society. He has written articles on data protection published by the PDPC and is the lead writer for legal chapter in the SCS-IMDA AI Ethics Body of Knowledge. He is a former chair of the Law Society’s Project Law Help Committee and remains active in pro bono work.
+### FOO MENG YEEN
+As a legal counsel in health technology fraternity, I have personal inclination to want to know more about health and its impact on individuals and families. This brings about also a keen interest on the consequences when health of any individual is no longer ablet to support continuation of the individual in living capacity. Questions asked of me by friends who have had to walk the journey of sickness and also face the loss of loved ones and agonies they have to face when issues of material resources arise, have made me aware of how much having knowledge about the law can assist one be prepared for crises and to reduce or prevent further crises upon crises. I am therefore hopeful that this topic being covered under SCCA pro bono program will bring real benefit to the participants. 
 
-
-### Jerrick Lim
-<img src="/images/Jerrick%20Lim.jpg" style="width:250px !important;">
-Jerrick is a Senior Legal Counsel in the healthcare sector, focussed on developing start-ups that have global reach. Jerrick has previously had experiences in the travel, logistics and the insurance industry. He has ongoing interest in ensuring access to justice, and mentoring the next generation of legal professionals.
+傅明音
+Senior Legal Counsel 
+法务顾问
+Synapxe Pte Ltd
 
 
-### Katherine Yap
-<img src="/images/Katherine%20Yap.jpeg" style="width:250px !important;">
-Katherine Yap was one of the pioneer visionaries who spearheaded the establishment of Maxwell Chambers in Singapore. She also championed the expansion of Maxwell Chambers new building premise, Maxwell Chambers Suites, in August 2019. Katherine also jointly led Maxwell Chambers through the co-founding of the IACA (International Arbitration Centre Alliance), advocating the use of virtual and hybrid ADR hearings globally. 
 
-Fore fronting all facets of the business, Katherine has over 13 years of experience driving sales growth, leading transformation and advocating innovation in the ADR arena. Her tenacity has attributed to the successful advancement and stronghold that Maxwell Chambers continues to hold across the ADR landscape. 
+## JEN XU XUEKUN
+Jen is currently inhouse legal at the Singapore office of a Swiss core banking software company, leading negotiations for new prospects for on-premises and SaaS deals across APAC &amp; MEA. Prior to the same, she has a varied experience spanning from general and specialised litigation to banking and finance as well as general corporate transactional advisory work (in particular, advising early-stage start-ups and on M&amp;A transactions). Given her language edge, she has also advised numerous Chinese clients on a variety of issues across her career.   
 
-Katherine further adds to her comprehensive portfolio in the ADR landscape through her certification as an Associate Mediator at the Singapore Mediation Centre, Master Mediator for the Community Mediation Centre and Mediator for the Singapore International Mediation Institution. She is also on the Panel of Mediators with Beihai Asia International Arbitration Centre and Executive Committee of the Society of Mediation Professionals (Singapore). She has over 9 years of experience in Mediation and actively presides over mediation cases with the CMC. 
-
-
-### Kellyn Lee
-<img src="/images/Kellyn%20Lee.jpg" style="width:250px !important;">
-Kellyn is a Senior Associate in the Dispute Resolution department at Drew &amp; Napier LLC. In addition to holding a Juris Doctor degree from Singapore Management University, she also holds a Bachelor of Social Sciences (Honours) from the National University of Singapore in Communications and New Media, with a specialisation in communication and risk management. She is a member of the Law Awareness Committee and has been actively involved in legal awareness and outreach efforts since her law school days.
+徐雪琨
+法律顾问
+Avaloq Asia Pte. Ltd.
 
 
-### Lee Mei Zhen
-<img src="/images/Lee%20Mei%20Zhen.jpeg" style="width:250px !important;">
-Mei Zhen is called to the Singapore Bar and is currently an in-house counsel.
+
+### DR JULIA LAM
+Dr Julia CY Lam, DPsych, currently serves as an Advisor on the board of One Hope Centre, a charity that provides counselling for persons with behavioural addictions such as gambling and spending addictions. She is also a Consultant Forensic Psychologist at Forensic Psych Services, a company she founded in May 2015. She specializes in forensic psychological assessment and provides reports on medico-legal issues for Court purposes. A scientist-practitioner, she has worked in universities, hospitals, prisons and correction services, gambling treatment facilities and private clinics. She has been a pioneer in forensic-clinical work in the private sector of Singapore since 2009.Julia CY Lam, DPsych, is a Consultant Forensic Psychologist at Forensic Psych Services, a company she founded in May 2015. She specializes in forensic psychological assessment and provides reports on medico-legal issues for Court purposes. A scientist-practitioner, she has worked in universities, hospitals, prisons and correction services, gambling treatment facilities and private clinics. She has been a pioneer in forensic-clinical work in the private sector of Singapore since 2009.
 
 
-### Lim Liyen
-<img src="/images/Lim%20Liyen.jpg" style="width:250px !important;">
-As a volunteer at Law Society Pro Bono Services (LSPBS) since October 2017, Liyen has assisted in the development of materials for Law Awareness talks, and helping with LSPBS’s annual fundraising gala and the Annual Report.&nbsp; Recently, she has had the opportunity to create content for and host legal webinars on a variety of topics.&nbsp; It is a project she greatly enjoys being a part of.&nbsp; Liyen was called to the bar in 2000.&nbsp; She practiced as a corporate commercial lawyer for about 2 years, assisting in both High Court and Subordinate Court cases, before joining Siemens Pte Ltd as in-house counsel from 2003-2005.&nbsp; She has two teenage children.
+
+### JULIA LEE
+Julia holds a Masters in Health Science (Gerontology) and a BA in Social Work. She is a registered social worker with over 30 years of experience in the field of eldercare. She pioneered the Home Care and Senior Activity Centre services at TOUCH. She was also national winner of the Outstanding Social Worker Award in 2014. 
+ 
+Today, she serves in TOUCH Community Services as Senior Director for Social Work and Programme Development, and Professional Deputy &amp; Donee. 
 
 
-### Nicholas Khoo
-<img src="/images/Nicholas%20Aaron%20Khoo.jpeg" style="width:250px !important;">
-With over 20 years of diverse experience, Nicholas has been a co-founder and board member in businesses, non profits, and government. Worked with Fortune 500 CEOs, headed up the region for an investor in digital-first education, Nicholas has also led a regional team for Visa supporting the biggest internet businesses like Tencent, Alibaba, Ctrip, and SEA manage their risks in digital transactions, serving on Visa's Asia Pacific Merchant Sales &amp; Solutions leadership.
+### JUNE LIM
+June is the Managing Director of Eden Law Corporation, a low bono private law firm committed to providing competent and affordable legal representation to clients of modest means and underprivileged communities throughout Singapore. She has a keen interest in matrimonial matters involving child abductions/relocations and foreign wives living in and outside of Singapore. June volunteers with LSPBS' Criminal Legal Aid Scheme, the Legal Aid Bureau and Community Justice Centre.
 
-Nicholas has also provided leadership to major esports events (including a number of world championships) that have reached more than 500 million gamers globally. Nicholas has chaired multiple national initiatives, including one with the Ministry of Education to have students reimagine education and work for Singapore’s next 50 years as well as an official ASEAN youth event. Nicholas has also been invited to judge an Innovator Awards in Silicon Valley, the ASEAN Youth Creative Industry Fair and led a national delegation to the Nanjing Youth Olympics on the invitation of China’s Vice Premier. He was also invited by Chinese Leaders to share the stage with key global leaders at the Wuzhen Summit.
+
+
+KRISTINE LAM
+Kristine graduated from the National University of Singapore with a Bachelor of Arts degree majoring in Social Work. She joined Care Corner Family Service Centre (Queenstown) in 2012 and is currently an accredited Registered Social Worker (RSW) with the Social Work Accreditation Board, Singapore.
+
+As a social worker, Kristine works with families who are faced with issues relating to financial difficulties, single parenthood, mental well-being issues, family violence among others. Kristine’s special interest area lies in protection work with individuals and families. In 2013, she embarked on work at Care Corner Project StART, one of the three protection specialist agencies (PSC) in Singapore. During her service at Project StART, she oversaw a part of the service planning, development and implementation of the agency and supervision of social work staff, which serves over 400 individuals experiencing the issues of family violence. In 2021, she also oversaw the piloting of Sexual Violence Recovery Programme which is now mainstreamed as a core programme for the PSCs in end 2021. Kristine has also represented Care Corner Project StART in multiple inter-agency platforms. She was involved in multiple terms of Family Violence Working Group and is currently chairing the Clementi FVWG. She also supported in the discussion of the Family Violence Task Force 2021 and the rolling out of the recommendations that follow. She was also involved in the development, publicity and training of the use of the Structured Decision Making (SDM) guide with Child Protective Services and was involved in the development of a similar SDM with Adult Protective Services in 2021 to 2022. 
+
+Besides her frontline role in crisis management and working with victims and perpetrators of family violence, Kristine also contributes towards developing social workers' practice competencies related to family violence and family protection. To date, Kristine has successfully trained social workers, police officers, public servants and grassroots leaders. She is also a trainer with the Social Service Institute and the Family Resource and Training Centre.
+
+In 2016, Kristine was awarded National Family Violence Dialogue Group Appreciation Award. In 2017, she was awarded Promising Social Worker Award by the President, Madam Halimah Yacob. In 2023, she was awarded MSF Community Cares Award. 
+Currently, she is leading the Care Corner Youth Services under children and youth service service group, which serves youth ages 8 to 21 who are experiencing issues such as poverty, family violence and neglect, poor relations with school and home, emotional issues, school absenteeism, school dropout, runaway from home, early sexualisation and issues with law infringement. 
+
+
+
+LIM LEI THENG
+Lei Theng is Co-Head of Allen &amp; Gledhill‘s Pro Bono programme.
+Lei Theng has been recognised for her volunteer contributions to the Legal Aid Bureau, the State Courts and various charities. She has been involved in the development of numerous innovative and sustainable pro bono opportunities that provide high quality legal services to individuals, families, communities and charities. Lei Theng was also instrumental in the setting up of the National University of Singapore’s Pro Bono Office in 2014, and she was appointed founding Co-Director of the NUS Centre for Pro Bono &amp; Clinical Legal Education in 2017, a post she held until June 2020.
+Lei Theng is also a mediator, having been a Principal Mediator with the Singapore Mediation Centre since 1997.
+
+
+LIM LIYEN
+As a volunteer at Pro Bono SG since October 2017, Liyen has assisted in the development of content and has moderated legal webinars on a variety of topics.  It is a project she greatly enjoys being a part of.  Liyen was called to the Singapore bar in 2000.  She practiced as a corporate/commercial lawyer for about 3 years before joining Siemens Pte Ltd as in-house legal counsel.  She has two teenage children.
+
+
+
+
+MARGARET YEOW
+Margaret Yeow Tin Tin is a director of Hoh Law Corporation and head of their family Law department. She specialises in family related disputes for divorces, mental capacity and estate and probate conflicts. She is also a trainer with the Singapore Mediation Centre (SMC) for mediation and for Part B Law students in Mediation Advocacy. She is also an assessor and coach for mediation with the SMC. 
+
+
+
+MARJIANAH BINTE ABU BAKAR 
+‘Life is full of trials and tribulations, but each presents an opportunity for the individual to grow from strength to strength’ – a philosophy that guides the work and services offered at PPIS As-Salaam Family Support Centre, at the same time, serves as one of Marjianah’s favourite go-to quotes whenever she needs that gentle push to motivate her during tough days.
+
+A social worker by training, Marjianah has been with PPIS As-Salaam when the agency was known to serve single-parent families due to divorce, passing on of a spouse, or unwed pregnancy. The agency's appointment by the Ministry of Social and Family Development (MSF) in 2015 as a Divorce Support Specialist Agency allows her to deepen further and widen her specialization in supporting divorcing or recently divorced families. It is complex yet needed support as the different family members try to adjust to the chaos and challenges of divorce. Marjianah and her team of professionals at PPIS As-Salaam reach out to parents and children therapeutically in counselling sessions and impart valuable tips on co-parenting and self-care messaging after divorce in workshops and public outreach events.
+
+
+
+
+DR MARTIN WONG, PBM
+Dr Martin Wong, PBM, is an accomplished professional with a Doctoral degree in Business Administration from Southwest State University. With over 20 years of experience, he has made significant contributions to Singapore's community engagement and charitable sector.
+
+Aside from managing a successful mushroom farming business in China, Dr Wong has actively participated in various esteemed organizations, including the Community Mediation Centre, Industrial and Services Co-operative Society, Ministry of Law, Ministry of Social and Family Development, and more. Notably, he serves as President of Xin Yuan Comcare Ltd, a distinguished charity dedicated to supporting disadvantaged seniors and children in Singapore.
+
+In 2016, Dr Wong was honored with the prestigious Pingat Bakti Masyarakat public service medal by the President of Singapore for his exceptional dedication and achievements in public service.
+
+Beyond his philanthropic endeavors, Dr Wong is an accomplished writer and researcher. He has authored four books that have been well-received and can be found in public libraries in Singapore.
+
+With a steadfast commitment to serving the community and a passion for his field of interest, Dr Martin Wong, PBM, is a respected and integral figure in Singapore's social landscape. He can be contacted at martinmwong@xinyuan.org.sg.
+
+
+
+MELVIN LOH
+Melvin is a Senior Lecturer with the School of Law, Singapore University of Social Sciences. He specializes in mediation and negotiation, as well as criminal law.
+ 
+An active volunteer at heart, Melvin assists as an advocate and solicitor with various pro bono initiatives of the Law Society of Singapore, which include the Criminal Legal Scheme (“CLAS”), Community Legal Clinics (“CLC”) and Legal Aid Bureau matters. Melvin also provides representation in matters through the Legal Assistance Scheme for Capital Offences (“LASCO”).
+ 
+He is an Executive Committee member with the Mediation Committee of the Law Society of Singapore, as well as the CLAS and the CLC Committee of Pro Bono SG.
+ 
+Melvin is a Certified Mediator with the Singapore International Mediation Institute and an empaneled Associate Mediator with the Singapore Mediation Centre. With over a decade of experience, he has mediated a vast spectrum of cases both inside and outside the Courts, including criminal, family, commercial, real estate amongst others. He is a professional international trainer in mediation and other skills-based modules. 
+ 
+He is also a lifelong volunteer outside of his legal profession, giving time to help with various causes such as with at-risk families, youth, and foreign workers.
+
+
+
+NADIA FERNANDOPULLE
+Having completed her LLB in the UK and being called to the Bar as a member of Inner Temple in 2011, Nadia completed her Masters in Law specialising in Intellectual Property Law, returning to Sri Lanka thereafter to work at the Supreme Court as a clerk. Thereafter she completed her Attorneys-at-law in 2013.
+ 
+On completing her training as a lawyer, Nadia joined MAS Holdings (Pvt) Ltd. as a Legal Counsel focused on Corporate Governance, Compliance, IP Law and Commercial contract negotiations.
+ 
+In 2018 Nadia moved to Singapore and joined the Robert Walters Group as Senior Legal Counsel aligned to the Recruitment Process Outsourcing entity of the Group – Resource Solutions. Nadia is currently responsible for all Legal and Regulatory matters across 12 jurisdictions in Asia and was promoted to Principal Legal Counsel in 2022.   
+ 
+In her free time, Nadia loves to travel with her husband, and enjoy unique food experiences.
+
+
+
+NG SHU PING
+Shu Ping is a Legal and Compliance professional whose career path has given her a diverse experience across litigation and disputes, investigations, compliance and remediation in different industries and Fortune 500 companies. She is currently an in-house Legal Counsel managing a team across various Asia countries in the Legal &amp; Compliance department.
+
+
+NICHOLAS AARON KHOO
+With over 20 years of diverse experience, Nicholas has been a co-founder and board member in businesses, non profits, and government. Worked with Fortune 500 CEOs, headed up the region for an investor in digital-first education, Nicholas has also led a regional team for Visa supporting the biggest internet businesses like Tencent, Alibaba, Ctrip, and SEA manage their risks in digital transactions, serving on Visa's Asia Pacific Merchant Sales &amp; Solutions leadership. 
+
+Nicholas has also provided leadership to major esports events (including a number of world championships) that have reached more than 500 million gamers globally. Nicholas has chaired multiple national initiatives, including one with the Ministry of Education to have students reimagine education and work for Singapore’s next 50 years as well as an official ASEAN youth event. Nicholas has also been invited to judge an Innovator Awards in Silicon Valley, the ASEAN Youth Creative Industry Fair and led a national delegation to the Nanjing Youth Olympics on the invitation of China’s Vice Premier. He was also invited by Chinese Leaders to share the stage with key global leaders at the Wuzhen Summit. 
 
 Nicholas clearly has an unconventional approach to life when he turned down prestigious college scholarships, dropped out of National University of Singapore (NUS) computer science programme only to graduate as valedictorian for his MBA and invited as an expert for NUS’ Global Studies Programme. Today, Nicholas also lectures at the University of Stirling.
 
 In 2018, Nicholas was honoured both as a Friend of the Ministry of Culture, Community &amp; Youth as well as the Ministry of Social and Family Development. In 2021, Nicholas was awarded the Minister for Home Affairs National Day Awards.
 
 
-### Patrick Tay
-<img src="/images/Patrick%20Tay.jpg" style="width:250px !important;">
+
+NURHAFIZAH SYED
+Helming the role as an Assistant Senior Social Worker at PPIS As-Salaam since 2019, Hafizah supports families – parents and children – who are going through divorce or have divorced, towards rebuilding their life after divorce. She does so by providing counselling support to affected family members, instilling positive messages, and reminding them that they are not alone. Hafizah also supervises the agency’s social work associates, ensuring they are supported as they professionally carry out their frontline roles in interacting with clients. 
+
+Hafizah holds strongly to the importance of professional development, participating in training and conferences, the most recent being the International Childhood Trauma Conference in Melbourne in 2022. She is also passionate about developing other professionals, thus assuming the role of a co-presenter in professional sharing sessions and workshops, such as during the PPIS Social Service Professionals Forum last year.
+
+Hafizah sees the beauty of growth at many different levels – individuals, families, teams, agencies, and community – and hopes that she will continue to effect meaningful change wherever she can.
+
+
+PATRICK TAY
 Patrick is the Assistant Secretary-General of NTUC and also Director of NTUC’s Legal Services and Strategy. Concurrently, he is an elected MP and member of the NTUC Central Committee. He chairs the Government Parliamentary Committee (GPC) for Education and is a member of the GPC for Law and Home Affairs. He has been representing the Labour Movement in all the tripartite workgroups to review/update employment and industrial relations legislation.
 
 
-### Peggy Sarah Yee
-<img src="/images/Picture3.jpg" style="width:250px !important;">
-Peggy is actively involved in various aspects of legal practice, acting for both multi-national, local and individual clients alike. She handles a broad spectrum of legal matters, in particular in the areas of Family and Civil Litigation, Real Estate Conveyancing, Probate and Estate and Corporate matters.
+
+PEGGY SARAH YEE
+Peggy is actively involved in various aspects of legal practice, acting for both multi-national, local and individual clients alike.​ She handles a broad spectrum of legal matters, in particular in the areas of Family and Civil Litigation, Real Estate Conveyancing, Probate and Estate and Corporate matters.​
 
 Peggy is particularly interested and invested in Family Law matters. She considers it a privilege to be entrusted with a client's personal family matters. As such, she handles every such matter sensitively. She consistently strategises for her clients so that they can best navigate the legal and emotional humps facing them. The goal is to achieve a solution that best addresses the client's needs and intent. She also believes that an acceptable settlement is preferable to an unsatisfactory judgment.​
 
 
-### Rajan Chettiar
-<img src="/images/Rajan%20Chettiar.jpg" style="width:250px !important;">
-Rajan Chettiar is a barrister-at-law from the United Kingdom and qualified as an Advocate and Solicitor of Singapore in 1997. He is the Managing Director of Rajan Chettiar LLC, a boutique family and personal law firm. He is well regarded family lawyer who has acted in high net-worth domestic and international divorces. Rajan is also an Associate Mediator with the Singapore Mediation Centre, a Volunteer Mediator in the State Courts Centre for Dispute Resolution and the Community Mediation Centre. He is also a Collaborative Family Lawyer, Child Representative and a Parent Coordinator.&nbsp; He is a director of the first private mediation company in Singapore, Resolvers Pte Ltd which offers private mediation. He is a Board Member of the International Academy of Collaborative Professionals based in the United States of America.&nbsp;
+
+PHILIP LIN SING MAN
+Philip has been a part of the Marriott International legal team for over 10 years.  He oversees legal matters relating to development of hotels and other lodging facilities in certain regions in Asia.  He is also responsible for operations matters for Asia-Pacific (excluding China)  Prior to working with Marriott International, Philip worked in international law firms, where he specialized in M&amp;A, IPO and other corporate matters.
 
 
-### Rebecca Vathanasin
-<img src="/images/Rebecca%20Vathanasin.jpg" style="width:250px !important;">
-Rebecca is a Senior Associate with Gloria James-Civetta &amp; Co.
 
-She has been involved and has experience in numerous Court proceedings including divorce, annulments, Personal Protection Orders (PPO), spousal and child maintenance, custody and relocation applications and applications under the Mental Capacity Act.
+RICHARD SIAW
+Richard is the founder and current Managing Director of R. S. Solomon LLC, a full-service law practice in Singapore. His principal areas of practice are commercial litigation &amp; corporate advisory, criminal and family matters. He also advises high-net-worth clients on fanily offices and migration issues. 
+ 
+Effectively bilingual in English and Chinese, Richard is one of the 5 panel-lawyers of the People’s Republic of China Embassy in Singapore and the sole Singapore representative on the All-China Federation of Returned Overseas Chinese’s Legal Consultative Council. 
+ 
+Richard is frequently invited to give talks on a wide range of legal topics in public and on radio stations CNA 93.8, Capital 95.8 and Hao FM 96.3. He is the columnist of 《萧遥法外》at 随笔南洋 (a prominent Singapore based blog featuring Chinese literary works and current affairs commentaries) where he regularly contributes articles on law. 
 
-She is well-versed in Family Justice Courts and Syariah Court proceedings and has practised in all levels of the Singapore Courts.
 
 
-### Samson Leo
-<img src="/images/Samson%20Leo.jpg" style="width:250px !important;">
+SAMSON LEO
 Samson Leo is currently the Chief Legal Officer of Fazz Financial Group and Xfers, which are both high-growth “Fintech 250” companies. Since his time as co-founder and Chief Legal Officer in Xfers, he has grown Xfers from a 3-person start-up to a regional company with more than 200 people across Singapore, Indonesia, Taiwan, Vietnam and Philippines. Today, he heads the Fazz Financial Group’s legal team of 6 legal counsels in Singapore &amp; Indonesia, and oversees the FFG Compliance committee consisting of senior compliance professionals and their team.
 
 Samson has grown the regulatory profile of Xfers by successfully obtaining a rare MAS approval in 2019 for Xfers to become a widely accepted stored value facility, one of only six in Singapore. External partners have remarked that it was a “highly ambitious goal given that Xfers was a start-up, the need to partner a bank and MAS’ scrutiny in processing Xfers’ application”. Later in 2020, Xfers became licensed by MAS as a Major Payment Institution under the Payment Services Act. Under this regime, Xfers launched the first regulated Singapore-dollar denominated “stablecoin” - the “XSGD”, offering consumer protections under the Payment Services Act and the technological edge of blockchain-based payments.
 
 Samson’s compliance leadership was also recognised by the Minister of Home Affairs, Mr. K. Shanmugam, and also with four police awards to date for the company's efforts in the fight against cybercrime - 2018, 2020, 2021, 2022.
 
-### Sarita Misir
-<img src="/images/Sarita%20Misir.jpg" style="width:250px !important;">
-Sarita is Singapore-qualified transactional and technology lawyer practising in the areas of mergers and acquisitions (M&amp;A), capital markets and information technology law, with a passion for employment law. She is currently Senior Vice President, Global Legal at a major Asia-Pacific focused international healthcare company, where she is the legal lead for global M&amp;A, capital markets and healthcare tech. She is a volunteer at LSPBS and sits on the Law Awareness Committee.
 
 
-### Serene Gan
-<img src="/images/Serene%20Gan.jpg" style="width:250px !important;">
-Serene is a senior regional legal counsel, qualified in Singapore and New York, with a background in Singapore and regional corporate work as well as commercial litigation. Serene provides practical legal advice to her clients, allowing them to capture business opportunities while effectively managing transactions, operations and on-the-ground legal risks.&nbsp;
-
-She is the co-chair of the Singapore Corporate Counsel Association Pro Bono Chapter which aims to encourage pro bono spirit within the in-house legal community to do volunteer work.&nbsp;
-
-
-### Simran Kaur Toor
-<img src="/images/Simran%20Toh.jpg" style="width:250px !important;">
-Simran is an avid proponent of fair treatment, diversity, equality, and inclusion. After close to 2 decades as a lawyer, Simran recently left legal practice at a Big 4 law firm to head up SG Her Empowerment Limited (“SHE”), a non-profit organisation established in 2022 to drive women’s development in Singapore.
+SERENE GAN
+Serene is a senior regional legal counsel, qualified in Singapore and New York, with a background in Singapore and regional corporate work as well as commercial litigation. Serene provides practical legal advice to her clients, allowing them to capture business opportunities while effectively managing transactions, operations and on-the-ground legal risks. 
+ 
+She is the board member of the Singapore Corporate Counsel Association and chair of its Pro Bono Chapter which aims to encourage pro bono spirit within the in-house legal community to do volunteer work. 
 
 
-### Dr Toh See Kiat
-<img src="/images/DR%20TOH%20SEE%20KIAT%20(1).jpg" style="width:250px !important;">
-Dr Toh See Kiat (Chairman Goodwins Law Corporation, Edition Limited and CommerceNet Singapore Limited) graduated with an LLB (Hons) Degree from the National University of Singapore in 1982 and was admitted as an Advocate and Solicitor in Singapore in 1983. He obtained his Master’s Degree in Law from Harvard University in 1986 and, in 1991, a PhD in Law from the University of London where he did his doctoral thesis in electronic commerce. He has also been admitted as a Solicitor in England and Wales. Dr Toh has also been a Professor in NUS, NTU and Tyndale University, Canada. He is a former Member of Parliament and President of CASE.
+
+SUNIL RAI
+Named as a Leading Individual by Legal500 for Startups and Venture Capital in 2023, Sunil Rai is a corporate lawyer who actively advises early-stage entities and venture-backed companies throughout their growth cycle, including issues related to incorporation, venture fundraising, corporate governance, commercial contracts, strategic partnerships, day-to-day operations, and M&amp;A transactions. 
+
+Sunil has also been volunteering with Community Mediation Centre and CASE since 2009 and he was appointed master mediator by CMC in 2022. Sunil is always grateful for the opportunity to resolve matters for fellow residents and the community through mediation. 
 
 
-### Yap Teong Liang
-<img src="/images/Yap%20Teong%20Liang.jpg" style="width:250px !important;">
+
+TAN HUEY MIN
+Huey Min is the Head of Agency of Credit Counselling Singapore. She started as a volunteer and is a founding member of Credit Counselling Singapore that was set up in 2004. 
+ 
+In addition to assisting debt-distressed borrowers in finding a suitable solution and obtaining peace of mind to move on in life, she believes in equipping individuals with financial knowledge and skill to become more financially capable, hence, more financially resilient and self-reliant. 
+ 
+Before joining CCS, Huey Min was a lecturer at Temasek Polytechnic, and she also worked in The Association of Banks in Singapore.
+
+
+
+TAN SHEN KIAT
+Shen Kiat has often been described as a combination of a lawyer and social worker by those that he worked with. He believes sleep is often underrated, and he needs at least 8 hours to behave humanely for the day. He is a delighted co-founder of  Kith &amp; Kin Law Corporation - a dedicated STEM Law practice in estate planning and later-life planning with the mission to help healthy families stay strong.
+
+
+
+TOH WEI YI
+Wei Yi is partner at Harry Elias Partnership LLP, specialising in commercial litigation involving issues of contract, directors’ duties, shareholders’ disputes, employment, banking law, negligence and defamation. Her experience also includes a non-contentious aspect of advisory work pertaining to regulations and constitutions, statutory regulations, employment matters, commercial contracts and lease agreements.
+ 
+She has been actively involved as a member of committees of the Law Society of Singapore since 2014 and is keen supporter of its various pro bono initiatives.
+
+
+
+VICTORIA TING
+Victoria is an Associate Director with Setia Law LLC, specialising in financial crime, fraud and investigations.  Prior to working at Setia Law, she was a Deputy Public Prosecutor with the Attorney-General’s Chambers of Singapore, where she handled multiple fraud, money-laundering and bribery prosecutions.  She graduated from Cambridge University and holds an LLM from Columbia Law School.
+
+陈悦欣
+副主任
+Setia Law LLC
+悦欣是Setia Law的一名律师。她的专业处理範围是有关涉及舞弊、金融犯罪与调查性的事项。之前，她是一名检察官，处理过不少欺诈罪, 洗黑钱罪与贪污罪的案件。她毕业于英国剑桥大学一等荣誉学位，及纽约哥伦比亚大学.
+
+
+YAP TEONG LIANG
 Teong Liang was called to the Bar of England and Wales (Middle Temple) in 1991 and admitted as an Advocate &amp; Solicitor of the Supreme Court of Singapore in June 1992. On 10 June 2002, he set up his boutique law firm specialising in Family Law.
-
-Teong Liang has been engaged as leading counsel in both first instance and at appellate levels in the Family Division of the High Court and the Court of Appeal. He is listed as a Preeminent and Leading Family &amp; Divorce Lawyer in the Doyle’s Guide and Litigation Star for Family and Matrimonial Disputes in Benchmark Litigation Asia-Pacific 2021. In 2021 and 2022, the firm was ranked one of Singapore’s Best Law Firms in Family Law in the Straits Times/Statista survey.
-
+ 
+Teong Liang has been engaged as leading counsel in both first instance and at appellate levels in the Family Division of the High Court and the Court of Appeal. He is listed as a Preeminent and Leading Family &amp; Divorce Lawyer in the Doyle’s Guide and Litigation Star for Family and Matrimonial Disputes in Benchmark Litigation Asia-Pacific 2021. In 2021 and 2022, the firm was ranked one of Singapore’s Best Law Firms in Family Law in the Straits Times/Statista survey. 
+ 
 Teong Liang also practices as a Collaborative Family Practitioner, Parenting Coordinator and is an Associate Mediator with the Singapore Mediation Centre and an Accredited Mediator with the Family Justice Courts and Regent’s University, London (Mediation and Psychology) and appointed onto the panel of Child Representatives by the Family Justice Courts since October 2014.
-
+ 
 Teong Liang has presented papers at both local and overseas family law conferences over the years and authored the chapter on Maintenance of Wife and Children in the book “The Art of Family Lawyering”, a publication of the Law Society of Singapore in 2005. He authored the chapter on Ancillary Relief: Orders That Can be Made in the book “The Law and Practice of Family Law in Singapore” published in 2016 and recently co-authored the Chapter on Dispute Resolution Options in the book “The Art of Family Lawyering” (2019 Special Edition).
 
 
-### Yos Pang
-<img src="/images/Yos%20Pang.jpg" style="width:250px !important;">
-Yos is an international, commercial technology lawyer, with a strong background in intellectual property and is well-versed in legal Chinese. Previously, she was a lead lawyer at Facebook for platforms and an external counsel advising Microsoft's legal team. Yos currently leads Snyk's legal team across Asia Pacific and is passionate about bringing Snyk's combination of developer-first tooling and best-in-class security intelligence to more markets across APJ. She specialises in IT and IP law, with a particular interest in open source and open content issues. Outside of work, Yos also acts as an advisor and legal consultant for several women empowering tech organisations and social enterprises, including She Loves Tech, Women in Tech and CRIB. She also sits as a director and corporate secretary of a non-profit organisation Cycling Without Age Singapore.
+
+YAM WERN-JHIEN
+Wern-Jhien is a Director and Co-Founder of Setia Law LLC, a high-stakes dispute resolution and crisis management team in Singapore . 
+ 
+Wern-Jhien has particular expertise in the fraud and asset recovery space and has represented clients in numerous disputes involving fraudulent e-commerce transactions, financing fraud, payment processing fraud and cryptocurrency fraud. He has led and successfully obtained multiple freezing and proprietary injunctions in aid of cross-border asset recovery efforts, including the first known instance of the grant of a proprietary injunction over cryptocurrencies in Singapore.
+ 
+With considerable advocacy experience, he has appeared at all levels of the Supreme Court of Singapore, including the Singapore International Commercial Court, and is also active in international arbitration.
+
+
+
+YEOW MING ZHEN
+Ms Yeow Ming Zhen is the Head of Strengthening Families Programme@Family Service Centre (FAM@FSC), under Methodist Welfare Services (MWS). 
+FAM@FSC programme is an initiative by Ministry of Social and Family Development (MSF) to support couples and families with family counselling, as well as divorce support programmes. 
+
+The counselling service is aimed to provide therapeutic support for couples and families who may experience early signs of stress and is an upstream intervention to prevent further issues from occurring within the marital and family system. 
+
+The divorce support programmes aim to highlight the impact divorce has on children and encourage cooperative co-parenting from the onset of divorce, many of the cases under divorce support programmes came through the Family Justice Courts (FJC) especially when the parents are undergoing acrimonious divorce, with arising conflicts that are affecting the children.
+
+Ms Yeow Ming Zhen has been a practising social worker and family therapist for the past 13 years, and has been working with families and children throughout this period. 
+
+She had presented at various International Conferences and contributed to publications for The Straits Times and CNA Commentary. She is an adjunct lecturer with Singapore University of Social Sciences as well as Kaplan Singapore.
+
+
