@@ -36,8 +36,6 @@ She has represented Fortune 500 companies and ultra high-net-worth individuals i
 
 Amarjit has been recognised as a Litigation Star in the Benchmark Asia Pacific Guides since 2021. She has also been consistently noted for her expertise in labour and employment law in the The Legal 500: Asia Pacific Guide and Chambers Asia Pacific Guide. She is listed as a recommended lawyer in Doyle’s Guide for Leading Employment and Labour Lawyers in Singapore since 2020; and as a notable lawyer in the Asialaw Guides. In 2017, she was recognised by the Singapore Business Review as one of Singapore’s most influential lawyers aged 40 and under.
 
-Amarjit is a frontrunner in training and performing cultural assessments on #MeToo and diversity &amp; inclusion issues. As the global head of Withers’ Diversity and Inclusion Branch, Amarjit leads a working group within the firm that is represented from its global offices to proactively plan for diversity and inclusion initiatives and activities. These include mentoring schemes for aspiring solicitors in the UK, supporting LGBTQ+ rights through internal and external awareness, and promoting and facilitating education on critical anti-racist and other diversity related topics. Amarjit also serves on the Project Law Help Committee under the auspices of the Law Society’s Pro Bono Services and is a board member of Club Heal, a mental health charity.
-
 Amarjit has also been frequently interviewed by various media on current issues and matters relating to employment.
 
 
