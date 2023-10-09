@@ -39,4 +39,13 @@ sections:
         Councils and Pro Bono SG.
       button: Learn more
       url: /2023/partners/
+  - infopic:
+      title: Our Partners
+      id: infopic
+      description: LAW@CDC 2023 is brought to you by the five Community Development
+        Councils and Pro Bono SG.
+      button: Learn More
+      url: /2023/partners/
+      image: /images/organisers.png
+      alt: Image alt text
 ---
