@@ -96,12 +96,13 @@ Join our moderator, Amira Budiyano (Attorney, Kyndryl) and speakers, Ahmad Nizam
 
 ### Protect Yourself - How to Spot and Avoid Scams
 
-**Tuesday, 7 November 2023, 7.00pm – 8.30pm**
+**Tuesday, 7 November 2023, 7.00pm – 9.00pm**
 ![20231107 Protect Yourself - How to Spot and Avoid Scams](/images/20231107%20protect%20yourself%20-%20how%20to%20spot%20and%20avoid%20scams.png)
 
-Don't become another victim of scams! Unsure on how to protect yourself from the ever-evolving world of scams and fraud? In today's digital age, scams can lurk around every corner, targeting unsuspecting individuals with cunning tactics and sophisticated schemes.&nbsp;
+Don’t become another victim of scams! Unsure on how to protect yourself from the ever-evolving world of scams and fraud? In today’s digital age, scams can lurk around every corner, targeting unsuspecting individuals with cunning tactics and sophisticated schemes. 
 <br><br>
-Join our moderator, Eunice Chua (Chief Executive Officer, FIDReC) and speakers, Yam Wern-Jhien (Director, Setia Law LLC) and Nicholas Aaron Khoo (Council Member, National Crime Prevention Council) as they aim to arm you with invaluable knowledge and practical strategies to identify, avoid, and combat scams effectively. From phishing emails and fake websites to investment fraud and identity theft, they will explore the most prevalent scams and share with you on how to recognise red flags before it is too late. Also discover powerful techniques to safeguard your personal and financial information, understand the psychology behind scams, and learn how to protect yourself, your loved ones, and your business from falling prey to deceptive practices.
+Join our moderator, Eunice Chua (Chief Executive Officer, FIDReC) and speakers, Yam Wern-Jhien (Director, Setia Law LLC),  Nicholas Aaron Khoo (Council Member, National Crime Prevention Council) and Rosie Ann Mcintyre (Assistant Director, Public Education Programme, Scam Public Education Office, Operations Department, Singapore Police Force) as they aim to arm you with invaluable knowledge and practical strategies to identify, avoid, and combat scams effectively. <br><br>From phishing emails and fake websites to investment fraud and identity theft, they will explore the most prevalent scams and share with you on how to recognise red flags before it is too late. Also discover powerful techniques to safeguard your personal and financial information, understand the psychology behind scams, and learn how to protect yourself, your loved ones, and your business from falling prey to deceptive practices.
+
 
 <a href="https://us02web.zoom.us/webinar/register/7016887170596/WN_n_io-o6aSvqC4KurCemytg" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button" style="width:200px !important;"></a>
 <hr>
@@ -124,9 +125,9 @@ Sama ada anda sedang mempertimbangkan untuk bercerai, ataupun&nbsp;sedang&nbsp;m
 **Thursday, 9 November 2023, 7.00pm – 9.00pm**
 ![20231109 处理或遭遇家庭暴力？](/images/20231109%20处理或遭遇家庭暴力？.png)
 
-当我们揭示这个普遍存在的家庭暴力问题时，发现闭门造车后存在的惊人统计数据和隐藏的现实。了解如何识别警告信号并获得实用的预防、干预和支持策略。通过提高认识和促进理解，我们可以使个人、家庭和社区有能力反对家庭暴力。
-<br><br>  
-加入该小组，因为他们对家庭暴力的根本原因、动态和影响提供了宝贵的见解，探索有效的沟通技巧、冲突解决策略和可用于打破虐待循环的资源。让我们一起成为解决方案，为每个人创造一个更安全、更富有同情心的世界。
+当我们揭示这个普遍存在的家庭暴力问题时，发现闭门造车后存在的惊人统计数据和隐藏的现实。了解如何识别警告信号并获得实用的预防、干预和支持策略。通过提高认识和促进理解，我们可以使个人、家庭和社区有能力反对家庭暴力。<br><br>
+加入该小组，徐雪琨 (主持人), 余美娟律师 (董事, PY Legal LLC) 和 蓝惠群 (首席社工, 关怀机构), 因为他们对家庭暴力的根本原因、动态和影响提供了宝贵的见解，探索有效的沟通技巧、冲突解决策略和可用于打破虐待循环的资源。让我们一起成为解决方案，为每个人创造一个更安全、更富有同情心的世界
+
 
 <a href="https://us02web.zoom.us/webinar/register/7016887170596/WN_aq4pvjLSSvux8y373Qh8RA" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button" style="width:200px !important;"></a>
 <hr>
