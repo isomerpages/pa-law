@@ -35,9 +35,8 @@ Join our moderator, Philip Lin Sing Man (Vice President and Senior Counsel, Marr
 ![20231025 Divorce matters and concerns - Custody, Care and Control](/images/20231025%20divorce%20matters%20and%20concerns%20-%20custody,%20care%20and%20control.png)
 
 Discover a transformative path forward as you try to navigate the complexities of a civil divorce with strength and resilience. Looking to unlock practical strategies for effective communication, financial planning, and emotional healing?&nbsp;
-<br><br>
-Whether you are contemplating divorce, currently in the process, or starting anew, join our moderator, Lim Liyen (Volunteer, Pro Bono SG) and speakers Yap Teong Liang (Director, TL Yap Law Chambers LLC) and Abigail Lee (Executive Director, Healing Hearts Centre) as they explore topics such as legal rights, division of assets, child custody, and co-parenting, equipping you with the knowledge needed to make informed decisions and ensure a smoother transition. Gain insights on empowering tools and strategies that will transform your divorce journey into an opportunity for personal development and a brighter future.
-
+<br><br>  
+Whether you are contemplating divorce, currently in the process, or starting anew, join our moderator, Lim Liyen (Volunteer, Pro Bono SG) and speakers Yap Teong Liang (Director, TL Yap Law Chambers LLC) and Yeow Ming Zhen (Head, FAM@FSC, Methodist Welfare Services) as they explore topics such as legal rights, division of assets, child custody, and co-parenting, equipping you with the knowledge needed to make informed decisions and ensure a smoother transition. Gain insights on empowering tools and strategies that will transform your divorce journey into an opportunity for personal development and a brighter future.
 <a href="https://us02web.zoom.us/webinar/register/7016887170596/WN\_yXOW790zQhmcmmqAnzWA4Q" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button" style="width:200px !important;"></a>
 <hr>
 
