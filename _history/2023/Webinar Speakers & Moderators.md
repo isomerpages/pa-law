@@ -111,22 +111,11 @@ Montfort Care
 
 As a legal counsel in health technology fraternity, I have personal inclination to want to know more about health and its impact on individuals and families. This brings about also a keen interest on the consequences when health of any individual is no longer ablet to support continuation of the individual in living capacity. Questions asked of me by friends who have had to walk the journey of sickness and also face the loss of loved ones and agonies they have to face when issues of material resources arise, have made me aware of how much having knowledge about the law can assist one be prepared for crises and to reduce or prevent further crises upon crises. I am therefore hopeful that this topic being covered under SCCA pro bono program will bring real benefit to the participants. 
 
-傅明音
-Senior Legal Counsel 
-法务顾问
-Synapxe Pte Ltd
-
-
 
 ## JEN XU XUEKUN
 <img src="/images/SPEAKERS%20LAW2023/jen%20xu%20xuekun.png" style="width:250px !important;">
 
 Jen is currently inhouse legal at the Singapore office of a Swiss core banking software company, leading negotiations for new prospects for on-premises and SaaS deals across APAC &amp; MEA. Prior to the same, she has a varied experience spanning from general and specialised litigation to banking and finance as well as general corporate transactional advisory work (in particular, advising early-stage start-ups and on M&amp;A transactions). Given her language edge, she has also advised numerous Chinese clients on a variety of issues across her career.   
-
-徐雪琨
-法律顾问
-Avaloq Asia Pte. Ltd.
-
 
 
 ### DR JULIA LAM
@@ -302,6 +291,14 @@ Samson has grown the regulatory profile of Xfers by successfully obtaining a rar
 Samson’s compliance leadership was also recognised by the Minister of Home Affairs, Mr. K. Shanmugam, and also with four police awards to date for the company's efforts in the fight against cybercrime - 2018, 2020, 2021, 2022.
 
 
+### SARAH SOH
+<img src="/images/SPEAKERS%20LAW2023/serene%20gan.png" style="width:250px !important;">
+
+Sarah is the Head of FAM@FSC (Lakeside Family Services – Jurong East), supporting families facing distress through counselling and divorce support programmes. 
+<br><br>
+A Social Worker and Counsellor by profession, Sarah has more than a decade of experience working with families facing conflicts, violence and divorce. She is deeply passionate in strengthening family relationships and building resiliency among individuals served.
+
+
 ### SERENE GAN
 <img src="/images/SPEAKERS%20LAW2023/serene%20gan.png" style="width:250px !important;">
 
@@ -348,9 +345,6 @@ She has been actively involved as a member of committees of the Law Society of S
 
 Victoria is an Associate Director with Setia Law LLC, specialising in financial crime, fraud and investigations.  Prior to working at Setia Law, she was a Deputy Public Prosecutor with the Attorney-General’s Chambers of Singapore, where she handled multiple fraud, money-laundering and bribery prosecutions.  She graduated from Cambridge University and holds an LLM from Columbia Law School.
 
-陈悦欣
-副主任
-Setia Law LLC
 悦欣是Setia Law的一名律师。她的专业处理範围是有关涉及舞弊、金融犯罪与调查性的事项。之前，她是一名检察官，处理过不少欺诈罪, 洗黑钱罪与贪污罪的案件。她毕业于英国剑桥大学一等荣誉学位，及纽约哥伦比亚大学.
 
 
