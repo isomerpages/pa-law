@@ -292,7 +292,7 @@ Samson’s compliance leadership was also recognised by the Minister of Home Aff
 
 
 ### SARAH SOH
-<img src="/images/SPEAKERS%20LAW2023/serene%20gan.png" style="width:250px !important;">
+<img src="/images/sarah%20soh.png" style="width:250px !important;">
 
 Sarah is the Head of FAM@FSC (Lakeside Family Services – Jurong East), supporting families facing distress through counselling and divorce support programmes. 
 <br><br>
