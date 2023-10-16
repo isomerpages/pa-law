@@ -14,7 +14,7 @@ third_nav_title: "2023"
 <br><br>
 加入我们的小组，李益诚 (主持人), 罗国伟 (高级讲师, 新跃社科大学) 和 Dr Martin Wong (调解员, 社区调解中心), 因为他们提供现实生活中的案例研究和建议，为您提供有效解决与邻居冲突的宝贵策略和见解。获得你需要的知识和工具来驾驭错综复杂的邻里冲突并实现持久的解决方案。让我们借此机会培养更好的邻里关系，培养社区内的团结感。
 
-<a href="https://us02web.zoom.us/webinar/register/7016887170596/WN\_1llGiylTQreH2uqT9hJM2g" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button" style="width:200px !important;"></a>
+<a href="https://us02web.zoom.us/webinar/register/7016887170596/WN_1llGiylTQreH2uqT9hJM2g#/registration" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button" style="width:200px !important;"></a>
 <hr>
 
 ### Conflicts with Neighbours – can this be resolved?
@@ -26,8 +26,9 @@ Are you tired of endless arguments over property boundaries, noisy gatherings, o
 <br><br>
 Join our moderator, Philip Lin Sing Man (Vice President and Senior Counsel, Marriott International) and speakers, Lim Lei Theng (Partner, Allen &amp; Gledhill) and Sunil Rai (Master Mediator, Community Mediation Centre) as they provide real-life case studies and advice to equip you with invaluable strategies and insights on effectively resolving conflicts with your neighbours. Gain the knowledge and tools you need to navigate the intricate landscape of neighbour conflicts and achieve lasting resolutions. Let’s take the opportunity to foster better neighbourly relationships and foster a sense of unity within your community.
 
-<a href="https://us02web.zoom.us/webinar/register/7016887170596/WN\_98K0huMVTIK1CS6pXIFowA" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button" style="width:200px !important;"></a>
+<a href="https://us02web.zoom.us/webinar/register/7016887170596/WN_98K0huMVTIK1CS6pXIFowA#/registration" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button" style="width:200px !important;"></a>
 <hr>
+
 
 ### Divorce Matters and Concerns - Custody, Care and Control
 
@@ -37,8 +38,9 @@ Join our moderator, Philip Lin Sing Man (Vice President and Senior Counsel, Marr
 Discover a transformative path forward as you try to navigate the complexities of a civil divorce with strength and resilience. Looking to unlock practical strategies for effective communication, financial planning, and emotional healing?&nbsp;
 <br><br>  
 Whether you are contemplating divorce, currently in the process, or starting anew, join our moderator, Lim Liyen (Volunteer, Pro Bono SG) and speakers Yap Teong Liang (Director, TL Yap Law Chambers LLC) and Yeow Ming Zhen (Head, FAM@FSC, Methodist Welfare Services) as they explore topics such as legal rights, division of assets, child custody, and co-parenting, equipping you with the knowledge needed to make informed decisions and ensure a smoother transition. Gain insights on empowering tools and strategies that will transform your divorce journey into an opportunity for personal development and a brighter future.
-<a href="https://us02web.zoom.us/webinar/register/7016887170596/WN\_yXOW790zQhmcmmqAnzWA4Q" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button" style="width:200px !important;"></a>
+<a href="https://us02web.zoom.us/webinar/register/7016887170596/WN_yXOW790zQhmcmmqAnzWA4Q#/registration" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button" style="width:200px !important;"></a>
 <hr>
+
 
 ### 离婚事宜和顾虑 - 监护、照顾和控制
 
@@ -60,8 +62,9 @@ Dealing with debt and creditors is a difficult matter to handle, for you, your l
 <br><br>
 Join our moderator, Samson Leo (Co-Founder &amp; Chief Legal Officer, Xfers/Fazz Financial Group) and speakers, Toh Wei Yi (Partner, Harry Elias Partnerships), Tan Huey Min (General Manager, Credit Counselling Singapore) and Dr Julia Lam (Advisor, One Hope Centre) as they discuss how you can handle this matter better and insights to help you gain a better grasp of this tough issue!
 
-<a href="https://us02web.zoom.us/webinar/register/7016887170596/WN\_PvU7S1odSK-mGF0VottPxw" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button" style="width:200px !important;"></a>
+<a href="https://us02web.zoom.us/webinar/register/7016887170596/WN_PvU7S1odSK-mGF0VottPxw#/registration" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button" style="width:200px !important;"></a>
 <hr>
+
 
 ### What is Workplace Harassment and how do I deal with it?
 
@@ -152,8 +155,9 @@ Discover the startling statistics and hidden realities that exist behind closed 
 <br><br>
 Join our moderator, Nadia Fernandopulle (Principal Legal Counsel, Robert Walters Group) and speakers, June Lim (Managing Director, Eden Law Corporation) and Kristine Lam (Principal Social Worker, Care Corner Singapore Ltd) as they provide invaluable insights into the root causes, dynamics, and impact of family violence, explore effective communication techniques, conflict resolution strategies, and resources available to break the cycle of abuse. Together, let's be the solution and create a safer, more compassionate world for everyone.
 
-<a href="https://us02web.zoom.us/webinar/register/6516613364959/WN_186EGH8iRdCL2J0E6F5iEg" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button" style="width:200px !important;"></a>
+<a href="https://us02web.zoom.us/webinar/register/7016887170596/WN_oOD2nZ-GTP2iZ9pNT2DXWA#/registration" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button" style="width:200px !important;"></a>
 <hr>
+
 
 ### 关于遗嘱和临终事宜的高级法律规划
 
