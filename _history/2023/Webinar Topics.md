@@ -26,8 +26,9 @@ Are you tired of endless arguments over property boundaries, noisy gatherings, o
 <br><br>
 Join our moderator, Philip Lin Sing Man (Vice President and Senior Counsel, Marriott International) and speakers, Lim Lei Theng (Partner, Allen &amp; Gledhill) and Sunil Rai (Master Mediator, Community Mediation Centre) as they provide real-life case studies and advice to equip you with invaluable strategies and insights on effectively resolving conflicts with your neighbours. Gain the knowledge and tools you need to navigate the intricate landscape of neighbour conflicts and achieve lasting resolutions. Let’s take the opportunity to foster better neighbourly relationships and foster a sense of unity within your community.
 
-<a href="https://us02web.zoom.us/webinar/register/7016887170596/WN\_98K0huMVTIK1CS6pXIFowA" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button" style="width:200px !important;"></a>
+<a href="https://us02web.zoom.us/webinar/register/7016887170596/WN_98K0huMVTIK1CS6pXIFowA#/registration" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button" style="width:200px !important;"></a>
 <hr>
+
 
 ### Divorce Matters and Concerns - Custody, Care and Control
 
