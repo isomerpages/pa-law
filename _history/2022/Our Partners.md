@@ -1,6 +1,6 @@
 ---
 title: Our Partners
-permalink: /partners/
+permalink: /2022/partners/
 description: LAW@CDC Partners
 third_nav_title: "2022"
 ---
@@ -27,7 +27,7 @@ Since 1997, the CDCs have been bridging communities by strengthening social infr
 (c)            Connector of Communities 
 
 There are five Community Development Councils (CDCs), namely, Central Singapore, North East, North West, South East and South West CDCs.  Mayors of the Districts are Chairman of the respective CDCs. The Office of the Mayors comprises: <br>
-(a) Ms Low Yen Ling - Chairman of Mayors’ Committee & Mayor of South West District <br>
+(a) Ms Low Yen Ling - Chairman of Mayors’ Committee &amp; Mayor of South West District <br>
 (b)  Ms Denise Phua Lay Peng - Mayor of Central Singapore District <br>
 (c)  Mr Desmond Choo - Mayor of North East District <br>
 (d) Mr Alex Yam	- Mayor of North West District <br>
@@ -35,9 +35,9 @@ There are five Community Development Councils (CDCs), namely, Central Singapore,
 
 For more information, please visit [https://www.cdc.gov.sg](https://www.cdc.gov.sg).
 
-## Centre for Pro Bono & Clinical Legal Education, Faculty of Law, National University of Singapore
+## Centre for Pro Bono &amp; Clinical Legal Education, Faculty of Law, National University of Singapore
 
-The Centre for Pro Bono & Clinical Legal Education oversees and runs pro bono and clinical legal education programmes at NUS Law. The Centre's activities have their roots in the rich tradition of pro bono work among staff and students.
+The Centre for Pro Bono &amp; Clinical Legal Education oversees and runs pro bono and clinical legal education programmes at NUS Law. The Centre's activities have their roots in the rich tradition of pro bono work among staff and students.
 
 Among its key objectives, the Centre seeks to develop and enhance legal skills in NUS Law students, particularly in community lawyering, and to build legal awareness programmes primarily targeted at the social service sector so as to provide legal assistance to such organisations, and thereby promote the welfare of vulnerable members in our community.
 

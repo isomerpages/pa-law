@@ -1,6 +1,6 @@
 ---
 title: About LAW@CDC 2022
-permalink: /about/
+permalink: /2022/about/
 description: About Law Awareness Weeks @ CDC
 third_nav_title: "2022"
 ---

@@ -1,6 +1,6 @@
 ---
 title: Legal Talks
-permalink: /talks/
+permalink: /2022/talks/
 description: ""
 third_nav_title: "2022"
 ---

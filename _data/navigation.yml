@@ -1,19 +1,12 @@
-logo: /images/Picture8.png
+logo: /images/organisers4.png
 links:
-  - title: About LAW@CDC 2022
-    url: /about/
+  - title: About LAW@CDC 2023
+    url: 2023/about/
   - title: Webinars
-    url: /webinar
-    sublinks:
-      - title: Webinar Topics
-        url: /webinar
-      - title: Webinar Speakers & Moderators
-        url: /speakers
-  - title: Legal Talks
-    url: /talks
+    url: /2023/webinars
   - title: Our Partners
-    url: /partners/
+    url: 2023/partners/
   - title: Contact Us
-    url: /contact/
+    url: 2023/contact/
   - title: CDC Official Site
     url: https://www.cdc.gov.sg/
