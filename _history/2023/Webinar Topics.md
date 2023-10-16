@@ -14,7 +14,7 @@ third_nav_title: "2023"
 <br><br>
 加入我们的小组，李益诚 (主持人), 罗国伟 (高级讲师, 新跃社科大学) 和 Dr Martin Wong (调解员, 社区调解中心), 因为他们提供现实生活中的案例研究和建议，为您提供有效解决与邻居冲突的宝贵策略和见解。获得你需要的知识和工具来驾驭错综复杂的邻里冲突并实现持久的解决方案。让我们借此机会培养更好的邻里关系，培养社区内的团结感。
 
-<a href="https://us02web.zoom.us/webinar/register/7016887170596/WN\_1llGiylTQreH2uqT9hJM2g" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button" style="width:200px !important;"></a>
+<a href="https://us02web.zoom.us/webinar/register/7016887170596/WN_1llGiylTQreH2uqT9hJM2g#/registration" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button" style="width:200px !important;"></a>
 <hr>
 
 ### Conflicts with Neighbours – can this be resolved?
