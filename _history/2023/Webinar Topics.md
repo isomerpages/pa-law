@@ -155,8 +155,9 @@ Discover the startling statistics and hidden realities that exist behind closed 
 <br><br>
 Join our moderator, Nadia Fernandopulle (Principal Legal Counsel, Robert Walters Group) and speakers, June Lim (Managing Director, Eden Law Corporation) and Kristine Lam (Principal Social Worker, Care Corner Singapore Ltd) as they provide invaluable insights into the root causes, dynamics, and impact of family violence, explore effective communication techniques, conflict resolution strategies, and resources available to break the cycle of abuse. Together, let's be the solution and create a safer, more compassionate world for everyone.
 
-<a href="https://us02web.zoom.us/webinar/register/6516613364959/WN_186EGH8iRdCL2J0E6F5iEg" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button" style="width:200px !important;"></a>
+<a href="https://us02web.zoom.us/webinar/register/7016887170596/WN_oOD2nZ-GTP2iZ9pNT2DXWA#/registration" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button" style="width:200px !important;"></a>
 <hr>
+
 
 ### 关于遗嘱和临终事宜的高级法律规划
 
