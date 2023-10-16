@@ -62,8 +62,9 @@ Dealing with debt and creditors is a difficult matter to handle, for you, your l
 <br><br>
 Join our moderator, Samson Leo (Co-Founder &amp; Chief Legal Officer, Xfers/Fazz Financial Group) and speakers, Toh Wei Yi (Partner, Harry Elias Partnerships), Tan Huey Min (General Manager, Credit Counselling Singapore) and Dr Julia Lam (Advisor, One Hope Centre) as they discuss how you can handle this matter better and insights to help you gain a better grasp of this tough issue!
 
-<a href="https://us02web.zoom.us/webinar/register/7016887170596/WN\_PvU7S1odSK-mGF0VottPxw" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button" style="width:200px !important;"></a>
+<a href="https://us02web.zoom.us/webinar/register/7016887170596/WN_PvU7S1odSK-mGF0VottPxw#/registration" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button" style="width:200px !important;"></a>
 <hr>
+
 
 ### What is Workplace Harassment and how do I deal with it?
 
