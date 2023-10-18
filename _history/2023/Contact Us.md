@@ -10,5 +10,4 @@ If you have any enquiries or feedback regarding Law Awareness Weeks @ CDC 2023, 
 
 General: +65 6536 0650
 
-Email: <a href="mailto: abc@example.com">outreach@lawsocprobono.org</a>
-
+Email: <a href="mailto: abc@example.com">outreach@probono.sg</a>
