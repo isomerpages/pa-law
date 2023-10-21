@@ -281,6 +281,16 @@ Effectively bilingual in English and Chinese, Richard is one of the 5 panel-lawy
  
 Richard is frequently invited to give talks on a wide range of legal topics in public and on radio stations CNA 93.8, Capital 95.8 and Hao FM 96.3. He is the columnist of 《萧遥法外》at 随笔南洋 (a prominent Singapore based blog featuring Chinese literary works and current affairs commentaries) where he regularly contributes articles on law. 
 
+###       SUPT Rosie Ann McIntyre
+
+<img src="/images/supt%20rosie%20ann.png" style="width:250px !important;">
+
+Superintendent (SUPT) Rosie McIntyre is the Assistant Director of Scam Public Education Office (SPEO) of the Singapore Police Force (SPF). Public education for a vigilant and discerning public is key to combating scams. 
+ 
+To this end, SPEO was formed in early 2023 to expand outreach on scams by leveraging on partnerships across different public and private domains and customize engagement efforts for the different population segments to achieve a scam-smart nation. 
+ 
+Supt Rosie McIntyre has served more than 15 years in the SPF and has various postings including Commanding Officer of Bukit Merah East Neighbourhood Police Centre (NPC) and several operational stints in Police Divisions and Police HQ Operations Department.
+
 
 
 ### SAMSON LEO
