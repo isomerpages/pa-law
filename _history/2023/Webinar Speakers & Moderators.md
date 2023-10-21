@@ -282,6 +282,7 @@ Effectively bilingual in English and Chinese, Richard is one of the 5 panel-lawy
 Richard is frequently invited to give talks on a wide range of legal topics in public and on radio stations CNA 93.8, Capital 95.8 and Hao FM 96.3. He is the columnist of 《萧遥法外》at 随笔南洋 (a prominent Singapore based blog featuring Chinese literary works and current affairs commentaries) where he regularly contributes articles on law. 
 
 
+
 ### SAMSON LEO
 <img src="/images/SPEAKERS%20LAW2023/samson%20leo.png" style="width:250px !important;">
 
