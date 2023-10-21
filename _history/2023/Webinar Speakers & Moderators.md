@@ -164,7 +164,8 @@ Lei Theng is also a mediator, having been a Principal Mediator with the Singapor
 ### LIM LIYEN
 <img src="/images/SPEAKERS%20LAW2023/lim%20liyen.png" style="width:250px !important;">
 
-As a volunteer at Pro Bono SG since October 2017, Liyen has assisted in the development of content and has moderated legal webinars on a variety of topics.  It is a project she greatly enjoys being a part of.  Liyen was called to the Singapore bar in 2000.  She practiced as a corporate/commercial lawyer for about 3 years before joining Siemens Pte Ltd as in-house legal counsel.  She has two teenage children.
+         
+Liyen has volunteered at Pro Bono SG from 2017, where she helped develop content for our law awareness webinars on a variety of topics, and was a moderater for several of them.&nbsp; It is a project she greatly enjoys being a part of. Liyen was called to the Singapore bar in 2000. She joined Pro Bono SG’s Outreach department in October 2023 and looks forward to learning and contributing to the programme
 
 
 ### MARGARET YEOW
