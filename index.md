@@ -16,9 +16,13 @@ sections:
         - title: Webinar Speakers & moderators
           description: ""
           url: /2023/speakers/
+        - title: Legal Talks
+          description: ""
+          url: /2023/talks/
         - title: Our PARTNERS
           description: ""
           url: /2023/partners/
+      variant: center
   - infopic:
       title: About LAW@CDC 2023
       description: LAW@CDC is a nationwide effort to promote awareness and

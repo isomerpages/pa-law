@@ -164,7 +164,8 @@ Lei Theng is also a mediator, having been a Principal Mediator with the Singapor
 ### LIM LIYEN
 <img src="/images/SPEAKERS%20LAW2023/lim%20liyen.png" style="width:250px !important;">
 
-As a volunteer at Pro Bono SG since October 2017, Liyen has assisted in the development of content and has moderated legal webinars on a variety of topics.  It is a project she greatly enjoys being a part of.  Liyen was called to the Singapore bar in 2000.  She practiced as a corporate/commercial lawyer for about 3 years before joining Siemens Pte Ltd as in-house legal counsel.  She has two teenage children.
+         
+Liyen has volunteered at Pro Bono SG from 2017, where she helped develop content for our law awareness webinars on a variety of topics, and was a moderater for several of them.&nbsp; It is a project she greatly enjoys being a part of. Liyen was called to the Singapore bar in 2000. She joined Pro Bono SG’s Outreach department in October 2023 and looks forward to learning and contributing to the programme
 
 
 ### MARGARET YEOW
@@ -279,6 +280,17 @@ Richard is the founder and current Managing Director of R. S. Solomon LLC, a ful
 Effectively bilingual in English and Chinese, Richard is one of the 5 panel-lawyers of the People’s Republic of China Embassy in Singapore and the sole Singapore representative on the All-China Federation of Returned Overseas Chinese’s Legal Consultative Council. 
  
 Richard is frequently invited to give talks on a wide range of legal topics in public and on radio stations CNA 93.8, Capital 95.8 and Hao FM 96.3. He is the columnist of 《萧遥法外》at 随笔南洋 (a prominent Singapore based blog featuring Chinese literary works and current affairs commentaries) where he regularly contributes articles on law. 
+
+###       SUPT Rosie Ann McIntyre
+
+<img src="/images/supt%20rosie%20ann.png" style="width:250px !important;">
+
+Superintendent (SUPT) Rosie McIntyre is the Assistant Director of Scam Public Education Office (SPEO) of the Singapore Police Force (SPF). Public education for a vigilant and discerning public is key to combating scams. 
+ 
+To this end, SPEO was formed in early 2023 to expand outreach on scams by leveraging on partnerships across different public and private domains and customize engagement efforts for the different population segments to achieve a scam-smart nation. 
+ 
+Supt Rosie McIntyre has served more than 15 years in the SPF and has various postings including Commanding Officer of Bukit Merah East Neighbourhood Police Centre (NPC) and several operational stints in Police Divisions and Police HQ Operations Department.
+
 
 
 ### SAMSON LEO

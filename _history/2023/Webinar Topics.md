@@ -87,7 +87,7 @@ This webinar is brought to you by LawWorks – a collaboration between the Natio
 
 ### Syariah Divorce and Related Matters
 
-**Monday, 4 November 2023, 7.30pm – 9.00pm**
+**Monday, 6 November 2023, 7.30pm – 9.00pm**
 ![20231106 Syariah Divorce and Related Matters](/images/20231106%20syariah%20divorce%20and%20related%20matters.png)
 
 Looking to explore the unique challenges and empowering strategies within the context of a Syariah divorce? Unsure of how to navigate the intricate processes of the Syariah Court?
