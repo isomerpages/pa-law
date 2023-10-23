@@ -30,7 +30,7 @@ sections:
       button: Find out more
       url: /2023/about/
       alt: Key visual of LAW@CDC 2023
-      image: /images/pre launch hero image.png
+      image: /images/new main image.png
   - infobar:
       title: Webinar Topics
       description: Register for our webinars to learn about your rights and equip
