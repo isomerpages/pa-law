@@ -44,6 +44,6 @@ sections:
         Councils and Pro Bono SG in collaboration with our network of partners.
       button: Learn More
       url: /2023/partners/
-      image: /images/organisers3.png
+      image: /images/organisers7.png
       alt: Image alt text
 ---
