@@ -40,13 +40,14 @@ Amarjit has also been frequently interviewed by various media on current issues 
 
 
 ### AMIRA BUDIYANO
-<img src="/images/SPEAKERS%20LAW2023/amira%20budiyano.png" style="width:250px !important;">
+<img src="/images/SPEAKERS%20LAW2023/amira%202.png" style="width:250px !important;">
 
-Amira’s practice currently focuses on IP and technology, particularly data protection (DP). She has advised various educational institutions, associations, and other entities on DP obligations and has been involved in data breach investigations by the PDPC. Regarding other areas, her work includes amongst others, advising on IP strategy, commercialisation and other regulatory and technology-related issues. 
- 
-Amira also continues to advise various Statutory Boards and other foundations and organisations on a plethora of legal matters, ranging from collaboration and procurement documentation, to other contractual and regulatory issues.
- 
-She is regularly invited to speak on and provide her viewpoints on several occasions relating to range of matters including IP, DP, contracts, and on establishing businesses. 
+        
+Amira is presently a legal counsel at Kyndryl, the world’s largest IT infrastructure provider listed on the NYSE, where she advises on regional legal, regulatory and compliance matters as well as transactions particularly for the highly dynamic markets in Malaysia and Indonesia, apart from Singapore. She is the subject matter expert for data privacy matters within the ASEAN legal team.
+
+Previously, Amira practiced in a Singapore law practice for over 7 years focusing on IP and technology including data protection. Her experience included data protection advisory and in handling data breach investigations by the PDPC. She has also a wealth of experience on advising SMEs on IP strategy and commercialization, and other commercial and technology-related issues. During her time in practice, she had worked with various Statutory Boards and other government-linked organisations on wide ranging legal matters.
+
+She is a strong supporter of the pro bono community and the charity sector. She is presently on the Service Committee and a Board Member of AMKFSC Community Services.
 
 
 
@@ -165,7 +166,7 @@ Lei Theng is also a mediator, having been a Principal Mediator with the Singapor
 <img src="/images/SPEAKERS%20LAW2023/lim%20liyen.png" style="width:250px !important;">
 
          
-Liyen has volunteered at Pro Bono SG from 2017, where she helped develop content for our law awareness webinars on a variety of topics, and was a moderater for several of them.&nbsp; It is a project she greatly enjoys being a part of. Liyen was called to the Singapore bar in 2000. She joined Pro Bono SG’s Outreach department in October 2023 and looks forward to learning and contributing to the programme
+Liyen has volunteered at Pro Bono SG from 2017, where she helped develop content for our law awareness webinars on a variety of topics, and was a moderater for several of them.&nbsp; It is a project she greatly enjoys being a part of. Liyen was called to the Singapore bar in 2000. She joined Pro Bono SG’s Outreach department in October 2023 and looks forward to learning and contributing to the programme.
 
 
 ### MARGARET YEOW

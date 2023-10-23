@@ -30,7 +30,7 @@ sections:
       button: Find out more
       url: /2023/about/
       alt: Key visual of LAW@CDC 2023
-      image: /images/pre launch hero image.png
+      image: /images/new main image.png
   - infobar:
       title: Webinar Topics
       description: Register for our webinars to learn about your rights and equip
@@ -44,6 +44,6 @@ sections:
         Councils and Pro Bono SG in collaboration with our network of partners.
       button: Learn More
       url: /2023/partners/
-      image: /images/organisers3.png
+      image: /images/organisers7.png
       alt: Image alt text
 ---
