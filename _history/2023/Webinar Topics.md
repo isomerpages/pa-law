@@ -8,7 +8,7 @@ third_nav_title: "2023"
 
 ### 与邻居的冲突 — 这可以解决吗？
 **Monday, 23 October 2023, 7.00pm – 8.30pm**
-![](/images/20231023%20与邻居的冲突%20—%20这可以解决吗？.png)
+![](/images/new%20%2020231023%20与邻居的冲突%20—%20这可以解决吗.png))
 
 您是否厌倦了无休止的财产边界争论、嘈杂的聚会或不守规矩的宠物？深入全面探索调解技巧、法律权利和责任，以及可以将有争议的关系转变为和谐共处的主动沟通方法。发现解决噪音干扰、共享便利设施和财产侵占等常见纠纷的实用技巧。
 <br><br>
@@ -20,7 +20,7 @@ third_nav_title: "2023"
 ### Conflicts with Neighbours – can this be resolved?
 
 **Tuesday, 24 October 2023, 7.00pm – 8.30pm**
-![20231024 Conflicts with Neighbours – can this be resolved](/images/20231024%20conflicts%20with%20neighbours%20–%20can%20this%20be%20resolved.png)
+![](/images/SASW%20Logo%20Webinar%20Images/new%20%2020231024%20conflicts%20with%20neighbours%20–%20can%20this%20be%20resolved.png)
 
 Are you tired of endless arguments over property boundaries, noisy gatherings, or unruly pets? Delve into a comprehensive exploration of mediation techniques, legal rights and responsibilities, and proactive communication approaches that can transform contentious relationships into harmonious coexistence. Uncover practical tips on addressing common disputes like noise disturbances, shared amenities, and property encroachments.
 <br><br>
@@ -33,7 +33,7 @@ Join our moderator, Philip Lin Sing Man (Vice President and Senior Counsel, Marr
 ### Divorce Matters and Concerns - Custody, Care and Control
 
 **Wednesday, 25 October 2023, 7.00pm – 8.30pm**
-![20231025 Divorce matters and concerns - Custody, Care and Control](/images/20231025%20divorce%20matters%20and%20concerns%20-%20custody,%20care%20and%20control.png)
+![](/images/SASW%20Logo%20Webinar%20Images/new%20%2020231025%20divorce%20matters%20and%20concerns%20-%20custody,%20care%20and%20control.png)
 
 Discover a transformative path forward as you try to navigate the complexities of a civil divorce with strength and resilience. Looking to unlock practical strategies for effective communication, financial planning, and emotional healing?&nbsp;
 <br><br>  
@@ -45,7 +45,7 @@ Whether you are contemplating divorce, currently in the process, or starting ane
 ### 离婚事宜和顾虑 - 监护、照顾和控制
 
 **Monday, 30 October 2023, 7.00pm – 8.30pm**
-![20231030 离婚事宜和顾虑 -  监护、照顾和控制](/images/20231030%20离婚事宜和顾虑%20-%20%20监护、照顾和控制.png)
+![](/images/SASW%20Logo%20Webinar%20Images/new%20%2020231030%20离婚事宜和顾虑%20-%20%20监护、照顾和控制.png)
 
 当您尝试用力量和韧性驾驭民事离婚的复杂性时，发现一条变革性的前进道路。想要解锁有效沟通、财务规划和情绪治疗的实用策略？
 <br><br>
@@ -57,7 +57,7 @@ Whether you are contemplating divorce, currently in the process, or starting ane
 ### Dealing with Creditors
 
 **Tuesday, 31 October 2023, 7.00pm – 8.30pm**
-![20231031 Dealing with Creditors](/images/20231031%20dealing%20with%20creditors.png)
+![](/images/SASW%20Logo%20Webinar%20Images/new%20%2020231031%20dealing%20with%20creditors.png)
 Dealing with debt and creditors is a difficult matter to handle, for you, your loved ones, and your business. Sometimes, the process starts even more upstream when addiction could be the leading cause to getting into debt. We understand that it is not an easy conversation to have, but we are here to give you advice on how you and your loved ones can better navigate if caught in such a situation.&nbsp;
 <br><br>
 Join our moderator, Samson Leo (Co-Founder &amp; Chief Legal Officer, Xfers/Fazz Financial Group) and speakers, Toh Wei Yi (Partner, Harry Elias Partnerships), Tan Huey Min (General Manager, Credit Counselling Singapore) and Dr Julia Lam (Advisor, One Hope Centre) as they discuss how you can handle this matter better and insights to help you gain a better grasp of this tough issue!
@@ -69,7 +69,7 @@ Join our moderator, Samson Leo (Co-Founder &amp; Chief Legal Officer, Xfers/Fazz
 ### What is Workplace Harassment and how do I deal with it?
 
 **Wednesday, 1 November 2023, 7.00pm – 8.30pm**
-![20231101 What is Workplace Harassment and how do I deal with it](/images/20231101%20what%20is%20workplace%20harassment%20and%20how%20do%20i%20deal%20with%20it.png)
+![](/images/SASW%20Logo%20Webinar%20Images/new%20%2020231101%20what%20is%20workplace%20harassment%20and%20how%20do%20i%20deal%20with%20it.png)
 Are you tired of feeling helpless when faced with workplace harassment?
 <br><br>
 Do you yearn for a safe and respectful workplace where your potential can flourish?
@@ -88,7 +88,7 @@ This webinar is brought to you by LawWorks – a collaboration between the Natio
 ### Syariah Divorce and Related Matters
 
 **Monday, 6 November 2023, 7.30pm – 9.00pm**
-![20231106 Syariah Divorce and Related Matters](/images/20231106%20syariah%20divorce%20and%20related%20matters.png)
+![](/images/SASW%20Logo%20Webinar%20Images/new%20%2020231106%20syariah%20divorce%20and%20related%20matters.png)
 
 Looking to explore the unique challenges and empowering strategies within the context of a Syariah divorce? Unsure of how to navigate the intricate processes of the Syariah Court?
  <br><br>
@@ -100,7 +100,7 @@ Join our moderator, Amira Budiyano (Attorney, Kyndryl) and speakers, Ahmad Nizam
 ### Protect Yourself - How to Spot and Avoid Scams
 
 **Tuesday, 7 November 2023, 7.00pm – 9.00pm**
-![20231107 Protect Yourself - How to Spot and Avoid Scams](/images/20231107%20protect%20yourself%20-%20how%20to%20spot%20and%20avoid%20scams.png)
+![](/images/SASW%20Logo%20Webinar%20Images/new%20%2020231107%20protect%20yourself%20-%20how%20to%20spot%20and%20avoid%20scams.png)
 
 Don’t become another victim of scams! Unsure on how to protect yourself from the ever-evolving world of scams and fraud? In today’s digital age, scams can lurk around every corner, targeting unsuspecting individuals with cunning tactics and sophisticated schemes. 
 <br><br>
@@ -113,7 +113,7 @@ Join our moderator, Eunice Chua (Chief Executive Officer, FIDReC) and speakers, 
 ### Perceraian di Mahkamah Syariah dan hal berkaitan dengannya
 
 **Wednesday, 8 November 2023, 7.30pm – 9.00pm**
-![20231108 Perceraian syariah dan perkara berkaitan](/images/20231108%20perceraian%20syariah%20dan%20perkara%20berkaitan.png)
+![](/images/SASW%20Logo%20Webinar%20Images/new%20%2020231108%20perceraian%20di%20mahkamah%20syariah%20dan%20hal%20berkaitan%20dengannya.png)
 Ingin ketahui tentang perkara-perkara yang berkaitan dengan perceraian di Mahkamah Syariah, seperti cabaran yang unik dan strategi yang membantu? Tidak pasti bagaimana untuk mengharungi proses yang rumit di Mahkamah Syariah?
 <br><br>
 Sertai program kami di mana sekumpulan panel akan berkongsi maklumat terperinci mengenai proses perceraian di Mahkamah Syariah&nbsp;di Singapura, serta melengkapkan individu-individu&nbsp;yang ingin meneruskan proses itu tanpa representasi peguam&nbsp;dengan kemahiran untuk mengharungi proses perceraian dengan penuh keyakinan. Dapatkan pandangan tentang prinsip-prinsip Islam, hak perundangan, dan kesejahteraan emosi semasa melalui fasa kritikal ini&nbsp;dalam hidup anda.&nbsp;
@@ -126,7 +126,7 @@ Sama ada anda sedang mempertimbangkan untuk bercerai, ataupun&nbsp;sedang&nbsp;m
 ### 处理或遭遇家庭暴力？
 
 **Thursday, 9 November 2023, 7.00pm – 9.00pm**
-![20231109 处理或遭遇家庭暴力？](/images/20231109%20处理或遭遇家庭暴力？.png)
+![](/images/SASW%20Logo%20Webinar%20Images/new%20%2020231109%20处理或遭遇家庭暴力？.png)
 
 当我们揭示这个普遍存在的家庭暴力问题时，发现闭门造车后存在的惊人统计数据和隐藏的现实。了解如何识别警告信号并获得实用的预防、干预和支持策略。通过提高认识和促进理解，我们可以使个人、家庭和社区有能力反对家庭暴力。<br><br>
 加入该小组，徐雪琨 (主持人), 余美娟律师 (董事, PY Legal LLC) 和 蓝惠群 (首席社工, 关怀机构), 因为他们对家庭暴力的根本原因、动态和影响提供了宝贵的见解，探索有效的沟通技巧、冲突解决策略和可用于打破虐待循环的资源。让我们一起成为解决方案，为每个人创造一个更安全、更富有同情心的世界
