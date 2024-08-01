@@ -3,6 +3,7 @@ title: Webinar Topics
 permalink: /2023/webinar/
 description: ""
 third_nav_title: "2023"
+variant: markdown
 ---
 <span id="webinar_page_top"></span>
 
@@ -14,8 +15,6 @@ third_nav_title: "2023"
 <br><br>
 加入我们的小组，李益诚 (主持人), 罗国伟 (高级讲师, 新跃社科大学) 和 Dr Martin Wong (调解员, 社区调解中心), 因为他们提供现实生活中的案例研究和建议，为您提供有效解决与邻居冲突的宝贵策略和见解。获得你需要的知识和工具来驾驭错综复杂的邻里冲突并实现持久的解决方案。让我们借此机会培养更好的邻里关系，培养社区内的团结感。
 
-<a href="https://us02web.zoom.us/webinar/register/7016887170596/WN_1llGiylTQreH2uqT9hJM2g#/registration" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button" style="width:200px !important;"></a>
-<hr>
 
 ### Conflicts with Neighbours – can this be resolved?
 
@@ -26,8 +25,7 @@ Are you tired of endless arguments over property boundaries, noisy gatherings, o
 <br><br>
 Join our moderator, Philip Lin Sing Man (Vice President and Senior Counsel, Marriott International) and speakers, Lim Lei Theng (Partner, Allen &amp; Gledhill) and Sunil Rai (Master Mediator, Community Mediation Centre) as they provide real-life case studies and advice to equip you with invaluable strategies and insights on effectively resolving conflicts with your neighbours. Gain the knowledge and tools you need to navigate the intricate landscape of neighbour conflicts and achieve lasting resolutions. Let’s take the opportunity to foster better neighbourly relationships and foster a sense of unity within your community.
 
-<a href="https://us02web.zoom.us/webinar/register/7016887170596/WN_98K0huMVTIK1CS6pXIFowA#/registration" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button" style="width:200px !important;"></a>
-<hr>
+
 
 
 ### Divorce Matters and Concerns - Custody, Care and Control
@@ -38,8 +36,7 @@ Join our moderator, Philip Lin Sing Man (Vice President and Senior Counsel, Marr
 Discover a transformative path forward as you try to navigate the complexities of a civil divorce with strength and resilience. Looking to unlock practical strategies for effective communication, financial planning, and emotional healing?&nbsp;
 <br><br>  
 Whether you are contemplating divorce, currently in the process, or starting anew, join our moderator, Lim Liyen (Volunteer, Pro Bono SG) and speakers Yap Teong Liang (Director, TL Yap Law Chambers LLC) and Yeow Ming Zhen (Head, FAM@FSC, Methodist Welfare Services) as they explore topics such as legal rights, division of assets, child custody, and co-parenting, equipping you with the knowledge needed to make informed decisions and ensure a smoother transition. Gain insights on empowering tools and strategies that will transform your divorce journey into an opportunity for personal development and a brighter future.
-<a href="https://us02web.zoom.us/webinar/register/7016887170596/WN_yXOW790zQhmcmmqAnzWA4Q#/registration" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button" style="width:200px !important;"></a>
-<hr>
+
 
 
 ### 离婚事宜和顾虑 - 监护、照顾和控制
@@ -51,8 +48,6 @@ Whether you are contemplating divorce, currently in the process, or starting ane
 
 无论您是正在考虑离婚、目前正在离婚还是重新开始，都可以加入我们的小组, 何嘉倪 (主持人), 姚婷婷律师 (董事, 何进才律师馆) 和 苏玮玲 (部门主管，巩固家庭计划, (FAM@FSC) 湖畔家庭服务机构)，因为他们会探讨合法权利、资产分割、子女监护权和共同抚养等主题，让您掌握做出明智决定所需的知识和确保更平稳的过渡。获得有关授权工具和策略的见解，这些工具和策略将把您的离婚之旅转变为个人发展和更光明未来的机会。
 
-<a href="https://us02web.zoom.us/webinar/register/7016887170596/WN_T9F8-6VAQt6g5nE2zD6jXA" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button" style="width:200px !important;"></a>
-<hr>
 
 ### Dealing with Creditors
 
@@ -61,9 +56,6 @@ Whether you are contemplating divorce, currently in the process, or starting ane
 Dealing with debt and creditors is a difficult matter to handle, for you, your loved ones, and your business. Sometimes, the process starts even more upstream when addiction could be the leading cause to getting into debt. We understand that it is not an easy conversation to have, but we are here to give you advice on how you and your loved ones can better navigate if caught in such a situation.&nbsp;
 <br><br>
 Join our moderator, Samson Leo (Co-Founder &amp; Chief Legal Officer, Xfers/Fazz Financial Group) and speakers, Toh Wei Yi (Partner, Harry Elias Partnerships), Tan Huey Min (General Manager, Credit Counselling Singapore) and Dr Julia Lam (Advisor, One Hope Centre) as they discuss how you can handle this matter better and insights to help you gain a better grasp of this tough issue!
-
-<a href="https://us02web.zoom.us/webinar/register/7016887170596/WN_PvU7S1odSK-mGF0VottPxw#/registration" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button" style="width:200px !important;"></a>
-<hr>
 
 
 ### What is Workplace Harassment and how do I deal with it?
@@ -82,8 +74,6 @@ Join our moderator, Serene Gan (Deputy Head of Legal, International Property Gro
 <br><br>
 This webinar is brought to you by LawWorks – a collaboration between the National Trades Union Congress (NTUC) and Pro Bono SG.
 
-<a href="https://us02web.zoom.us/webinar/register/7016887170596/WN_9IRkzIf0SOyEnPKh_b05rQ" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button" style="width:200px !important;"></a>
-<hr>
 
 ### Syariah Divorce and Related Matters
 
@@ -94,8 +84,6 @@ Looking to explore the unique challenges and empowering strategies within the co
  <br><br>
 Join our moderator, Amira Budiyano (Attorney, Kyndryl) and speakers, Ahmad Nizam Abbas (Managing Director, Crescent Law Chambers) and Nurhafizah Syed (Assistant Senior Social Worker, PPIS As-Salaam, Divorce Support Specialist Agency) as they aim to provide a comprehensive understanding of the Syariah divorce process in Singapore and equip individuals proceeding with the process without legal representation with the tools to navigate it with confidence and resilience. Gain insights into Islamic principles, legal rights, and emotional well-being during this critical phase of your life. Whether you're considering or already undergoing a divorce under Syariah law, this webinar will empower you to make informed decisions and embrace a brighter future. Embark on a journey towards personal growth and emotional empowerment.
 
-<a href="https://us02web.zoom.us/webinar/register/7016887170596/WN_IeQkD7oKRY6ePYhHKSSYCw" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button" style="width:200px !important;"></a>
-<hr>
 
 ### Protect Yourself - How to Spot and Avoid Scams
 
@@ -107,8 +95,6 @@ Don’t become another victim of scams! Unsure on how to protect yourself from t
 Join our moderator, Eunice Chua (Chief Executive Officer, FIDReC) and speakers, Yam Wern-Jhien (Director, Setia Law LLC),  Nicholas Aaron Khoo (Council Member, National Crime Prevention Council) and Rosie Ann Mcintyre (Assistant Director, Public Education Programme, Scam Public Education Office, Operations Department, Singapore Police Force) as they aim to arm you with invaluable knowledge and practical strategies to identify, avoid, and combat scams effectively. <br><br>From phishing emails and fake websites to investment fraud and identity theft, they will explore the most prevalent scams and share with you on how to recognise red flags before it is too late. Also discover powerful techniques to safeguard your personal and financial information, understand the psychology behind scams, and learn how to protect yourself, your loved ones, and your business from falling prey to deceptive practices.
 
 
-<a href="https://us02web.zoom.us/webinar/register/7016887170596/WN_n_io-o6aSvqC4KurCemytg" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button" style="width:200px !important;"></a>
-<hr>
 
 ### Perceraian di Mahkamah Syariah dan hal berkaitan dengannya
 
@@ -120,8 +106,6 @@ Sertai program kami di mana sekumpulan panel akan berkongsi maklumat terperinci 
 <br><br>
 Sama ada anda sedang mempertimbangkan untuk bercerai, ataupun&nbsp;sedang&nbsp;melalui perceraian di Mahkamah Syariah, webinar ini boleh memperkasakan anda&nbsp;bagi membuat keputusan&nbsp;yang penuh informasimenuju masa depan yang lebih cerah. Mulakan perjalanan&nbsp;anda&nbsp;ke arah perkembangan kehidupan dan emosi yang lebih positif.
 
-<a href="https://us02web.zoom.us/webinar/register/7016887170596/WN_0FtkNF7eTgqgV9rCX4cWsQ" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button" style="width:200px !important;"></a>
-<hr>
 
 ### 处理或遭遇家庭暴力？
 
@@ -132,9 +116,6 @@ Sama ada anda sedang mempertimbangkan untuk bercerai, ataupun&nbsp;sedang&nbsp;m
 加入该小组，徐雪琨 (主持人), 余美娟律师 (董事, PY Legal LLC) 和 蓝惠群 (首席社工, 关怀机构), 因为他们对家庭暴力的根本原因、动态和影响提供了宝贵的见解，探索有效的沟通技巧、冲突解决策略和可用于打破虐待循环的资源。让我们一起成为解决方案，为每个人创造一个更安全、更富有同情心的世界
 
 
-<a href="https://us02web.zoom.us/webinar/register/7016887170596/WN_aq4pvjLSSvux8y373Qh8RA" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button" style="width:200px !important;"></a>
-<hr>
-
 ### 保护自己 — 如何发现和避免诈骗
 
 **Tuesday, 14 November 2023, 7.00pm – 8.30pm**
@@ -144,9 +125,6 @@ Sama ada anda sedang mempertimbangkan untuk bercerai, ataupun&nbsp;sedang&nbsp;m
 加入小组，蔡惠涵 (主持人), 陈悦欣 (副主任, Setia Law LLC) 和 朱志伟 (理事, 全国罪案防范理事会), 因为他们旨在为您提供宝贵的知识和实用策略，以有效地识别、避免和打击诈骗。从网络钓鱼电子邮件和虚假网站到投资欺诈和身份盗窃，他们将探索最普遍的骗局，并与您分享如何在为时已晚之前识别危险信号。还可以发现保护您的个人和财务信息的强大技术，了解诈骗背后的心理，并学习如何保护您自己、您的亲人和您的企业免遭欺骗行为的侵害。
 
 
-<a href="https://us02web.zoom.us/webinar/register/7016887170596/WN_o_-1WKN3TkmItctOVQCc9A" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button" style="width:200px !important;"></a>
-<hr>
-
 ### Dealing with or Encountering Family Violence?
 
 **Wednesday, 15 November 2023, 7.00pm – 8.30pm**
@@ -154,9 +132,6 @@ Sama ada anda sedang mempertimbangkan untuk bercerai, ataupun&nbsp;sedang&nbsp;m
 Discover the startling statistics and hidden realities that exist behind closed doors as we shine a light on this pervasive problem on family violence. Learn how to identify warning signs and gain practical strategies for prevention, intervention, and support. By raising awareness and fostering understanding, we can empower individuals, families, and communities to take a stand against family violence.&nbsp;
 <br><br>
 Join our moderator, Nadia Fernandopulle (Principal Legal Counsel, Robert Walters Group) and speakers, June Lim (Managing Director, Eden Law Corporation) and Kristine Lam (Principal Social Worker, Care Corner Singapore Ltd) as they provide invaluable insights into the root causes, dynamics, and impact of family violence, explore effective communication techniques, conflict resolution strategies, and resources available to break the cycle of abuse. Together, let's be the solution and create a safer, more compassionate world for everyone.
-
-<a href="https://us02web.zoom.us/webinar/register/7016887170596/WN_oOD2nZ-GTP2iZ9pNT2DXWA#/registration" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button" style="width:200px !important;"></a>
-<hr>
 
 
 ### 关于遗嘱和临终事宜的高级法律规划
@@ -168,8 +143,6 @@ Join our moderator, Nadia Fernandopulle (Principal Legal Counsel, Robert Walters
 无论您是希望开始遗产规划之旅的年轻专业人士，还是寻求更新现有安排的经验丰富的个人，请加入主持人, 傅明音女士与 萧锦耀律师 (创办人兼主任律师, 正氣律师事务所), 周慕仪医生 (慈怀护理部家庭医学科副顾问医生, 陈笃生医院) 和 方月云 (资深社工, 蒙福关爱) 聊天因为它们可以帮助您清楚地了解各种法律文件，确保对子孙后代产生持久影响。踏上通往安全且受到良好保护的遗产之路。
 
 
-<a href="https://us02web.zoom.us/webinar/register/7016887170596/WN__guFlOUQRJGgZyw6NmWTJA" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button" style="width:200px !important;"></a>
-<hr>
 
 ### Advance Legal Planning on Wills and End-of-Life Matters
 
@@ -179,9 +152,6 @@ Planning for your later years but not sure what to do? Concerned but unaware abo
 <br><br>
 Join our moderator, Ng Shu Ping (Head of Legal &amp; Compliance (Asia cluster), Group of companies providing workforce&nbsp;solutions) and speakers, Tan Shen Kiat (Managing Director, Kin &amp; Kith Law Corporation), Dr Adeline Lam (Senior Consultant for General Medicine and Clinical Co-Lead for ACP, Tan Tock Seng Hospital) and Julia Lee (Senior Director, TOUCH Community Services) as they share about a variety of legal tools you can use to ensure that your family is taken care of while your wishes are respected even after you are gone.
 
-
-<a href="https://us02web.zoom.us/webinar/register/7016887170596/WN_VM9cV56zQwyuFTkqGwZQEw" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button" style="width:200px !important;"></a>
-<hr>
 
 
 [Back to Top](#webinar_page_top)
