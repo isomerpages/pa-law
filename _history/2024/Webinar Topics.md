@@ -9,8 +9,7 @@ third_nav_title: "2024"
 
 ### Your Backyard Sanctuary: Legal Protections for Singapore's Biodiversity
 **Monday, 16 September 2024, 7.30pm – 9pm**
-![](/images/new%20%2020231023%20与邻居的冲突%20—%20这可以解决吗.png)
-
+![](/images/2024_09_16_Your_Backyard_Sanctuary__Legal_Protections_for_Singapore_s_Biodiversity.png)
 Singapore's green spaces are teeming with life. This talk explores the legal frameworks safeguarding our native flora and fauna. Explore the Singapore Biodiversity Act and Parks and Trees Act, and learn how they protect endangered species and urban ecosystems. The discussion will cover real-life scenarios like encountering protected wildlife or illegal plant removal. The audience will gain insights on their individual and collective roles in upholding biodiversity within their neighbourhoods.
 
 Join us as our moderator, Sadhana Rai (Head of Representation, Pro Bono SG), and speakers, Dr Joseph Chun (Partner, Shook Lin &amp; Bok LLP) and Ganesh Kumar (Chairman, Woodlands Botanical Garden), as they discuss on how you can play an active role in upholding biodiversity within your neighbourhood.
@@ -21,8 +20,8 @@ Join us as our moderator, Sadhana Rai (Head of Representation, Pro Bono SG), and
 ### Furry Friends, Fair Treatment: Understanding Animal Welfare Laws
 
 **Wednesday, 18 September 2024, 7.30pm – 9pm**
-![](/images/SASW%20Logo%20Webinar%20Images/new%20%2020231024%20conflicts%20with%20neighbours%20–%20can%20this%20be%20resolved.png)
 
+![](/images/2024_09_18_Furry_Friends__Fair_Treatment__Understanding_Animal_Welfare_Laws.png)
 Singapore places a high value on animal welfare. This talk explores the Animals and Birds Act, focusing on legal protections against animal cruelty and neglect. The discussion will delve into scenarios like pet abandonment, inadequate care, and recognizing signs of animal cruelty. The panelists will explain the legal process for reporting such incidents and the role of animal welfare organizations. Attendees will gain insights into their rights and responsibilities as pet owners, and how they can contribute to a more compassionate environment for animals in Singapore.
 
 Join us as our moderator, Jolena Ang (Legal Counsel, QAF Limited), and speakers, Sadhana Rai (Head of Representation, Pro Bono SG) and Aarthi Shankar (Executive Director, Society for the Prevention of Cruelty to Animals (SPCA)), as they discuss valuable insights and practical advice on how you can advocate for and contribute to animal welfare in your community.
@@ -35,7 +34,7 @@ Join us as our moderator, Jolena Ang (Legal Counsel, QAF Limited), and speakers,
 ### Dealing with or Encountering Family Violence?
 
 **Monday, 23 September 2024, 7.30pm – 9pm**
-![](/images/SASW%20Logo%20Webinar%20Images/new%20%2020231025%20divorce%20matters%20and%20concerns%20-%20custody,%20care%20and%20control.png)
+![](/images/2024_09_23_Dealing_with_or_Encountering_Family_Violence.png)
 
 Discover the startling statistics and hidden realities behind closed doors as we shine a light on the pervasive problem of family violence. Learn how to identify warning signs and gain practical strategies for prevention, intervention, and support. By raising awareness and fostering understanding, we can empower individuals, families, and communities to take a stand against family violence.
 
@@ -48,7 +47,7 @@ Join our moderator, Goh Qian Hui (Community Law Fellow, Pro Bono SG) and speaker
 ### Be CyberSafe!
 
 **Monday, 30 September 2024, 7.30pm – 9pm**
-![](/images/SASW%20Logo%20Webinar%20Images/new%20%2020231030%20离婚事宜和顾虑%20-%20%20监护、照顾和控制.png)
+![](/images/2024_09_30_Be_CyberSafe_.png)
 
 Are you worried about Cybersecurity and how your data is being handled? Organizations today are sitting on huge amounts of data and everyone is struggling to make sense of how their data is protected. What can organisations do to minimise cybersecurity risks especially given new work patterns which evolved as a result of the pandemic? What should you, as a consumer, expect of organisations? What can you do if you feel that your data has been misused or not treated properly? Our panel will discuss the common pitfalls in managing privacy risks as well as the implications and things to note when you face data and security breaches.
  
@@ -61,7 +60,7 @@ Join us as our moderator, Serene Gan (Deputy Head of Legal, International Proper
 ### Combatting Pollution: Towards a Greener and Better Singapore
 
 **Wednesday, 2 October 2024, 7.30pm – 9pm**
-![](/images/SASW%20Logo%20Webinar%20Images/new%20%2020231031%20dealing%20with%20creditors.png)
+![](/images/2024_10_02_Combatting_Pollution__Towards_a_Greener_and_better_Singapore.png)
 Do you know what happens when you leave your vehicle’s engine on idle? Or what you should do with the packaging waste after you have finished your takeaway meal?  What are the laws governing retailers of electronic goods when it comes to e-waste?
 
 Join us for an enlightening talk on Singapore’s environmental regulations focusing on pollution, recycling, and waste management. Learn about vehicle emissions laws, idle engine regulations, and how to handle e-waste and packaging waste. Discover what businesses must do to control pollution and their responsibilities in managing hazardous waste, and your rights as consumers. In this ‘Year of Public Hygiene’, learn about laws and regulations affecting waste management, pollution, and how you can do your part towards a cleaner and greener Singapore.
@@ -74,7 +73,7 @@ Join us as our moderator, Sean Tseng (Adjunct Assistant Professor, NUS), and spe
 ### Help! I am a Victim of Online Harassment!
 
 **Monday, 7 October 2024, 7.30pm – 9pm**
-![](/images/SASW%20Logo%20Webinar%20Images/new%20%2020231101%20what%20is%20workplace%20harassment%20and%20how%20do%20i%20deal%20with%20it.png)
+![](/images/2024_10_07_Help__I_am_a_Victim_of_Online_Harassment_.png)
 Is someone defaming you online or perhaps sharing intimate photos or videos of you? Do you know someone who is being stalked or harassed online? Whether you are in one of these situations or want to know what can be done if you ever need to support someone, join us for this informative discussion! 
  
 Our moderator Marco Low (Group General Counsel, StorHub Self Storage) and speakers, Fong Wei Li, (Managing Director, Forward Legal LLC) and Colin Goh (Chief Programmes and Engagement Officer, SG Her Empowerment (SHE) Ltd) will address topics such as cyberbullying, harassment, repeated unwanted contact, and technologically-facilitated sexual violence, with a focus on explaining the legal remedies that are available, and how to access them.
@@ -86,8 +85,7 @@ Our moderator Marco Low (Group General Counsel, StorHub Self Storage) and speake
 ### Conflicts with Neighbours – can this be resolved?
 
 **Wednesday, 9 October 2024, 7.30pm – 9pm**
-![](/images/SASW%20Logo%20Webinar%20Images/new%20%2020231106%20syariah%20divorce%20and%20related%20matters.png)
-
+![](/images/2024_10_09_Conflicts_with_Neighbours___can_this_be_resolved.png)
 Are you tired of endless arguments over property boundaries, noisy gatherings, or unruly pets? Join us for a comprehensive exploration of mediation techniques, legal rights and responsibilities, and proactive communication approaches that can transform contentious relationships into harmonious coexistence. Discover practical tips on addressing common disputes such as noise disturbances, shared amenities, and property encroachments. Learn how to resolve conflicts effectively and create a more peaceful and cooperative living environment.
 
 Join our moderator, Luke Kwek (Head, Legal (APAC sans China), Arkema) and speakers, Lim Lei Theng (Partner, Allen &amp; Gledhill) and Katherine Yap (Master Mediator, Community Mediation Centre) as they provide real-life case studies and advice to equip you with invaluable strategies and insights on effectively resolving conflicts with your neighbours. Gain the knowledge and tools you need to navigate the intricate landscape of neighbour conflicts and achieve lasting resolutions. Let’s take the opportunity to foster better neighbourly relationships and foster a sense of unity within your community.
@@ -99,8 +97,7 @@ Join our moderator, Luke Kwek (Head, Legal (APAC sans China), Arkema) and speake
 ### Navigating the Employment Landscape
 
 **Tuesday, 15 November 2024, 7.30pm – 9pm**
-![](/images/SASW%20Logo%20Webinar%20Images/new%20%2020231107%20protect%20yourself%20-%20how%20to%20spot%20and%20avoid%20scams.png)
-
+![](/images/2024_10_15_Navigating_the_Employment_Landscape.png)
 Are you tired of feeling helpless in the face of workplace harassment? Imagine a safe and respectful workplace where your potential can truly flourish. Are you ready to stand up, speak out, and champion positive change? Discover how to unravel the complexities of workplace harassment and explore practical strategies to confront and overcome it. Learn how to cultivate a culture of inclusivity and respect, ensuring that every employee’s rights are protected.
 
 Join our moderator, Regana Mydin (Learning &amp; Development Manager, Rajah &amp; Tann Asia Academy) and speakers, Amarjit Kaur (Partner, Withers KhatterWong), and Patrick Tay (Assistant Secretary-General, NTUC) as they share effective methods for preventing and addressing workplace discrimination and harassment, and guide you on implementing robust policies that promote equality and diversity.
@@ -113,7 +110,7 @@ Join our moderator, Regana Mydin (Learning &amp; Development Manager, Rajah &amp
 ### Protect Yourself – How to Spot and Avoid Scams
 
 **Wednesday, 16 October 2024, 7.30pm – 9pm**
-![](/images/SASW%20Logo%20Webinar%20Images/new%20%2020231108%20perceraian%20di%20mahkamah%20syariah%20dan%20hal%20berkaitan%20dengannya.png)
+![](/images/2024_10_16_Protect_Yourself___How_to_Spot_and_Avoid_Scams.png)
 Don’t become another victim of scams! Unsure how to protect yourself from the ever-evolving world of scams and fraud? In today’s digital age, scams can lurk around every corner, targeting unsuspecting individuals with cunning tactics and sophisticated schemes. Learn how to identify, avoid, and combat scams effectively with invaluable knowledge and practical strategies.
 
 Join our moderator, Andrew Lee (Assistant General Counsel, Kaplan Higher Education Academy Pte Ltd) and speakers, Victoria Ting (Associate Director, Setia Law LLC), Nicholas Aaron Khoo (Council Member, National Crime Prevention Council), and Rosie Ann McIntyre (Assistant Director, Public Education Programme, Scam Public Education Office, Operations Department, Singapore Police Force). They will explore the most prevalent scams, from phishing emails and fake websites to investment fraud and identity theft. Discover how to recognize red flags before it’s too late and powerful techniques to safeguard your personal and financial information. Understand the psychology behind scams and learn how to protect yourself, your loved ones, and your business from falling prey to deceptive practices.
@@ -124,7 +121,7 @@ Join our moderator, Andrew Lee (Assistant General Counsel, Kaplan Higher Educati
 ### Advance Legal Planning on Wills and End-of-Life Matters (Civil)
 
 **Monday, 21 October 2024, 7.30pm – 9pm**
-![](/images/SASW%20Logo%20Webinar%20Images/new%20%2020231109%20处理或遭遇家庭暴力？.png)
+![](/images/2024_10_21_Advance_Legal_Planning_on_Wills_and_End_of_Life_Matters__Civil_.png)
 
 Are you planning for your later years but unsure where to start? Concerned about what happens after the demise of a loved one? It’s never too early to plan ahead for the future, and the most precious gift you can leave your family is peace of mind. Imagine having the confidence that your loved ones will be taken care of, and your wishes will be respected, no matter what the future holds.
 
@@ -137,7 +134,7 @@ Join our moderator, Catherine Yong (Legal Counsel Asia/Pacific, Schaeffler (Sing
 ### Advance Legal Planning on Wills and End-of-Life Matters (Syariah)
 
 **Wednesday, 23 October 2024, 7.30pm – 9pm**
-![](/images/SASW%20Logo%20Webinar%20Images/new%20%2020231114%20保护自己%20—%20如何发现和避免诈骗.png)
+![](/images/2024_10_23_Advance_Legal_Planning_on_Wills_and_End_of_Life_Matters__Syariah_.png)
 
 What is Faraidh? What does the Islamic Law say about you planning for your later years? Are you unsure where or how to start? Concerned about what happens after the demise of a loved one under Syariah law? It’s never too early to plan ahead for the future, and the most precious gift you can leave your family is peace of mind. Imagine having the confidence that your loved ones will be taken care of according to Islamic principles, and having your last wishes respected, no matter what the future holds.
 
