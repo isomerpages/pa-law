@@ -7,18 +7,18 @@ third_nav_title: "2024"
 ---
 ### AARTHI SHANKAR
 
-<img src="/images/dr%20adeline%20lam.png" style="width:250px !important;">
+<img src="/images/Aarthi_Shankar.png" style="width:250px !important;">
 
 Aarthi Sankar has been the Executive Director of the SPCA since November 2021. She oversees the daily operations of the shelter, a 24-hour rescue hotline, Singapore’s only Community Animal Clinic, and its engagement and advocacy efforts to strengthen laws and policies relating to animals. Prior to joining the SPCA, she spent a decade at the People's Association, where she led key projects, including the Specialist Community Club and served as the Constituency Director at Marsiling. Aarthi holds a Bachelor of Arts in Sociology from the National University of Singapore.
 ### DR ADELINE LAM
 
-<img src="/images/ahmad%20nizam%20abbas.png" style="width:250px !important;">
+<img src="/images/Dr_Adeline_Lam.png" style="width:250px !important;">
 
 Dr Lam Is the Senior consultant in the Department of General Medicine and Clinical Co-lead ACP team at Tan Tock Seng Hospital. She is also a member of the Advance Care Planning Steering Committee of Singapore.
 
 ### AHMAD NIZAM ABBAS
 
-<img src="/images/Amarjit%20Kaur.jpg" style="width:250px !important;">
+<img src="/images/Ahmad_Nizam_Abbas.png" style="width:250px !important;">
 
 Ahmad Nizam Abbas was admitted as an Advocate and Solicitor of the Supreme Court of Singapore in January 1994. In 2013, he obtained a Master of Laws in Islamic Law and Finance from the Singapore Management University. He is the Founder and Managing Director of Crescent Law Chambers. 
 
@@ -29,7 +29,7 @@ For his services in community work, Ahmad was awarded the PBM (Pingat Bakti Masy
 
 
 ### AMARJIT KAUR
-<img src="/images/SPEAKERS%20LAW2023/amira%202.png" style="width:250px !important;">
+<img src="/images/Amarjit_Kaur.png" style="width:250px !important;">
        
 Amarjit Kaur is a partner in the litigation and arbitration team, and head of the employment practice at Withers KhattarWong. Aside from employment, she also specializes in crisis management and strategic global mobility. 
  
@@ -44,13 +44,13 @@ A thought leader and recognised authority in the employment space, Amarjit is co
 
 
 ### ANDREW LEE
-<img src="/images/SPEAKERS%20LAW2023/andrew%20lee.png" style="width:250px !important;">
+<img src="/images/Andrew_Lee.png" style="width:250px !important;">
 
 Andrew is the Assistant General Counsel for a global education provider and was formerly an Associate Director at Drew &amp; Napier LLC. His passions lie in dispute resolution, employment, intellectual property, data protection and family law. He’s found volunteering with LSPBS particularly rewarding and fun and looks to continue in his free time.
 
 
 ### COLIN GOH
-<img src="/images/SPEAKERS%20LAW2023/bernard%20choo.png" style="width:250px !important;">
+<img src="/images/Colin_Goh.png" style="width:250px !important;">
 
 Colin Goh is Chief Programmes and Engagement Officer at SHE, an independent non-profit organisation, with Institution of Public Character status, that empowers girls and women through community engagements and partnerships. A former litigator in Singapore and attorney in New York, he is also an award-winning filmmaker, New York Times bestselling cartoonist, but most important of all—the dad of a daughter. One of SHE’s primary initiatives is the SHECARES@SCWO Centre, which provides a safe space for targets of online harms, particularly girls and women, along with free professional counselling, help with reporting to the relevant platforms, and legal advice through a partnership with Pro Bono SG.
 
