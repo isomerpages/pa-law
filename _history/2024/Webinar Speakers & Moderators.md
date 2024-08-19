@@ -55,7 +55,7 @@ Andrew is the Assistant General Counsel for a global education provider and was 
 Colin Goh is Chief Programmes and Engagement Officer at SHE, an independent non-profit organisation, with Institution of Public Character status, that empowers girls and women through community engagements and partnerships. A former litigator in Singapore and attorney in New York, he is also an award-winning filmmaker, New York Times bestselling cartoonist, but most important of all—the dad of a daughter. One of SHE’s primary initiatives is the SHECARES@SCWO Centre, which provides a safe space for targets of online harms, particularly girls and women, along with free professional counselling, help with reporting to the relevant platforms, and legal advice through a partnership with Pro Bono SG.
 
 ### DHARMA SHANTI
-<img src="/images/SPEAKERS%20LAW2023/dr%20chau%20mo%20yee.png" style="width:250px !important;">
+<img src="/images/Dharma_Shanti.png" style="width:250px !important;">
 
 Dharma runs her own law firm, Dharma Law LLC with other lawyers and they routinely act for companies and individuals in the areas of corporate and commercial law, and civil, criminal and family matters. Dharma has worked extensively in the public and private sectors over the last two decades holding various positions of responsibilities. She also regularly gives talks and training sessions to government bodies and family service centres.
 
