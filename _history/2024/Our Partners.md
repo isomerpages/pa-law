@@ -75,3 +75,20 @@ For more information, please visit[ https://www.suss.edu.sg/]( https://www.suss.
 The Singapore Corporate Counsel Association Limited (“SCCA”) is the pioneer national organisation serving the in-house community in Singapore. It prides in building reputable regional training programs, leadership and industry conversations, legal counsel career toolkits, competency frameworks encompassing technical knowledge, skills, and the right attitude and character for corporate lawyers. SCCA Pro Bono Chapter aims to encourage volunteerism and the pro bono spirit among the in-house community.
 
 For more information, please visit [https://www.scca.org.sg/](https://www.scca.org.sg/)
+
+## Singapore Association of Social Workers
+
+
+The Singapore Association of Social Workers is the professional representative body of Social Workers in Singapore.  Established in 1971, SASW as the national professional association serves the following objectives:
+
+*   Advance Social Work as a profession and foster a high standard of Social Work in the country
+    
+*   Participate in activities which promote Social Work and social welfare on the national and international level
+    
+*   Participate in and provide community and social services to the public
+    
+*   Promote the well-being of Social Workers
+    
+ 
+
+For more information, please visit&nbsp;[https://www.sasw.org.sg/](https://www.sasw.org.sg/)
