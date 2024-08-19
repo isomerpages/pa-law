@@ -2,8 +2,8 @@ collections:
   history:
     output: true
     order:
-      - 2024/.keep
       - Law Awareness Weeks @ CDC.md
+      - 2024/.keep
       - 2023/.keep
       - 2023/About LAW@CDC 2023.md
       - 2023/Webinar Topics.md
