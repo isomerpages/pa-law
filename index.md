@@ -12,16 +12,16 @@ sections:
       key_highlights:
         - title: WEBINAR TOPICS
           description: ""
-          url: /2023/webinar/
+          url: /2024/webinar/
         - title: Webinar Speakers & moderators
           description: ""
-          url: /2023/speakers/
+          url: /2024/speakers/
         - title: Legal Talks
           description: ""
-          url: /2023/talks/
+          url: /2024/talks/
         - title: Our PARTNERS
           description: ""
-          url: /2023/partners/
+          url: /2024/partners/
       variant: center
   - infopic:
       title: About LAW@CDC 2024
