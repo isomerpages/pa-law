@@ -19,6 +19,7 @@ Dr Lam Is the Senior consultant in the Department of General Medicine and Clinic
 ### AHMAD NIZAM ABBAS
 
 <img src="/images/Amarjit%20Kaur.jpg" style="width:250px !important;">
+
 Ahmad Nizam Abbas was admitted as an Advocate and Solicitor of the Supreme Court of Singapore in January 1994. In 2013, he obtained a Master of Laws in Islamic Law and Finance from the Singapore Management University. He is the Founder and Managing Director of Crescent Law Chambers. 
 
 Ahmad Nizam has published several articles on Muslim law in Singapore, in particular jurisdictional issues between the civil courts ( Family Justice Court) and Syariah Court . In October 2022, a book he co-authored entitled ‘Muslim Family Law in Singapore’ (Academy Publishing)was launched by a High Court judge . He is the co-creator of the module on Muslim Family Law at the Singapore University of Social Sciences and have spoken at various conferences organised by National University of Singapore and Singapore Management University.   
@@ -251,4 +252,3 @@ Yvette presently oversees the employment law function in across Western Digital�
 With over 14 years of experience, Yvette is adept at navigating the nuanced landscape and complexities of regulations and practices across APAC, ensuring compliance, and fostering fair workplace practices. 
  
 Prior to Western Digital, Yvette was a litigator in private practice and held partner-level positions in prominent international and Singapore firms. She brings this dept and breadth of experience to bear as a trusted advisor to key internal and external stakeholders.
-
