@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/lawcdc2023 hero image - no logo banner.png
+      background: /images/LAW_CDC_2024_Logo__isomer_web_banner_.png
       url: /about/
       key_highlights:
         - title: WEBINAR TOPICS
