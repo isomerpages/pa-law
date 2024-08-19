@@ -130,19 +130,19 @@ Legal Counsel (APAC outside China), Arkema Pte Ltd (from 2 Sep)
 
 
 ### JOSEPH CHUN
-<img src="/images/SPEAKERS%20LAW2023/kristine%20lam.png" style="width:250px !important;">
+<img src="/images/Joseph_Chun.png" style="width:250px !important;">
 
 Dr Joseph Chun is an environmental lawyer at Shook Lin &amp; Bok LLP and leads the firm’s Environmental, Social and Governance practice. He is concurrently an adjunct associate professor and a member of the Asia-Pacific Centre for Environmental Law at the Faculty of Law in the National University of Singapore, where he teaches environmental law. He has written widely on environmental law and ESG and is the lead author of Singapore’s only environmental law textbook. Joseph volunteers as a member of the Singapore Venture Capital and Private Equity Association’s ESG Committee, the Asia Pacific regional board of the Global Alliance of Impact Lawyers, the International Union for Conservation of Nature’s World Commission on Environmental Law, and the Mandai Wildlife Group’s Animal Welfare and Ethics Committee. He also regularly works with local green civil society groups on advocacy projects and reports.
 
 ### JULIA LEE
-<img src="/images/SPEAKERS%20LAW2023/lim%20lei%20theng.png" style="width:250px !important;">
+<img src="/images/Julia_Lee.png" style="width:250px !important;">
 
 Julia holds a Masters in Health Science (Gerontology) and a BA in Social Work. She is a registered social worker with over 35 years of experience in the field of eldercare. She is also a registered Professional Deputy and Donee (PDD) with the Office of the Public Guardian and a certified Advance Care Plan facilitator. She was the national winner of the Outstanding Social Worker Award in 2014.
 
 In 2019, she has spearheaded PDD, a ground-breaking initiative, where she sets up and leads a team to step in to act as proxy decision-makers for personal welfare and property &amp; affairs in the event that the individuals lack mental capacity. TOUCH Community Services is the only social service agency that offers the PDD service.
 
 ### KATHERINE YAP
-<img src="/images/SPEAKERS%20LAW2023/lim%20liyen.png" style="width:250px !important;">
+<img src="/images/Katherine_Yap.png" style="width:250px !important;">
 
          
 Katherine Yap was one of the pioneer visionaries who spearheaded the establishment of Maxwell Chambers in Singapore. She also championed the expansion of Maxwell Chambers new building premise, Maxwell Chambers Suites, in August 2019. Katherine also jointly led Maxwell Chambers through the co-founding of the IACA (International Arbitration Centre Alliance), advocating the use of virtual and hybrid ADR hearings globally. 
@@ -153,7 +153,7 @@ Katherine further adds to her comprehensive portfolio in the ADR landscape throu
 
 
 ### KRISTINE LAM
-<img src="/images/SPEAKERS%20LAW2023/margret%20yeow.png" style="width:250px !important;">
+<img src="/images/Kristine_Lam.png" style="width:250px !important;">
 
 Kristine graduated from the National University of Singapore with a Bachelor of Arts degree majoring in Social Work. She joined Care Corner Family Service Centre (Queenstown) in 2012 and is currently an accredited Registered Social Worker (RSW) with the Social Work Accreditation Board, Singapore.
 
@@ -166,7 +166,7 @@ Currently, she is leading the Care Corner Youth Services under children and yout
 
 
 ### LIM LEI THENG
-<img src="/images/SPEAKERS%20LAW2023/marjianah%20binte%20abu%20bakar.png" style="width:250px !important;">
+<img src="/images/Lim_Lei_Theng.png" style="width:250px !important;">
 Lei Theng is Co-Head of Allen &amp; Gledhill‘s Pro Bono programme.
 
 Lei Theng has been recognised for her volunteer contributions to the Legal Aid Bureau, the State Courts and various charities. She has been involved in the development of numerous innovative and sustainable pro bono opportunities that provide high quality legal services to individuals, families, communities and charities. Lei Theng was also instrumental in the setting up of the National University of Singapore’s Pro Bono Office in 2014, and she was appointed founding Co-Director of the NUS Centre for Pro Bono &amp; Clinical Legal Education in 2017, a post she held until June 2020.
@@ -175,17 +175,17 @@ Lei Theng is also a mediator, having been a Principal Mediator with the Singapor
 
 
 ### LUKE KWEK
-<img src="/images/SPEAKERS%20LAW2023/dr%20martin%20wong.png" style="width:250px !important;">
+<img src="/images/Luke_Kwek.png" style="width:250px !important;">
 
 Luke is a corporate lawyer with practice and in-house experience. He currently leads the APAC (ex China) legal team in a French chemical manufacturing group. He also volunteers with local arts charities and is a supporter of the arts. He has been blessed with friendly and considerate neighbours - so far.
 
 ### PATRICK TAY
-<img src="/images/SPEAKERS%20LAW2023/melvin%20loh.png" style="width:250px !important;">
+<img src="/images/Patrick_Tay.png" style="width:250px !important;">
 
 Patrick is the Assistant Secretary-General of NTUC and also Director of NTUC’s Legal Services and Strategy. Concurrently, he is an elected MP and member of the NTUC Central Committee. He chairs the Government Parliamentary Committee (GPC) for Education and is a member of the GPC for Law and Home Affairs. He has been representing the Labour Movement in all the tripartite workgroups to review/update employment and industrial relations legislation.
 
 ### PEGGY SARAH YEE
-<img src="/images/SPEAKERS%20LAW2023/nadia%20fernandopulle.png" style="width:250px !important;">
+<img src="/images/Peggy_Sarah_Yee.png" style="width:250px !important;">
 
 Peggy is actively involved in various aspects of legal practice, acting for both multi-national, local and individual clients alike. She handles a broad spectrum of legal matters, in particular in the areas of Family and Civil Litigation, Real Estate Conveyancing, Probate and Estate and Corporate matters.
 
@@ -194,18 +194,18 @@ Peggy is particularly interested and invested in Family Law matters. She conside
 
 ### SADHANA RAI
 
-<img src="/images/SPEAKERS%20LAW2023/ng%20shu%20ping.png" style="width:250px !important;">
+<img src="/images/Sadhana_Rai.png" style="width:250px !important;">
 
 Sadhana Rai was called to the Bar in 2013. She started her legal career at Drew &amp; Napier LLC under Mr Davinder Singh, SC. In June 2015, she joined the inaugural batch of the CLAS Fellowship as the sixth CLAS Fellow and was there till she was offered the CLAS Advocate role in 2017. In her five years at CLAS, she has appeared before both the Supreme Court and the State Courts and has secured acquittals, and succeeded on appeals. In a recognition of her exceptional work, she was commended by the SAL Selection Committee of The Joseph Grimberg Outstanding Young Advocate Award.  Sadhana has shared her thoughts on practice matters in her Singapore Law Gazette article in Oct 2020.
 
 
 ### SEAN TSENG
-<img src="/images/SPEAKERS%20LAW2023/nicholas%20aaron%20khoo.png" style="width:250px !important;">
+<img src="/images/Sean_Tseng.png" style="width:250px !important;">
 
 TBC
 
 ### SERENE GAN
-<img src="/images/SPEAKERS%20LAW2023/nurhafizah%20syed.png" style="width:250px !important;">
+<img src="/images/Serene_Gan.png" style="width:250px !important;">
 
 Serene is a senior regional legal counsel, qualified in Singapore and New York, with a background in Singapore and regional corporate work as well as commercial litigation. Serene provides practical legal advice to her clients, allowing them to capture business opportunities while effectively managing transactions, operations and on-the-ground legal risks. 
  
@@ -213,12 +213,12 @@ She is the board member of the Singapore Corporate Counsel Association and chair
 
 
 ### VICTORIA TING
-<img src="/images/SPEAKERS%20LAW2023/patrick%20tay.png" style="width:250px !important;">
+<img src="/images/Victoria_Ting.png" style="width:250px !important;">
 
 Victoria is an Associate Director with Setia Law LLC, specialising in financial crime, fraud and investigations.  Prior to working at Setia Law, she was a Deputy Public Prosecutor with the Attorney-General’s Chambers of Singapore, where she handled multiple fraud, money-laundering and bribery prosecutions.  She graduated from Cambridge University and holds an LLM from Columbia Law School.
 
 ### YAP TEONG LIANG
-<img src="/images/SPEAKERS%20LAW2023/peggy%20sarah%20yee.png" style="width:250px !important;">
+<img src="/images/Yap_Teong_Liang.png" style="width:250px !important;">
 
 Teong Liang was called to the Bar of England and Wales (Middle Temple) in 1991 and admitted as an Advocate &amp; Solicitor of the Supreme Court of Singapore in June 1992. On 10 June 2002, he set up his boutique law firm specialising in Family Law.
  
@@ -230,7 +230,7 @@ Teong Liang has presented papers at both local and overseas family law conferenc
 
 
 ### YEOW MING ZHEN
-<img src="/images/SPEAKERS%20LAW2023/philip%20man.png" style="width:250px !important;">
+<img src="/images/Yeow_Ming_Zhen.png" style="width:250px !important;">
 
 Ms Yeow Ming Zhen is currently the Associate Director – Strategic Development of Family Services for Methodist Welfare Services (MWS). Prior to this position, she was heading Strengthening Families Programme@Family Service Centre (FAM@FSC), under MWS. FAM@FSC programme is an initiative by Ministry of Social and Family Development (MSF) to support couples and families with family counselling, as well as divorce support programmes.
 
@@ -245,7 +245,7 @@ She had presented at various International Conferences and contributed to public
 
 ### YVETTE ANTHONY
 
-<img src="/images/SPEAKERS%20LAW2023/richard%20siaw.png" style="width:250px !important;">
+<img src="/images/Yvette_Anthony.png" style="width:250px !important;">
 
 Yvette presently oversees the employment law function in across Western Digital’s APAC operations including Thailand, Malaysia, Philippines, and Singapore.  In this capacity, Yvette handles matters across the employment-law spectrum – including litigation management,  investigations and data protection – partnering closely with the business function to achieve optimal outcomes. 
  
