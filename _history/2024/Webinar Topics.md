@@ -147,7 +147,7 @@ Join our moderator, Yvette Anthony (Director, Employment Law APAC, Western Digit
 ### Divorce under Civil Law
 
 **Monday, 28 October 2024, 7.30pm – 9pm**
-![](/images/SASW%20Logo%20Webinar%20Images/new%20%2020231115%20dealing%20with%20or%20encountering%20family%20violence.png)
+![](/images/2024_10_28_Divorce_under_Civil_Law.png)
 Discover a transformative path forward as you try to navigate the complexities of a civil divorce with strength and resilience. Looking to unlock practical strategies for effective communication, financial planning, and emotional healing? 
 
 Whether you are contemplating divorce, currently in the process, or starting anew, join our moderator, Jerrick Lim (Senior Legal Counsel, EVYD Research Private Limited) and speakers Yap Teong Liang (Director, TL Yap Law Chambers LLC) and Yeow Ming Zhen (Head, FAM@FSC, Methodist Welfare Services) as they explore topics such as legal rights, division of assets, child custody, and co-parenting, equipping you with the knowledge needed to make informed decisions and ensure a smoother transition. Gain insights on empowering tools and strategies that will transform your divorce journey into an opportunity for personal development and a brighter future.
@@ -159,7 +159,7 @@ Whether you are contemplating divorce, currently in the process, or starting ane
 ### Divorce under Syariah Law
 
 **Tuesday, 29 October 2024, 7.30pm – 9pm**
-![](/images/SASW%20Logo%20Webinar%20Images/new%20%2020231120%20关于遗嘱和临终事宜的高级法律规划.png)
+![](/images/2024_10_29_Divorce_under_Syariah_Law.png)
 Looking to explore the unique challenges and empowering strategies within the context of a Syariah divorce? Unsure of how to navigate the intricate processes of the Syariah Court? Gain a comprehensive understanding of the Syariah divorce process in Singapore and learn how to navigate it with confidence and resilience, even without legal representation.
 
 Join our moderator, Victoria Ho (Deputy General Counsel, APAC, Teradyne) and speakers, Ahmad Nizam Abbas (Managing Director, Crescent Law Chambers), and Name (Designation, PPIS As-Salaam, Divorce Support Specialist Agency) as they provide valuable insights into Islamic principles, legal rights, and emotional well-being during this critical phase of your life. Whether you’re considering or already undergoing a divorce under Syariah law, this webinar will empower you to make informed decisions and embrace a brighter future. Embark on a journey towards personal growth and emotional empowerment.
