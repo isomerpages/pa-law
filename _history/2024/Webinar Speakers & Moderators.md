@@ -60,13 +60,13 @@ Colin Goh is Chief Programmes and Engagement Officer at SHE, an independent non-
 Dharma runs her own law firm, Dharma Law LLC with other lawyers and they routinely act for companies and individuals in the areas of corporate and commercial law, and civil, criminal and family matters. Dharma has worked extensively in the public and private sectors over the last two decades holding various positions of responsibilities. She also regularly gives talks and training sessions to government bodies and family service centres.
 
 ### FONG WEI LI
-<img src="/images/SPEAKERS%20LAW2023/elaine%20ho.png" style="width:250px !important;">
+<img src="/images/Fong%20Wei%20Li.jpg" style="width:250px !important;">
 
 Wei Li is the managing director of Forward Legal LLC – a small law firm specialising in Internet and social media law. He primarily practises litigation and arbitration, with a focus on media, Internet, and China-related matters. Wei Li also enjoys sharing his experience. He is an active member of the Law Awareness Committee and is often invited to conduct public talks and seminars aimed at promoting legal knowledge and awareness among laypersons. In addition to lawyering, Wei Li is an adjunct faculty member at the Singapore Management University’s YPH School of Law.
 
 
 ### GENIE SUGENE GAN	
-<img src="/images/SPEAKERS%20LAW2023/eunice%20chua.png" style="width:250px !important;">
+<img src="/images/Genie_Sugene_Gan.png" style="width:250px !important;">
 
 Genie heads up Kaspersky’s Public Affairs in the Asia-Pacific &amp; Middle-East, Turkey and Africa regions, where she is responsible for developing trusted relations with government and institutional stakeholders for the company, while integrating the business, communications and public policy strategies.
  
@@ -79,7 +79,7 @@ Outside her professional portfolio, her passion for teaching, non-profit and cha
 
 
 ### GOH QIAN HUI
-<img src="/images/SPEAKERS%20LAW2023/faith%20png.png" style="width:250px !important;">
+<img src="/images/Goh_Qian_Hui.png" style="width:250px !important;">
 
 Qian Hui co-leads the legal team at Pro Bono SG's Community Law Centres, providing high-touch legal help including representation for vulnerable individuals. The team prides itself on holistic socio-legal aid, sitting on multidisciplinary panels with social service professionals to equip vulnerable communities with legal awareness for upstream support. 
  
@@ -89,7 +89,7 @@ She has been with PBSG since her call to the Singapore Bar in 2019. She joined a
 
 
 ### HALIJAH MOHAMAD
-<img src="/images/SPEAKERS%20LAW2023/foo%20meng%20yeen.png" style="width:250px !important;">
+<img src="/images/Halijah_Mohamad.png" style="width:250px !important;">
 
 Halijah Mohamad graduated from National University of S’pore and was called to the bar in 1984. The focus of her practice is family law (in both civil and syariah courts). She is involved with various NGOs (including AWARE &amp; Muslim Financial Planning Association). She is now Vice President of S’pore Association of Women's Lawyers. She is a member of the Family Law Practice and Muslim Law Practice Committees in the Law Society.  
 
@@ -97,7 +97,7 @@ She is also part of Musawah (a global movement for equality in Muslim family). S
 
 
 ## IRENE LYE LIN HENG
-<img src="/images/SPEAKERS%20LAW2023/jen%20xu%20xuekun.png" style="width:250px !important;">
+<img src="/images/Irene_Lye_Lin_Heng.png" style="width:250px !important;">
 
 Emeritus Professor Lye Lin-Heng taught Land Law and Environmental Law at NUS for many years.  She obtained her LLB (Hons) from NUS and holds masters degrees from Kings College London and Harvard University.
 
@@ -109,18 +109,18 @@ She is on the Advisory Board of APCEL; WWF Singapore, and the Nature Society Sin
 
 
 ### JEFFREY LIM
-<img src="/images/SPEAKERS%20LAW2023/dr%20julia%20lam.png" style="width:250px !important;">
+<img src="/images/Jeffrey_Lim.png" style="width:250px !important;">
 
 Jeffrey specializes in intellectual property, data protection, cybersecurity, data governance, and artificial intelligence. He has worked with various organisations from global big tech to national organisations, in industries ranging from healthcare, financial services, e-commerce, consumer platforms. He has also advised foreign governments on data protection and security laws, advised nationally prominent IT and healthcare organisations, and his work has also been used / formed part of national sectoral IT agreements. He formerly chaired the Law Society of Singapore’s Cybersecurity &amp; Data Protection Committee and is an honorary legal advisor to the Singapore Computer Society (“SCS”). He also helped develop the Singapore Computer Society (SCS) AI Ethics Body of Knowledge (BOK) and helped to establish the world’s first AI Ethics professional certification programme in collaboration with SCS and IMDA.
 
 
 ### JERRICK LIM
-<img src="/images/SPEAKERS%20LAW2023/julia%20lee.png" style="width:250px !important;">
+<img src="/images/Jerrick_Lim.png" style="width:250px !important;">
 
 Jerrick Lim is a Senior Legal Counsel working in EVYD Technology. He has significant experience in corporate commercial work, and is currently supporting the global growth of EVYD. Jerrick previously had experiences in the travel, logistics and the insurance industry. He has ongoing interest in ensuring access to justice, and mentoring the next generation of legal professionals.
 
 ### JOLENA ANG
-<img src="/images/SPEAKERS%20LAW2023/june%20lim.png" style="width:250px !important;">
+<img src="/images/Jolena_Ang.png" style="width:250px !important;">
 
 Jolena is currently legal counsel of a multinational company. She has more than 8 years of experience advising on a wide range of general corporate and intellectual property matters. Outside of the office, she volunteers as a Board Director of FootballPlus Limited, a charity supporting children through football.  
 
