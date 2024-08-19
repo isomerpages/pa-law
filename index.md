@@ -24,26 +24,26 @@ sections:
           url: /2023/partners/
       variant: center
   - infopic:
-      title: About LAW@CDC 2023
+      title: About LAW@CDC 2024
       description: LAW@CDC is a nationwide effort to promote awareness and
         understanding of the law in the community through a series of talks.
       button: Find out more
-      url: /2023/about/
-      alt: Key visual of LAW@CDC 2023
-      image: /images/new main image.png
+      url: /2024/about/
+      alt: Key visual of LAW@CDC 2024
+      image: /images/LAW_CDC_2024_Logo__Mast_Head__Banner.png
   - infobar:
       title: Webinar Topics
       description: Register for our webinars to learn about your rights and equip
         yourself on how to best handle basic legal issues.
       button: Register now
-      url: /2023/webinar/
+      url: /2024/webinar/
   - infopic:
       title: Our Partners
       id: infopic
       description: LAW@CDC 2023 is brought to you by the five Community Development
         Councils and Pro Bono SG in collaboration with our network of partners.
       button: Learn More
-      url: /2023/partners/
+      url: /2024/partners/
       image: /images/organisers7.png
       alt: Image alt text
 ---
