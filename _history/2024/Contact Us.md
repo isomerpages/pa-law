@@ -11,4 +11,4 @@ If you have any enquiries or feedback regarding Law Awareness Weeks @ CDC 2024, 
 
 General: +65 6536 0650
 
-Email: <a href="mailto: abc@example.com">outreach@probono.sg</a>
+Email: <a href="mailto: abc@example.com">comms@probono.sg</a>
