@@ -40,7 +40,7 @@ sections:
   - infopic:
       title: Our Partners
       id: infopic
-      description: LAW@CDC 2023 is brought to you by the five Community Development
+      description: LAW@CDC 2024 is brought to you by the five Community Development
         Councils and Pro Bono SG in collaboration with our network of partners.
       button: Learn More
       url: /2024/partners/
