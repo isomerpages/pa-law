@@ -6,7 +6,8 @@ agency_name: LAW@CDC
 contacts:
   - content:
       - phone: +65 6536 0650
-      - email: outreach@lawsocprobono.org
+      - email: outreach@probono.sg
       - other: ""
     title: General Enquiries & Feedback
+feedback: ""
 ---
