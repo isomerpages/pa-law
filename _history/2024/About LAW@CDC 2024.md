@@ -18,7 +18,7 @@ Chapter, supported by the People’s Association.</p>
 of the law in the community through a series of talks, so that people living
 and working in Singapore may know their rights and be empowered when faced
 with common legal issues.&nbsp;&nbsp; This year, there will be 13 law awareness
-webinars aired ‘live’ online from 16 September - 30 October 2024. There
+webinars aired ‘live’ online from 16 September - 29 October 2024. There
 will also be a series of in-person legal talks happening in the community.</p>
 <p>The theme for LAW@CDC 2024 is <strong>Green Justice for Sustainable Communities</strong>,
 designed to educate the public on laws protecting nature and the environment.
