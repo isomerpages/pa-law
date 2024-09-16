@@ -47,6 +47,12 @@ A thought leader and recognised authority in the employment space, Amarjit is co
 <img src="/images/Andrew_Lee.png" style="width:250px !important;">
 
 Andrew is the Assistant General Counsel for a global education provider and was formerly an Associate Director at Drew &amp; Napier LLC. His passions lie in dispute resolution, employment, intellectual property, data protection and family law. He’s found volunteering with LSPBS particularly rewarding and fun and looks to continue in his free time.
+### Catherine Yong
+<img src="/images/Catherine_Yong.png" style="width:250px !important;">
+
+Catherine has been Regional Legal Counsel at Schaeffler Singapore since year 2021. She will be starting a new role as Head of Real Estate Management to oversee Asia Pacific region of Schaeffler’s properties and assets from 1 October 2024. Schaeffler is a global technology company offers components and system solutions for both vehicles with drive trains based on the internal combustion engine and hybrid and electric vehicles . The main products include clutch systems, transmission components, torsion dampers, valve train systems, camshaft phasing units, and electric drives. Catherine is responsible for all legal and regulatory issues across the integral business and its subsidiaries within South East Asia and Pacific regions and she is also the member of country committee team at Schaeffler Singapore. Catherine serves in a number of positions across the Schaeffler Group, including acting as strategic legal business partner for its 2 mains business divisions and member of crisis management at Schaeffler based in Singapore. 
+ 
+Before working for Schaeffler, Catherine was legal counsel and compliance officer for about 8 years in logistics and warehousing industry.
 
 
 ### COLIN GOH
@@ -54,7 +60,7 @@ Andrew is the Assistant General Counsel for a global education provider and was 
 
 Colin Goh is Chief Programmes and Engagement Officer at SHE, an independent non-profit organisation, with Institution of Public Character status, that empowers girls and women through community engagements and partnerships. A former litigator in Singapore and attorney in New York, he is also an award-winning filmmaker, New York Times bestselling cartoonist, but most important of all—the dad of a daughter. One of SHE’s primary initiatives is the SHECARES@SCWO Centre, which provides a safe space for targets of online harms, particularly girls and women, along with free professional counselling, help with reporting to the relevant platforms, and legal advice through a partnership with Pro Bono SG.
 
-### DHARMA SHANTI
+### DHARMA JAYARAM
 <img src="/images/Dharma_Shanti.png" style="width:250px !important;">
 
 Dharma runs her own law firm, Dharma Law LLC with other lawyers and they routinely act for companies and individuals in the areas of corporate and commercial law, and civil, criminal and family matters. Dharma has worked extensively in the public and private sectors over the last two decades holding various positions of responsibilities. She also regularly gives talks and training sessions to government bodies and family service centres.
@@ -63,7 +69,10 @@ Dharma runs her own law firm, Dharma Law LLC with other lawyers and they routine
 <img src="/images/Fong%20Wei%20Li.jpg" style="width:250px !important;">
 
 Wei Li is the managing director of Forward Legal LLC – a small law firm specialising in Internet and social media law. He primarily practises litigation and arbitration, with a focus on media, Internet, and China-related matters. Wei Li also enjoys sharing his experience. He is an active member of the Law Awareness Committee and is often invited to conduct public talks and seminars aimed at promoting legal knowledge and awareness among laypersons. In addition to lawyering, Wei Li is an adjunct faculty member at the Singapore Management University’s YPH School of Law.
+### GANESH KUMAR
+<img src="/images/Ganesh_Kumar.png" style="width:250px !important;">
 
+Ganesh is the Chairman of Woodlands Botanical Garden (WBG), Singapore’s largest community garden spanning 4000 sqm in size and 9 storeys in height. It is the only community garden dedicated to biodiversity and mental wellness. With no consumption of materials from the garden, any flowers, leaves and edibles are purely planted for Nature and her creatures, and the subconscious engagement of the 5 senses have helped officially establish WBG as the therapeutic node of the North. The garden aims to be as inclusive as she possibly can, providing tours and activities for all demographics and ensuring that all programmes do not carry any cost and are freely accessible. This creates a sense of kampung spirit that serves as an inspiration for other communities as well. WBG has several rare and vulnerable species including the Common Rose and Birdwing butterflies and Fiery Coraltail damselfly. These along with many other species are attempted to be protected under the area of WBG, especially with the case of the Common Birdwing which is an internationally protected species and its conservation programme in Singapore is being spear-headed and run solely by the WBG.
 
 ### GENIE SUGENE GAN	
 <img src="/images/Genie_Sugene_Gan.png" style="width:250px !important;">
@@ -178,6 +187,16 @@ Lei Theng is also a mediator, having been a Principal Mediator with the Singapor
 <img src="/images/Luke_Kwek.png" style="width:250px !important;">
 
 Luke is a corporate lawyer with practice and in-house experience. He currently leads the APAC (ex China) legal team in a French chemical manufacturing group. He also volunteers with local arts charities and is a supporter of the arts. He has been blessed with friendly and considerate neighbours - so far.
+### MARCO LOW
+<img src="/images/Marco_Low.png" style="width:250px !important;">
+
+Marco is the Group General Counsel of StorHub Self Storage, where he heads up the legal and compliance department of the leading pan-APAC self-storage platform which owns, develops and operates self-storage and wine storage facilities across 19 gateway cities in Singapore, China (including Hong Kong SAR), Japan, Korea, Australia and Malaysia, spanning over 80,000 units and 7 million square feet of gross floor area.
+
+With more than a decade of legal, real estate and regional experience gathered from both the public and private sectors, Marco specialises in property-focused mergers and acquisitions, as well as complex and innovative property transactions.
+
+Prior to joining to StorHub Self Storage, Marco was the first Asia-Pacific legal counsel of Allianz Real Estate (now known as PIMCO Prime Real Estate), with primary responsibility for the legal structuring and transaction management of all real estate acquisitions, fund formations, fund investments and joint ventures across the region.
+
+Marco graduated from the National University of Singapore, Faculty of Law, on the inaugural executive development scholarship awarded by SPRING Singapore (now known as Enterprise Singapore), and is amongst the pioneer cohort of scholars groomed by the statutory board to be future business leaders of Singapore.
 
 ### PATRICK TAY
 <img src="/images/Patrick_Tay.png" style="width:250px !important;">
@@ -192,6 +211,23 @@ Peggy is actively involved in various aspects of legal practice, acting for both
 Peggy is particularly interested and invested in Family Law matters. She considers it a privilege to be entrusted with a client's personal family matters. As such, she handles every such matter sensitively. She consistently strategises for her clients so that they can best navigate the legal and emotional humps facing them. The goal is to achieve a solution that best addresses the client's needs and intent. She also believes that an acceptable settlement is preferable to an unsatisfactory judgment.
 
 
+### REGANA MYDIN
+
+<img src="/images/Regana_Mydin.png" style="width:250px !important;">
+
+Regana is the Learning &amp; Development Manager at the Rajah &amp; Tann Asia Academy. She works with the A-team to curate &amp; support professional development activities for the Rajah &amp; Tann Asia network of legal and business professionals, including organising events, training activities, and curating content for their online learning platform.
+ 
+She has two decades of diverse experience under her belt, spanning Social Services both in the Disability and Legal Pro Bono sector, Volunteer Management, the Arts, and Legal Education. Regana is on a mission to make legal education relevant and impactful and is a believer in the importance of empowering people to understand their legal rights.
+### ROSIE ANN MCINTYRE
+
+<img src="/images/rosie_ann_mcintyre.png" style="width:250px !important;">
+
+Superintendent (SUPT) Rosie McIntyre is the Assistant Director of Scam Public Education Office (SPEO) of the Singapore Police Force (SPF). Public education for a vigilant and discerning public is key to combating scams. 
+ 
+To this end, SPEO was formed in early 2023 to expand outreach on scams by leveraging on partnerships across different public and private domains and customize engagement efforts for the different population segments to achieve a scam-smart nation. 
+ 
+Supt Rosie McIntyre has served more than 15 years in the SPF and has various postings including Commanding Officer of Bukit Merah East Neighbourhood Police Centre (NPC) and several operational stints in Police Divisions and Police HQ Operations Department.
+
 ### SADHANA RAI
 
 <img src="/images/Sadhana_Rai.png" style="width:250px !important;">
@@ -199,10 +235,14 @@ Peggy is particularly interested and invested in Family Law matters. She conside
 Sadhana Rai was called to the Bar in 2013. She started her legal career at Drew &amp; Napier LLC under Mr Davinder Singh, SC. In June 2015, she joined the inaugural batch of the CLAS Fellowship as the sixth CLAS Fellow and was there till she was offered the CLAS Advocate role in 2017. In her five years at CLAS, she has appeared before both the Supreme Court and the State Courts and has secured acquittals, and succeeded on appeals. In a recognition of her exceptional work, she was commended by the SAL Selection Committee of The Joseph Grimberg Outstanding Young Advocate Award.  Sadhana has shared her thoughts on practice matters in her Singapore Law Gazette article in Oct 2020.
 
 
-### SEAN TSENG
+### SEAN D. TSENG
 <img src="/images/Sean_Tseng.png" style="width:250px !important;">
 
-TBC
+Sean is an Adjunct Assistant Professor at the National University of Singapore (NUS), Faculty of Law, where he convenes the Environmental Law course. He is also an Academic Fellow with the Asia-Pacific Centre for Environmental Law at NUS, pursuant to which he has released several award-winning essays and undertaken research projects in collaboration with the United Nations (UN) Environment Programme and UN Global Compact.
+
+The above is in conjunction with Sean’s role as Senior Legal Counsel for Sustainability at SHEIN, a global ecommerce company. In this role, he supports the legal aspects of the environmental and social sustainability efforts and ambitions by the company.  Prior to that, Sean spent more than 2 years as a Legal Consultant with ClientEarth, focusing on the use of corporate and financial laws to enable and promote climate action within the private and public sectors in Asia.
+ 
+Sean graduated from the National University of Singapore (NUS) with a Bachelor of Laws degree and is admitted to the Singapore bar. He also holds a Masters of Law in  Environmental Law &amp; Policy from University College London (Distinction).
 
 ### SERENE GAN
 <img src="/images/Serene_Gan.png" style="width:250px !important;">
@@ -210,6 +250,12 @@ TBC
 Serene is a senior regional legal counsel, qualified in Singapore and New York, with a background in Singapore and regional corporate work as well as commercial litigation. Serene provides practical legal advice to her clients, allowing them to capture business opportunities while effectively managing transactions, operations and on-the-ground legal risks. 
  
 She is the board member of the Singapore Corporate Counsel Association and chair of its Pro Bono Chapter which aims to encourage pro bono spirit within the in-house legal community to do volunteer work. 
+### VICTORIA HO
+<img src="/images/Victoria_Ho.png" style="width:250px !important;">
+
+Victoria is the Deputy General Counsel for APAC at Teradyne, a global supplier of automated test equipment and robotics solutions. With 15 years of legal experience across a mix of industrial sectors as well as medical devices, Victoria leads the contracts, employment, and litigation functions for Teradyne Asia, and advises on a range of legal issues from day-to-day operations, conducting investigations, to navigating grey areas in developing areas of law. 
+ 
+Victoria has been a supporter of Pro Bono SG and its initiatives since her early days of practice as a litigation lawyer and is happy to contribute to the pro bono community whenever she can.
 
 
 ### VICTORIA TING
@@ -252,3 +298,12 @@ Yvette presently oversees the employment law function in across Western Digital�
 With over 14 years of experience, Yvette is adept at navigating the nuanced landscape and complexities of regulations and practices across APAC, ensuring compliance, and fostering fair workplace practices. 
  
 Prior to Western Digital, Yvette was a litigator in private practice and held partner-level positions in prominent international and Singapore firms. She brings this dept and breadth of experience to bear as a trusted advisor to key internal and external stakeholders.
+
+### ZUNAIRAH BINTE SERON
+
+<img src="/images/Zunairah_Seron.png" style="width:250px !important;">
+
+Zunairah is a social worker with seven years of experience, specializing in supporting families through fostering and divorce. Her career began at PPIS Oasis, focusing on fostering services and ensuring children found safe, nurturing environments. Currently, she works at PPIS As-Salaam, where she assist children and parents navigate the challenges of divorce.
+
+In As-Salaam, Zunairah is dedicated to providing counselling support that help families navigate the emotional and practical challenges of divorce. By focusing on the unique needs of both children and parents, she aims to foster understanding, healing, and resilience within the family unit. Her approach empowers individuals to cope with and adapt to the changes brought about by divorce, promoting healthier family dynamics moving forward.
+
