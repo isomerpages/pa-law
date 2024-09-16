@@ -32,7 +32,7 @@ For more information, please visit [https://www.cdc.gov.sg](https://www.cdc.gov.
 
 Pro Bono SG (UEN No. 201700430E) is a registered charity with the status of Institution of a Public Character and a company limited by guarantee. It started as a department within The Law Society of Singapore and later became Law Society Pro Bono Services. Since 2007, we’ve expanded our legal initiatives and programs, helping over 150,000 people with legal awareness, guidance, and representation.
 
-In FY 21/22, we helped over 17,000 individuals and community organisations. Our volunteer base has grown to 1,000 registered volunteers from various industries and specialisations.
+In FY 23/24, we helped over 16,000 individuals and community organisations. Our volunteer base has grown to 1,000 registered volunteers from various industries and specialisations.
 
 To improve our services, Pro Bono SG works closely with community partners. Thanks to the support from our partners and supporters, we were renamed Pro Bono SG in 2022 to reflect the commitment of everyone in Singapore to our mission of doing good in the community.
 
