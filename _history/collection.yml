@@ -3,6 +3,13 @@ collections:
     output: true
     order:
       - Law Awareness Weeks @ CDC.md
+      - 2024/.keep
+      - 2024/About LAW@CDC 2024.md
+      - 2024/Webinar Topics.md
+      - 2024/Webinar Speakers & Moderators.md
+      - 2024/Legal Talks.md
+      - 2024/Our Partners.md
+      - 2024/Contact Us.md
       - 2023/.keep
       - 2023/About LAW@CDC 2023.md
       - 2023/Webinar Topics.md
