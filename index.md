@@ -16,9 +16,6 @@ sections:
         - title: Webinar Speakers & moderators
           description: ""
           url: /2024/speakers/
-        - title: Legal Talks
-          description: ""
-          url: /2024/talks/
         - title: Our PARTNERS
           description: ""
           url: /2024/partners/
