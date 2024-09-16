@@ -27,7 +27,7 @@ sections:
       title: About LAW@CDC 2024
       description: LAW@CDC is a nationwide effort to promote awareness and
         understanding of the law in the community through a series of talks.
-      button: Find out more
+      button: Discover this year's theme
       url: /2024/about/
       alt: Key visual of LAW@CDC 2024
       image: /images/LAW_CDC_2024_Logo__Mast_Head__Banner.png
