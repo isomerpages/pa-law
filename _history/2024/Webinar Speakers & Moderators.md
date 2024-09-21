@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: "2024"
 ---
-### AARTHI SHANKAR
+### AARTHI SANKAR
 
 <img src="/images/Aarthi_Shankar.png" style="width:250px !important;">
 
@@ -160,6 +160,13 @@ Fore fronting all facets of the business, Katherine has over 15years of experien
 
 Katherine further adds to her comprehensive portfolio in the ADR landscape through her certification as an Associate Mediator at the Singapore Mediation Centre, Master Mediator for the Community Mediation Centre and Mediator for the Singapore International Mediation Institution. She is also on the Panel of Mediators with Beihai Asia International Arbitration Centre and Executive Committee of the Society of Mediation Professionals (Singapore). She has over 11 years of experience in Mediation and actively presides over mediation cases with the CMC. 
 
+### KOH MIN EE
+<img src="/images/Koh_Min_Ee.png" style="width:250px !important;">
+
+Koh Min Ee has 20 years of experience working in the environment and infrastructure sector in the Singapore Government. Over this time, he has covered several diverse areas of work in the National Environment Agency spanning pollution control to meteorological services. Under his current portfolio, he oversee a range of policy issues under the Ministry of Sustainability and the Environment. These include vehicular and industrial emissions, waste management, recycling as well as public health.
+ 
+His academic background is in Chemical Engineering, and also completed a Masters in Environmental Management. Both were completed at NUS.
+
 
 ### KRISTINE LAM
 <img src="/images/Kristine_Lam.png" style="width:250px !important;">
@@ -187,6 +194,12 @@ Lei Theng is also a mediator, having been a Principal Mediator with the Singapor
 <img src="/images/Luke_Kwek.png" style="width:250px !important;">
 
 Luke is a corporate lawyer with practice and in-house experience. He currently leads the APAC (ex China) legal team in a French chemical manufacturing group. He also volunteers with local arts charities and is a supporter of the arts. He has been blessed with friendly and considerate neighbours - so far.
+
+### MOHD KAMAL MOKHTAR
+<img src="/images/Kamal_Mokhtar.png" style="width:250px !important;">
+
+Kamal has over 10 years of collective experience in Islamic advisory roles including holding senior management positions in Islamic education institutions, research and Shariah advisory roles. He presently holds various positions, Judge, Shariah Appeal Court of Singapore, Associate member, Fatwa Council of Majlis Ugama Islam Singapore (MUIS), Member, Asatizah Recognition Board (ARB) and Member, Singapore Islamic Scholars &amp; Religious teachers Association (PERGAS).
+
 ### MARCO LOW
 <img src="/images/Marco_Low.png" style="width:250px !important;">
 

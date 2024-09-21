@@ -27,7 +27,7 @@ sections:
       button: Discover this year's theme
       url: /2024/about/
       alt: Key visual of LAW@CDC 2024
-      image: /images/LAW_CDC_2024_Logo__Mast_Head__Banner.png
+      image: /images/LAW_CDC_2024_Hero_Image__1_.png
   - infobar:
       title: Webinar Topics
       description: Register for our webinars to learn about your rights and equip

@@ -24,7 +24,7 @@ Join us as our moderator, Sadhana Rai (Head of Representation, Pro Bono SG), and
 ![](/images/2024_09_18_Furry_Friends__Fair_Treatment__Understanding_Animal_Welfare_Laws.png)
 Singapore places a high value on animal welfare. This talk explores the Animals and Birds Act, focusing on legal protections against animal cruelty and neglect. The discussion will delve into scenarios like pet abandonment, inadequate care, and recognizing signs of animal cruelty. The panelists will explain the legal process for reporting such incidents and the role of animal welfare organizations. Attendees will gain insights into their rights and responsibilities as pet owners, and how they can contribute to a more compassionate environment for animals in Singapore.
 
-Join us as our moderator, Jolena Ang (Legal Counsel, QAF Limited), and speakers, Sadhana Rai (Head of Representation, Pro Bono SG) and Aarthi Shankar (Executive Director, Society for the Prevention of Cruelty to Animals (SPCA)), as they discuss valuable insights and practical advice on how you can advocate for and contribute to animal welfare in your community.
+Join us as our moderator, Jolena Ang (Legal Counsel, Arkema Pte Ltd), and speakers, Sadhana Rai (Head of Representation, Pro Bono SG) and Aarthi Sankar (Executive Director, Society for the Prevention of Cruelty to Animals (SPCA)), as they discuss valuable insights and practical advice on how you can advocate for and contribute to animal welfare in your community.
 
 <a href="https://us02web.zoom.us/webinar/register/4216887170740/WN_0rMif1J5TUGxW0dJ0RKScQ" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button" style="width:200px !important;"></a>
 <hr>
@@ -51,7 +51,7 @@ Join our moderator, Goh Qian Hui (Community Law Advocate, Pro Bono SG) and speak
 
 Are you worried about Cybersecurity and how your data is being handled? Organizations today are sitting on huge amounts of data and everyone is struggling to make sense of how their data is protected. What can organisations do to minimise cybersecurity risks especially given new work patterns which evolved as a result of the pandemic? What should you, as a consumer, expect of organisations? What can you do if you feel that your data has been misused or not treated properly? Our panel will discuss the common pitfalls in managing privacy risks as well as the implications and things to note when you face data and security breaches.
  
-Join us as our moderator, Serene Gan (Deputy Head of Legal, International Property Group), and speakers, Jeffrey Lim (Co-Managing Director, Joyce A. Tan &amp; Partners LLC) and Genie Sugene Gan (Head of Public Policy &amp; Government Affairs, Asia-Pacific &amp; Middle-East, Turkey and Africa, Kaspersky), as they discuss about the possible breaches as well as the legal remedies to prepare and activate.
+Join us as our moderator, Serene Gan (Deputy Head of Legal, International Property Group), and speakers, Jeffrey Lim (Co-Managing Director, Joyce A. Tan &amp; Partners LLC) and Genie Sugene Gan (Director, Government Affairs &amp; Public Policy, Kaspersky), as they discuss about the possible breaches as well as the legal remedies to prepare and activate.
 
 <a href="https://us02web.zoom.us/webinar/register/4216887170740/WN_GWtXFQl9T2iMWaJ2tdBbgA" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button" style="width:200px !important;"></a>
 <hr>
@@ -94,26 +94,13 @@ Join our moderator, Luke Kwek (Head, Legal (APAC sans China), Arkema) and speake
 <hr>
 
 
-### Navigating the Employment Landscape
-
-**Tuesday, 15 November 2024, 7.30pm – 9pm**
-![](/images/2024_10_15_Navigating_the_Employment_Landscape.png)
-Are you tired of feeling helpless in the face of workplace harassment? Imagine a safe and respectful workplace where your potential can truly flourish. Are you ready to stand up, speak out, and champion positive change? Discover how to unravel the complexities of workplace harassment and explore practical strategies to confront and overcome it. Learn how to cultivate a culture of inclusivity and respect, ensuring that every employee’s rights are protected.
-
-Join our moderator, Regana Mydin (Learning &amp; Development Manager, Rajah &amp; Tann Asia Academy) and speakers, Amarjit Kaur (Partner, Withers KhatterWong), and Patrick Tay (Assistant Secretary-General, NTUC) as they share effective methods for preventing and addressing workplace discrimination and harassment, and guide you on implementing robust policies that promote equality and diversity.
-
-<a href="https://us02web.zoom.us/webinar/register/4216887170740/WN_Cz5jJRz8SMeAAfMWbJ0Bhg" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button" style="width:200px !important;"></a>
-<hr>
-
-
-
 ### Protect Yourself – How to Spot and Avoid Scams
 
 **Wednesday, 16 October 2024, 7.30pm – 9pm**
 ![](/images/2024_10_16_Protect_Yourself___How_to_Spot_and_Avoid_Scams.png)
 Don’t become another victim of scams! Unsure how to protect yourself from the ever-evolving world of scams and fraud? In today’s digital age, scams can lurk around every corner, targeting unsuspecting individuals with cunning tactics and sophisticated schemes. Learn how to identify, avoid, and combat scams effectively with invaluable knowledge and practical strategies.
 
-Join our moderator, Andrew Lee (Assistant General Counsel, Kaplan Higher Education Academy Pte Ltd) and speakers, Victoria Ting (Associate Director, Setia Law LLC), Nicholas Aaron Khoo (Council Member, National Crime Prevention Council), and Rosie Ann McIntyre (Assistant Director, Public Education Programme, Scam Public Education Office, Operations Department, Singapore Police Force). They will explore the most prevalent scams, from phishing emails and fake websites to investment fraud and identity theft. Discover how to recognize red flags before it’s too late and powerful techniques to safeguard your personal and financial information. Understand the psychology behind scams and learn how to protect yourself, your loved ones, and your business from falling prey to deceptive practices.
+Join our moderator, Andrew Lee (Assistant General Counsel, Kaplan Higher Education Academy Pte Ltd) and speakers, Victoria Ting (Associate Director, Setia Law LLC), and Rosie Ann McIntyre (Assistant Director, Public Education Programme, Scam Public Education Office, Operations Department, Singapore Police Force). They will explore the most prevalent scams, from phishing emails and fake websites to investment fraud and identity theft. Discover how to recognize red flags before it’s too late and powerful techniques to safeguard your personal and financial information. Understand the psychology behind scams and learn how to protect yourself, your loved ones, and your business from falling prey to deceptive practices.
 
 <a href="https://us02web.zoom.us/webinar/register/4216887170740/WN_gzzICdOTR3yyofIuuGouCQ" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button" style="width:200px !important;"></a>
 <hr>
@@ -166,6 +153,19 @@ Join our moderator, Victoria Ho (Deputy General Counsel, APAC, Teradyne) and spe
 
 <a href="https://us02web.zoom.us/webinar/register/4216887170740/WN_lHAEMvWURwOuR3RFck6ngg" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button" style="width:200px !important;"></a>
 <hr>
+
+
+### Navigating the Employment Landscape
+
+**Wednesday, 6 November 2024, 7.30pm – 9pm**
+![](/images/2024_10_15_Navigating_the_Employment_Landscape.png)
+Are you tired of feeling helpless in the face of workplace harassment? Imagine a safe and respectful workplace where your potential can truly flourish. Are you ready to stand up, speak out, and champion positive change? Discover how to unravel the complexities of workplace harassment and explore practical strategies to confront and overcome it. Learn how to cultivate a culture of inclusivity and respect, ensuring that every employee’s rights are protected.
+
+Join our moderator, Regana Mydin (Learning &amp; Development Manager, Rajah &amp; Tann Asia Academy) and speakers, Amarjit Kaur (Partner, Withers KhatterWong), and Patrick Tay (Assistant Secretary-General, NTUC) as they share effective methods for preventing and addressing workplace discrimination and harassment, and guide you on implementing robust policies that promote equality and diversity.
+
+<a href="https://us02web.zoom.us/webinar/register/4216887170740/WN_Cz5jJRz8SMeAAfMWbJ0Bhg" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button" style="width:200px !important;"></a>
+<hr>
+
 
 
 
