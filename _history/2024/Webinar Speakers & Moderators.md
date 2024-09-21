@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: "2024"
 ---
-### AARTHI SHANKAR
+### AARTHI SANKAR
 
 <img src="/images/Aarthi_Shankar.png" style="width:250px !important;">
 
