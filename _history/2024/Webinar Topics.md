@@ -157,11 +157,11 @@ Join our moderator, Victoria Ho (Deputy General Counsel, APAC, Teradyne) and spe
 
 ### Navigating the Employment Landscape
 
-**Wednesday, 6 November 2024, 7.30pm – 9pm**
-![](/images/2024_10_15_Navigating_the_Employment_Landscape.png)
-Are you tired of feeling helpless in the face of workplace harassment? Imagine a safe and respectful workplace where your potential can truly flourish. Are you ready to stand up, speak out, and champion positive change? Discover how to unravel the complexities of workplace harassment and explore practical strategies to confront and overcome it. Learn how to cultivate a culture of inclusivity and respect, ensuring that every employee’s rights are protected.
+**Thursday, 7 November 2024, 7.30pm – 9pm**
+![](/images/2024_11_07_Navigating_the_Employment_Landscape.png)
+Are you ready to navigate the evolving landscape of employment law and its impact on your workplace? Imagine a future where both employers and employees are fully equipped to thrive in a fair and balanced work environment. Discover the latest developments in employment law, from Flexible Work Arrangements (FWA) and the Platform Workers Bill to the Workplace Fairness Legislation, increased paternity leave, and unpaid infant care leave. Unpack critical employee rights and protections and explore the growing emphasis on training and upskilling to meet the demands of a rapidly changing workforce. Learn how companies are preparing for the future through restructuring, terminations, and retrenchments—and how both employers and employees can mitigate the complications that arise from employment termination. Understand what these shifts mean for all parties and how best practices, checks and balances, and compliance measures can help ensure a smooth transition. 
 
-Join our moderator, Regana Mydin (Learning &amp; Development Manager, Rajah &amp; Tann Asia Academy) and speakers, Amarjit Kaur (Partner, Withers KhatterWong), and Patrick Tay (Assistant Secretary-General, NTUC) as they share effective methods for preventing and addressing workplace discrimination and harassment, and guide you on implementing robust policies that promote equality and diversity.
+Join our moderator, Regana Mydin (Learning &amp; Development Manager, Rajah &amp; Tann Asia Academy) and speakers, Amarjit Kaur (Partner, Withers KhattarWong), and Patrick Tay (Assistant Secretary-General, NTUC) as they discuss insights into future trends and how they will shape the employment landscape, empowering you to stay ahead of the curve.
 
 <a href="https://us02web.zoom.us/webinar/register/4216887170740/WN_Cz5jJRz8SMeAAfMWbJ0Bhg" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button" style="width:200px !important;"></a>
 <hr>
