@@ -14,7 +14,7 @@ Singapore's green spaces are teeming with life. This talk explores the legal fra
 
 Join us as our moderator, Sadhana Rai (Head of Representation, Pro Bono SG), and speakers, Dr Joseph Chun (Partner, Shook Lin &amp; Bok LLP) and Ganesh Kumar (Chairman, Woodlands Botanical Garden), as they discuss on how you can play an active role in upholding biodiversity within your neighbourhood.
 
-<a href="https://us02web.zoom.us/webinar/register/4216887170740/WN_-q2ZRjciS_WDjaX1CcnptQ" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button" style="width:200px !important;"></a>
+
 <hr>
 
 ### Furry Friends, Fair Treatment: Understanding Animal Welfare Laws
@@ -26,7 +26,7 @@ Singapore places a high value on animal welfare. This talk explores the Animals 
 
 Join us as our moderator, Jolena Ang (Legal Counsel, Arkema Pte Ltd), and speakers, Sadhana Rai (Head of Representation, Pro Bono SG) and Aarthi Sankar (Executive Director, Society for the Prevention of Cruelty to Animals (SPCA)), as they discuss valuable insights and practical advice on how you can advocate for and contribute to animal welfare in your community.
 
-<a href="https://us02web.zoom.us/webinar/register/4216887170740/WN_0rMif1J5TUGxW0dJ0RKScQ" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button" style="width:200px !important;"></a>
+
 <hr>
 
 
@@ -40,7 +40,7 @@ Discover the startling statistics and hidden realities behind closed doors as we
 
 Join our moderator, Goh Qian Hui (Community Law Advocate, Pro Bono SG) and speakers, Dharma Jayaram (Managing Director, Dharma Law LLC) and Kristine Lam (Principal Social Worker, Care Corner Singapore Ltd) as they provide invaluable insights into the root causes, dynamics, and impact of family violence, explore effective communication techniques, conflict resolution strategies, and resources available to break the cycle of abuse. Together, let’s be the solution and create a safer, more compassionate world for everyone.
 
-<a href="https://us02web.zoom.us/webinar/register/4216887170740/WN_5FJjWGijQbGnmwYRenXT1A" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button" style="width:200px !important;"></a>
+
 <hr>
 
 
@@ -53,7 +53,7 @@ Are you worried about Cybersecurity and how your data is being handled? Organiza
  
 Join us as our moderator, Serene Gan (Deputy Head of Legal, International Property Group), and speakers, Jeffrey Lim (Co-Managing Director, Joyce A. Tan &amp; Partners LLC) and Genie Sugene Gan (Director, Government Affairs &amp; Public Policy, Kaspersky), as they discuss about the possible breaches as well as the legal remedies to prepare and activate.
 
-<a href="https://us02web.zoom.us/webinar/register/4216887170740/WN_GWtXFQl9T2iMWaJ2tdBbgA" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button" style="width:200px !important;"></a>
+
 <hr>
 
 
@@ -66,7 +66,8 @@ Do you know what happens when you leave your vehicle’s engine on idle? Or what
 Join us for an enlightening talk on Singapore’s environmental regulations focusing on pollution, recycling, and waste management. Learn about vehicle emissions laws, idle engine regulations, and how to handle e-waste and packaging waste. Discover what businesses must do to control pollution and their responsibilities in managing hazardous waste, and your rights as consumers. In this ‘Year of Public Hygiene’, learn about laws and regulations affecting waste management, pollution, and how you can do your part towards a cleaner and greener Singapore.
 
 Join us as our moderator, Sean Tseng (Adjunct Assistant Professor, NUS), and speakers, Irene Lye Lin-Heng (Emeritus Professor, NUS) and Koh Min Ee (Divisional Director, Ministry of Sustainability and the Environment), as they discuss how you can better informed about their rights and responsibilities, fostering a community that is knowledgeable and proactive in environmental sustainability.
-<a href="https://us02web.zoom.us/webinar/register/4216887170740/WN_wCS1LP3HSpu3Wf9x47zBow" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button" style="width:200px !important;"></a>
+
+
 <hr>
 
 
@@ -78,7 +79,7 @@ Is someone defaming you online or perhaps sharing intimate photos or videos of y
  
 Our moderator Marco Low (Group General Counsel, StorHub Self Storage) and speakers, Fong Wei Li, (Managing Director, Forward Legal LLC), Colin Goh (Chief Programmes and Engagement Officer, SG Her Empowerment (SHE) Ltd) and Lorraine Lim (Deputy CEO, Singapore Council of Women’s Organisations (SCWO) and Centre Head, SHECARES@SCWO) will address topics such as cyberbullying, harassment, repeated unwanted contact, and technologically-facilitated sexual violence, with a focus on explaining the legal remedies that are available, and how to access them.
 
-<a href="https://us02web.zoom.us/webinar/register/4216887170740/WN_aKXult1zRZOx1nP3MKog_g" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button" style="width:200px !important;"></a>
+
 <hr>
 
 
@@ -90,7 +91,7 @@ Are you tired of endless arguments over property boundaries, noisy gatherings, o
 
 Join our moderator, Luke Kwek (Head, Legal (APAC sans China), Arkema) and speakers, Lim Lei Theng (Partner, Allen &amp; Gledhill) and Katherine Yap (Master Mediator, Community Mediation Centre) as they provide real-life case studies and advice to equip you with invaluable strategies and insights on effectively resolving conflicts with your neighbours. Gain the knowledge and tools you need to navigate the intricate landscape of neighbour conflicts and achieve lasting resolutions. Let’s take the opportunity to foster better neighbourly relationships and foster a sense of unity within your community.
 
-<a href="https://us02web.zoom.us/webinar/register/4216887170740/WN_K6N3ME71Tz-ivJ2psdZntg" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button" style="width:200px !important;"></a>
+
 <hr>
 
 
@@ -102,7 +103,7 @@ Don’t become another victim of scams! Unsure how to protect yourself from the 
 
 Join our moderator, Andrew Lee (Assistant General Counsel, Kaplan Higher Education Academy Pte Ltd) and speakers, Victoria Ting (Associate Director, Setia Law LLC), and Rosie Ann McIntyre (Assistant Director, Public Education Programme, Scam Public Education Office, Operations Department, Singapore Police Force). They will explore the most prevalent scams, from phishing emails and fake websites to investment fraud and identity theft. Discover how to recognize red flags before it’s too late and powerful techniques to safeguard your personal and financial information. Understand the psychology behind scams and learn how to protect yourself, your loved ones, and your business from falling prey to deceptive practices.
 
-<a href="https://us02web.zoom.us/webinar/register/4216887170740/WN_gzzICdOTR3yyofIuuGouCQ" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button" style="width:200px !important;"></a>
+
 <hr>
 
 ### Advance Legal Planning on Wills and End-of-Life Matters (Civil)
@@ -114,7 +115,7 @@ Are you planning for your later years but unsure where to start? Concerned about
 
 Join our moderator, Catherine Yong (Legal Counsel Asia/Pacific, Schaeffler (Singapore) Pte Ltd) and speakers, Peggy Sarah Yee (Director, PY Legal LLC), Dr. Adeline Lam (Senior Consultant for General Medicine and Clinical Co-Lead for ACP, Tan Tock Seng Hospital), and Julia Lee (Senior Director, TOUCH Community Services) as they share essential legal tools and strategies to ensure your family is supported and your desires are honored even after you are gone. Gain valuable insights into wills, trusts, advance care planning, and more, equipping you with the knowledge to provide your loved ones with lasting peace of mind. Don’t miss this opportunity to secure your future and protect what matters most.
 
-<a href="https://us02web.zoom.us/webinar/register/4216887170740/WN_ES9jRQkWShKibf7xDnUilw" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button" style="width:200px !important;"></a>
+
 <hr>
 
 
@@ -127,7 +128,7 @@ What is Faraidh? What does the Islamic Law say about you planning for your later
 
 Join our moderator, Yvette Anthony (Director, Employment Law APAC, Western Digital) and speakers, Halijah Mohammed (Managing Director, Halijah Mohd &amp; Co), and Ustaz Kamal Moktar (Muis Fatwa Committee, WMS Protem Committee), as they share essential legal tools and strategies for advance care planning within the framework of Singapore’s Syariah law, ensuring your family is supported and your desires are honored in accordance with Islamic values. Gain valuable insights into wills, trusts, advance care planning, and more, equipping you with the knowledge to provide your loved ones with lasting peace of mind. Don’t miss this opportunity to secure your future and protect what matters most.
 
-<a href="https://us02web.zoom.us/webinar/register/4216887170740/WN_RPNK80jASVa-1uSeJEgilQ" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button" style="width:200px !important;"></a>
+
 <hr>
 
 
@@ -139,7 +140,7 @@ Discover a transformative path forward as you try to navigate the complexities o
 
 Whether you are contemplating divorce, currently in the process, or starting anew, join our moderator, Jerrick Lim (Senior Legal Counsel, EVYD Research Private Limited) and speakers Yap Teong Liang (Director, TL Yap Law Chambers LLC) and Yeow Ming Zhen (Head, FAM@FSC, Methodist Welfare Services) as they explore topics such as legal rights, division of assets, child custody, and co-parenting, equipping you with the knowledge needed to make informed decisions and ensure a smoother transition. Gain insights on empowering tools and strategies that will transform your divorce journey into an opportunity for personal development and a brighter future.
 
-<a href="https://us02web.zoom.us/webinar/register/4216887170740/WN_EKHe7Y5cQ-qJEdzFGRk5_Q" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button" style="width:200px !important;"></a>
+
 <hr>
 
 
@@ -151,7 +152,7 @@ Looking to explore the unique challenges and empowering strategies within the co
 
 Join our moderator, Victoria Ho (Deputy General Counsel, APAC, Teradyne) and speakers, Ahmad Nizam Abbas (Managing Director, Crescent Law Chambers), and and Zanairah Binte Seron (Social Worker, PPIS As-Salaam Family Support Centre) as they provide valuable insights into Islamic principles, legal rights, and emotional well-being during this critical phase of your life. Whether you’re considering or already undergoing a divorce under Syariah law, this webinar will empower you to make informed decisions and embrace a brighter future. Embark on a journey towards personal growth and emotional empowerment.
 
-<a href="https://us02web.zoom.us/webinar/register/4216887170740/WN_lHAEMvWURwOuR3RFck6ngg" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button" style="width:200px !important;"></a>
+
 <hr>
 
 
@@ -163,7 +164,7 @@ Are you ready to navigate the evolving landscape of employment law and its impac
 
 Join our moderator, Regana Mydin (Learning &amp; Development Manager, Rajah &amp; Tann Asia Academy) and speakers, Amarjit Kaur (Partner, Withers KhattarWong), and Patrick Tay (Assistant Secretary-General, NTUC) as they discuss insights into future trends and how they will shape the employment landscape, empowering you to stay ahead of the curve.
 
-<a href="https://us02web.zoom.us/webinar/register/4216887170740/WN_Cz5jJRz8SMeAAfMWbJ0Bhg" target="_blank"><img src="/images/Registration%20button.png" alt="Registration button" style="width:200px !important;"></a>
+
 <hr>
 
 
