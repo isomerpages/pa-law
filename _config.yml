@@ -1,4 +1,4 @@
-title: Law Awareness Weeks @ CDC
+title: Law Awareness Weeks@CDC
 url: https://lawawarenessweeks.cdc.gov.sg
 favicon: /images/favicon.png
 colors:
@@ -16,7 +16,7 @@ colors:
     - title: media-color-five
       color: "#eba286"
 resources_name: Resources
-description: This is an informational site about Law Awareness Weeks @ CDC.
+description: This is an informational site about Law Awareness Weeks@CDC.
 permalink: none
 baseurl: ""
 exclude:
