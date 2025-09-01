@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: Law Awareness Weeks @ CDC
-description: This is an informational site about Law Awareness Weeks @ CDC.
+title: Law Awareness Weeks@CDC
+description: This is an informational site about Law Awareness Weeks@CDC.
 image: /images/isomer-logo.svg
 permalink: /
 notification: Government officials will never ask you to transfer money or
