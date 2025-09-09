@@ -12,16 +12,6 @@ sections:
   - hero:
       background: /images/LAW_CDC_2024_Logo__isomer_web_banner_.png
       url: /about/
-      key_highlights:
-        - title: WEBINAR TOPICS
-          description: ""
-          url: /2024/webinar/
-        - title: Webinar Speakers & moderators
-          description: ""
-          url: /2024/speakers/
-        - title: Our PARTNERS
-          description: ""
-          url: /2024/partners/
       variant: center
   - infopic:
       title: About LAW@CDC 2025
