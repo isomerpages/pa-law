@@ -109,9 +109,9 @@ of work with confidence.</p>
 boundary issues, blocked corridors, or difficult neighbours. If you’re
 unsure how to handle these problems or what your rights are, this session
 will walk you through your legal and practical options.</p>
-<p>Moderator
+<p><u>Moderator</u>
 <br><strong>Chiang Ming Yu</strong>, Advisor, Labyrinthine Systems Pte Ltd</p>
-<p>Speakers
+<p><u>Speakers</u>
 <br><strong>Melvin Loh</strong>, Counsel, Peter Loh Chambers LLC
 <br><strong>Katherine Yap</strong>, Founder, Rafa Mediation</p>
 <p>Find out how the law addresses common neighbour disputes and when mediation
@@ -131,9 +131,9 @@ your peace of mind.</p>
 process? Not sure what to expect from the Syariah Court, or how to manage
 without a lawyer? This session will explain what you need to know about
 your rights, the legal process, and the social support available to you.</p>
-<p>Moderator
+<p><u>Moderator</u>
 <br><strong>Jannelle Lau</strong>, Senior Legal Counsel, DSV</p>
-<p>Speakers
+<p><u>Speakers</u>
 <br><strong>Ahmad Nizam Abbas</strong>, Managing Director, Crescent Law Chambers
 <br><strong>Muhammad Al-Hakim Abdul Kadir</strong>, Assistant Senior Social
 Worker, PPIS FAM@FSC</p>
@@ -156,10 +156,10 @@ From running ads to working with influencers, handling online reviews,
 or managing customers’ personal data on social media posts, understanding
 the legal dos and don’ts is essential for your small business or community
 organisation and anyone who manages content online.</p>
-<p>Moderator
+<p><u>Moderator</u>
 <br><strong>Andrew Lee</strong>, Associate General Counsel, Asia (excluding
 China), Kaplan (Singapore)</p>
-<p>Speakers
+<p><u>Speakers</u>
 <br><strong>Fong Wei Li</strong>, Managing Director, Forward Legal LLC
 <br><strong>Cho Pei Lin</strong>, Managing Director, APRW / District Councillor,
 SouthWest CDC</p>
@@ -186,10 +186,10 @@ for stray cats, or deciding to mingle with the elderly folks in your neighbourho
 understanding the legal basics and where you can find help can amplify
 the impact that you have with your volunteer initiative. Let’s protect
 your work and run it sustainably.</p>
-<p>Moderator
+<p><u>Moderator</u>
 <br><strong>Gabriel Li</strong>, Vice President (Legal), Kredivo Group<strong>&nbsp;</strong>
 </p>
-<p>Speakers
+<p><u>Speakers</u> 
 <br><strong>Benjamin Goh</strong>, Director, Dispute Resolution, Drew &amp;
 Napier LLC
 <br><strong>Sebastian Boon-Ngee</strong>, Senior Director, Community Networks
@@ -215,10 +215,10 @@ practical legal knowledge to strengthen your impact and stay out of trouble.</p>
 to make clear, informed decisions about their future and protect their
 loved ones from unnecessary stress. This session covers the key legal tools
 that help you plan for incapacity, serious illness, and death.</p>
-<p>Moderator
+<p><u>Moderator</u>
 <br><strong>Anidha Subramanion</strong>, Senior Legal Counsel, Infosys Compaz
 Pte Ltd</p>
-<p>Speakers
+<p><u>Speakers</u>
 <br><strong>Tan Shen Kiat</strong>, CEO, Founder &amp; Director, Kin &amp;
 Kith Law Corporation
 <br><strong>Dr. Adeline Lam</strong>, Senior Consultant for General Medicine
@@ -242,10 +242,10 @@ give you the clarity to make informed choices for the future.</p>
 wasiat, and hibah apply in Singapore’s legal system? If you’re unsure how
 to start planning or want to make sure your loved ones are protected in
 line with Islamic principles, this session is for you.</p>
-<p>Moderator
+<p><u>Moderator</u>
 <br><strong>Nadia Fernandopulle</strong>, Principal Legal Counsel, Robert
 Walters (Singapore) Pte Ltd</p>
-<p>Speakers
+<p><u>Speakers</u>
 <br><strong>Ezra Bunyamin</strong>, Managing Director, Deansgate Barakah Law
 Corporation
 <br><strong>Ustaz Muhammad Ridhwaan Radzi</strong>, Managing Director, Islamic
@@ -257,3 +257,29 @@ how Syariah law works alongside civil law, and how to navigate common challenges
 families face when managing inheritance matters. Whether you’re planning
 for yourself or helping a loved one, this session will give you clarity
 and peace of mind.</p>
+<hr>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_10_15_Cyber_Hygiene___Know_Your_Rights___Responsibilities_Online__website_.png">
+</div>
+<p><strong>Cyber Hygiene – Know Your Rights &amp; Responsibilities Online<br>15 October 2025, Wednesday<br>7.30pm – 9.00pm<br></strong>
+<a rel="noopener noreferrer nofollow" target="_blank">https://us02web.zoom.us/webinar/register/6117478058096/WN_mOMg68nHTs2LYSOU5w5f4Q</a>
+</p>
+<p>From phishing scams to data breaches, staying safe online is more important
+than ever. But do you know what your rights are if your data is misused
+— or what responsibilities organisations have in protecting it?</p>
+<p>This session will cover the key issues in cybersecurity and data privacy
+from both a legal and practical perspective. You’ll learn how to identify
+risks, what to expect from organisations that handle your data, and what
+legal options you have when things go wrong.</p>
+<p><u>Moderator<br></u><strong>Tarun Samtani</strong>, Asia Advisory Board
+Member, IAPP, IAPP - International Association of Privacy &amp; AI Professionals</p>
+<p><u>Speakers</u>
+<br><strong>Jeffrey Lim</strong>, Co-Managing Director, Joyce A. Tan &amp;
+Partners LLC
+<br><strong>Veronica Tan</strong>, Director, Safer Cyberspace Division, Cyber
+Security Agency of Singapore (CSA)</p>
+<p>The panel will discuss common cybersecurity pitfalls, new data protection
+challenges in hybrid work environments, and how to respond to security
+incidents. Whether you’re a consumer, employee, or business owner, you’ll
+walk away with a better understanding of your digital rights and how to
+protect yourself online.</p>
