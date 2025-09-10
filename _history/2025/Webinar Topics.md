@@ -120,3 +120,26 @@ strategies to manage difficult situations without escalating them. Whether
 you’re facing a problem now or just want to be better informed, you’ll
 leave with clear, actionable advice on how to resolve disputes and protect
 your peace of mind.</p>
+<hr>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_09_29_Marriage___Divorce___Understanding_Your_Rights__Syariah_Law___website_.png">
+</div>
+<p><strong>Marriage &amp; Divorce – Understanding Your Rights (Syariah Law)<br>29 September 2025, Monday<br>7.30pm – 9.00pm<br></strong>
+<a rel="noopener noreferrer nofollow" target="_blank">https://us02web.zoom.us/webinar/register/6117478058096/WN_B_ZPEYSJRbCxJYQm-jieWw</a>
+</p>
+<p>Thinking about divorce under Syariah law or already going through the
+process? Not sure what to expect from the Syariah Court, or how to manage
+without a lawyer? This session will explain what you need to know about
+your rights, the legal process, and the social support available to you.</p>
+<p>Moderator
+<br><strong>Jannelle Lau</strong>, Senior Legal Counsel, DSV</p>
+<p>Speakers
+<br><strong>Ahmad Nizam Abbas</strong>, Managing Director, Crescent Law Chambers
+<br><strong>Muhammad Al-Hakim Abdul Kadir</strong>, Assistant Senior Social
+Worker, PPIS FAM@FSC</p>
+<p>They will cover how divorce works under Syariah law in Singapore, including
+key issues like nafkah, custody, and division of matrimonial assets. You
+will also hear practical advice on what to expect if you are self-represented,
+and how to manage the emotional and family impact. Whether you are just
+starting to consider your options or already in the process, this session
+will help you make clearer, more confident decisions.</p>
