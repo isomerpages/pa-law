@@ -143,3 +143,117 @@ will also hear practical advice on what to expect if you are self-represented,
 and how to manage the emotional and family impact. Whether you are just
 starting to consider your options or already in the process, this session
 will help you make clearer, more confident decisions.</p>
+<hr>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_10_01_Social_Media___the_Law___Post_with_Prudence__website_.png">
+</div>
+<p><strong>Social Media &amp; the Law – Post with Prudence<br>1 October 2025, Wednesday<br>7.30pm – 9.00pm<br></strong>
+<a rel="noopener noreferrer nofollow" target="_blank">https://us02web.zoom.us/webinar/register/6117478058096/WN_QDaAt7Z6QEahGpk_m4fMPg</a>
+</p>
+<p>Social media is a powerful tool for branding, business growth and community
+engagement, but what you post, share, or promote can have real legal consequences.
+From running ads to working with influencers, handling online reviews,
+or managing customers’ personal data on social media posts, understanding
+the legal dos and don’ts is essential for your small business or community
+organisation and anyone who manages content online.</p>
+<p>Moderator
+<br><strong>Andrew Lee</strong>, Associate General Counsel, Asia (excluding
+China), Kaplan (Singapore)</p>
+<p>Speakers
+<br><strong>Fong Wei Li</strong>, Managing Director, Forward Legal LLC
+<br><strong>Cho Pei Lin</strong>, Managing Director, APRW / District Councillor,
+SouthWest CDC</p>
+<p>This session will explore data protection obligations when handling customer
+information on social media posts, best practices for engaging influencers
+with clear terms, key regulations on social media marketing and advertising
+standards in Singapore,&nbsp;how to manage customer reviews and feedback
+responsibly, and common pitfalls to avoid such as defamation, harassment
+and copyright infringement.</p>
+<p>Whether you are a content creator, small business owner, community organisation
+or social media professional, this webinar will equip you with the knowledge
+to post with confidence and prudence.</p>
+<hr>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_10_06_Legal_Toolkit_for_Ground_Up_Community_Action__website_.png">
+</div>
+<p><strong>Legal Toolkit for Ground-Up Community Action<br>6 October 2025, Monday<br>7.30pm – 9.00pm<br></strong>
+<a rel="noopener noreferrer nofollow" target="_blank">https://us02web.zoom.us/webinar/register/6117478058096/WN_WW0a4_YdSxKuI618fK5lIw</a>
+</p>
+<p>Thinking of starting your own volunteer initiative now that the year-end
+holidays are near? Starting a ground-up project or a volunteer initiative?
+Whether you’re organising goodwill projects, running a community programme
+for stray cats, or deciding to mingle with the elderly folks in your neighbourhood,
+understanding the legal basics and where you can find help can amplify
+the impact that you have with your volunteer initiative. Let’s protect
+your work and run it sustainably.</p>
+<p>Moderator
+<br><strong>Gabriel Li</strong>, Vice President (Legal), Kredivo Group<strong>&nbsp;</strong>
+</p>
+<p>Speakers
+<br><strong>Benjamin Goh</strong>, Director, Dispute Resolution, Drew &amp;
+Napier LLC
+<br><strong>Sebastian Boon-Ngee</strong>, Senior Director, Community Networks
+and Partnerships, Temasek Foundation
+<br><strong>Michele Wooi</strong>, Deputy Director, Segment and Market Development,
+National Volunteer and Philanthropy Centre (NVPC)</p>
+<p>This session will cover key legal considerations for ground-up initiatives,
+equipping you with the skills to spot issues before they arise, such as
+setting up a legal entity, managing funds, working with volunteers, handling
+personal data, and dealing with potential liabilities. The panel will also
+discuss what resources and groups can support your participation and grant
+you tools that will supercharge your efforts. If you’re involved in building
+a volunteer project from the ground up, this session will equip you with
+practical legal knowledge to strengthen your impact and stay out of trouble.</p>
+<hr>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_10_08_Planning_Ahead__Wills__LPAs___End_of_Life_Matters__Civil_Law___website_.png">
+</div>
+<p><strong>Planning Ahead: Wills, LPAs &amp; End-of-Life Matters (Civil Law)<br>8 October 2025, Wednesday<br>7.30pm – 9.00pm<br></strong>
+<a rel="noopener noreferrer nofollow" target="_blank">https://us02web.zoom.us/webinar/register/6117478058096/WN_uI7yxY-aR_y1GwTzQ8oj1Q</a>
+</p>
+<p>Planning ahead isn’t just for the elderly — it’s for anyone who wants
+to make clear, informed decisions about their future and protect their
+loved ones from unnecessary stress. This session covers the key legal tools
+that help you plan for incapacity, serious illness, and death.</p>
+<p>Moderator
+<br><strong>Anidha Subramanion</strong>, Senior Legal Counsel, Infosys Compaz
+Pte Ltd</p>
+<p>Speakers
+<br><strong>Tan Shen Kiat</strong>, CEO, Founder &amp; Director, Kin &amp;
+Kith Law Corporation
+<br><strong>Dr. Adeline Lam</strong>, Senior Consultant for General Medicine
+and Clinical Co-Lead for Advance Care Planning, Tan Tock Seng Hospital
+<br><strong>Liau Yi Fang</strong>, TOUCH Community Services</p>
+<p>The panel will explain how wills, Lasting Powers of Attorney (LPAs), and
+Advance Care Planning work — and how they protect your wishes and ease
+the burden on your family. You’ll learn what to consider when drafting
+a will, how to appoint someone you trust to act on your behalf, and where
+to seek guidance on medical and care-related decisions. Whether you’re
+just getting started or reviewing your existing plans, this session will
+give you the clarity to make informed choices for the future.</p>
+<hr>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_10_13_Planning_Ahead__Wasiat__Hibah___Inheritance_Issues__Syariah_Law___website_.png">
+</div>
+<p><strong>Planning Ahead: Wasiat, Hibah &amp; Inheritance Issues (Syariah Law)<br>13 October 2025, Monday<br>7.30pm – 9.00pm<br></strong>
+<a rel="noopener noreferrer nofollow" target="_blank">https://us02web.zoom.us/webinar/register/6117478058096/WN_xBUCyUGVQ2e3sT1-ukDrHw</a>
+</p>
+<p>What happens to your estate after death under Syariah law? How do Faraidh,
+wasiat, and hibah apply in Singapore’s legal system? If you’re unsure how
+to start planning or want to make sure your loved ones are protected in
+line with Islamic principles, this session is for you.</p>
+<p>Moderator
+<br><strong>Nadia Fernandopulle</strong>, Principal Legal Counsel, Robert
+Walters (Singapore) Pte Ltd</p>
+<p>Speakers
+<br><strong>Ezra Bunyamin</strong>, Managing Director, Deansgate Barakah Law
+Corporation
+<br><strong>Ustaz Muhammad Ridhwaan Radzi</strong>, Managing Director, Islamic
+Finance Singapore</p>
+<p>The speakers will explain how Islamic inheritance principles apply in
+Singapore, what tools are available for advance planning, and how to prepare
+documents like wasiat (Islamic wills) and hibah (gifts). You’ll also learn
+how Syariah law works alongside civil law, and how to navigate common challenges
+families face when managing inheritance matters. Whether you’re planning
+for yourself or helping a loved one, this session will give you clarity
+and peace of mind.</p>
