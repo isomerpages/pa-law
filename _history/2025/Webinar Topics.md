@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: "2025"
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1_Protect_Yourself_How_to_Spot_and_Avoid_Scams.png">
+</div>
 <p><strong>Protect Yourself – How to Spot and Avoid Scams</strong>
 <br><strong>22 September 2025, Monday</strong>
 <br><strong>7.30pm – 9.00pm</strong>
@@ -30,6 +33,9 @@ and offer simple steps you can take to stay one step ahead. Whether you’ve
 been targeted before or just want to stay informed, this session will equip
 you with practical, clear-headed tools to stay safe.</p>
 <hr>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2_Marriage_and_Divorce_Understanding_Your_Rights_Civil_Law.png">
+</div>
 <p><strong>Marriage &amp; Divorce – Understanding Your Rights (Civil Law)</strong>
 <br><strong>24 September 2025, Wednesday</strong>
 <br><strong>7.30pm – 9.00pm</strong>
@@ -57,6 +63,9 @@ are resolved, along with where to seek legal and social support.</p>
 want to understand your rights and options, this session will provide guidance
 and resources to help you land on surer footing for your next steps.</p>
 <hr>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/3_Workplace_Rights_and_Responsibilities.png">
+</div>
 <p><strong>Workplace Rights &amp; Responsibilities</strong>
 <br><strong>25 September 2025, Thursday</strong>
 <br><strong>7.30pm – 9.00pm</strong>
