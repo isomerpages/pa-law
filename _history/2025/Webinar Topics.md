@@ -6,7 +6,7 @@ description: ""
 third_nav_title: "2025"
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1_Protect_Yourself_How_to_Spot_and_Avoid_Scams.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_09_22_Protect_Yourself___How_to_Spot_and_Avoid_Scams__website_.png">
 </div>
 <p><strong>Protect Yourself – How to Spot and Avoid Scams</strong>
 <br><strong>22 September 2025, Monday</strong>
@@ -33,8 +33,9 @@ and offer simple steps you can take to stay one step ahead. Whether you’ve
 been targeted before or just want to stay informed, this session will equip
 you with practical, clear-headed tools to stay safe.</p>
 <hr>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2_Marriage_and_Divorce_Understanding_Your_Rights_Civil_Law.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_09_24_Marriage___Divorce___Understanding_Your_Rights__Civil_Law___website_.png">
 </div>
 <p><strong>Marriage &amp; Divorce – Understanding Your Rights (Civil Law)</strong>
 <br><strong>24 September 2025, Wednesday</strong>
@@ -64,7 +65,7 @@ want to understand your rights and options, this session will provide guidance
 and resources to help you land on surer footing for your next steps.</p>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/3_Workplace_Rights_and_Responsibilities.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_09_25_Workplace_Rights___Responsibilities__website_.png">
 </div>
 <p><strong>Workplace Rights &amp; Responsibilities</strong>
 <br><strong>25 September 2025, Thursday</strong>
@@ -95,4 +96,27 @@ these changes from a business or employee perspective, this webinar will
 help you understand the legal shifts and how to respond effectively.</p>
 <p>Stay informed, stay prepared. Learn how to navigate the evolving world
 of work with confidence.</p>
-<p></p>
+<hr>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_09_26_Neighbours_in_Dispute___What_Are_My_Legal_Options__website_.png">
+</div>
+<p><strong>Neighbours in Dispute – What Are My Legal Options?</strong>
+<br><strong>26 September 2025, Friday</strong>
+<br><strong>7.30pm – 9.00pm</strong>
+<br><a rel="noopener noreferrer nofollow" target="_blank">https://us02web.zoom.us/webinar/register/6117478058096/WN_1zxiFZVAQFS0lUVOc1k1Vg</a>
+</p>
+<p>Living close to others can sometimes lead to tension — noise complaints,
+boundary issues, blocked corridors, or difficult neighbours. If you’re
+unsure how to handle these problems or what your rights are, this session
+will walk you through your legal and practical options.</p>
+<p>Moderator
+<br><strong>Chiang Ming Yu</strong>, Advisor, Labyrinthine Systems Pte Ltd</p>
+<p>Speakers
+<br><strong>Melvin Loh</strong>, Counsel, Peter Loh Chambers LLC
+<br><strong>Katherine Yap</strong>, Founder, Rafa Mediation</p>
+<p>Find out how the law addresses common neighbour disputes and when mediation
+might be the better route. The speakers will share real cases and useful
+strategies to manage difficult situations without escalating them. Whether
+you’re facing a problem now or just want to be better informed, you’ll
+leave with clear, actionable advice on how to resolve disputes and protect
+your peace of mind.</p>
