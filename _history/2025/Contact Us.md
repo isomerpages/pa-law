@@ -5,9 +5,15 @@ variant: tiptap
 description: ""
 third_nav_title: "2025"
 ---
-<p>If you have any enquiries or feedback regarding Law Awareness Weeks @
-CDC 2025, please write to us at <a href="mailto: academy@probono.sg" rel="noopener noreferrer nofollow" target="_blank"><u>academy@probono.sg</u></a>.</p>
-<h3>Contact Details</h3>
+<p>If you have any&nbsp;enquiries or feedback regarding Law Awareness Weeks
+@ CDC 2025,&nbsp;please write to us at <a rel="noopener noreferrer nofollow" target="_blank">academy@probono.sg</a>.</p>
+<h4><strong>Contact Details</strong></h4>
 <p>General: +65 6536 0650
-<br>Email: <a href="mailto: outreach@probono.sg" rel="noopener noreferrer nofollow" target="_blank"><u>comms@probono.sg</u></a>
+<br>Email:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">comms@probono.sg</a>
+<br>Web:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">www.probono.sg</a>
+<br>Facebook:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">www.facebook.com/ProBonoSG</a>
+<br>Instagram: <a rel="noopener noreferrer nofollow" target="_blank">www.instagram.com/ProBonoSG</a>
+<br>Youtube: <a rel="noopener noreferrer nofollow" target="_blank">www.youtube.com/c/ProBonoServices</a>
+<br>LinkedIn: <a rel="noopener noreferrer nofollow" target="_blank">www.linkedin.com/company/ProBonoSG</a>
 </p>
+<p></p>
