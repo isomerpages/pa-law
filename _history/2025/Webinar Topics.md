@@ -125,7 +125,7 @@ your peace of mind.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_09_29_Marriage___Divorce___Understanding_Your_Rights__Syariah_Law___website_.png">
 </div>
 <p><strong>Marriage &amp; Divorce – Understanding Your Rights (Syariah Law)<br>29 September 2025, Monday<br>7.30pm – 9.00pm<br></strong>
-<a rel="noopener noreferrer nofollow" target="_blank">https://us02web.zoom.us/webinar/register/6117478058096/WN_B_ZPEYSJRbCxJYQm-jieWw</a>
+<a href="https://us02web.zoom.us/webinar/register/6117478058096/WN_B_ZPEYSJRbCxJYQm-jieWw" rel="noopener nofollow" target="_blank">Register</a>
 </p>
 <p>Thinking about divorce under Syariah law or already going through the
 process? Not sure what to expect from the Syariah Court, or how to manage
@@ -148,7 +148,7 @@ will help you make clearer, more confident decisions.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_10_01_Social_Media___the_Law___Post_with_Prudence__website_.png">
 </div>
 <p><strong>Social Media &amp; the Law – Post with Prudence<br>1 October 2025, Wednesday<br>7.30pm – 9.00pm<br></strong>
-<a rel="noopener noreferrer nofollow" target="_blank">https://us02web.zoom.us/webinar/register/6117478058096/WN_QDaAt7Z6QEahGpk_m4fMPg</a>
+<a href="https://us02web.zoom.us/webinar/register/6117478058096/WN_QDaAt7Z6QEahGpk_m4fMPg" rel="noopener nofollow" target="_blank">Register</a>
 </p>
 <p>Social media is a powerful tool for branding, business growth and community
 engagement, but what you post, share, or promote can have real legal consequences.
@@ -177,7 +177,7 @@ to post with confidence and prudence.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_10_06_Legal_Toolkit_for_Ground_Up_Community_Action__website_.png">
 </div>
 <p><strong>Legal Toolkit for Ground-Up Community Action<br>6 October 2025, Monday<br>7.30pm – 9.00pm<br></strong>
-<a rel="noopener noreferrer nofollow" target="_blank">https://us02web.zoom.us/webinar/register/6117478058096/WN_WW0a4_YdSxKuI618fK5lIw</a>
+<a href="https://us02web.zoom.us/webinar/register/6117478058096/WN_WW0a4_YdSxKuI618fK5lIw" rel="noopener nofollow" target="_blank">Register</a>
 </p>
 <p>Thinking of starting your own volunteer initiative now that the year-end
 holidays are near? Starting a ground-up project or a volunteer initiative?
