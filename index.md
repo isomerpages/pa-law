@@ -23,9 +23,9 @@ sections:
       image: /images/LAW_CDC_2025_KV.png
   - infobar:
       title: Webinar Topics
-      description: Register for our webinars to learn about your rights and equip
+      description: View our list of webinars to learn about your rights and equip
         yourself on how to best handle basic legal issues.
-      button: Register now
+      button: More Information
       url: /2025/webinar/
   - infopic:
       title: Our Partners
