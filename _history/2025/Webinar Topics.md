@@ -209,7 +209,7 @@ practical legal knowledge to strengthen your impact and stay out of trouble.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_10_08_Planning_Ahead__Wills__LPAs___End_of_Life_Matters__Civil_Law___website_.png">
 </div>
 <p><strong>Planning Ahead: Wills, LPAs &amp; End-of-Life Matters (Civil Law)<br>8 October 2025, Wednesday<br>7.30pm – 9.00pm<br></strong>
-<a rel="noopener noreferrer nofollow" target="_blank">https://us02web.zoom.us/webinar/register/6117478058096/WN_uI7yxY-aR_y1GwTzQ8oj1Q</a>
+<a href="https://us02web.zoom.us/webinar/register/6117478058096/WN_uI7yxY-aR_y1GwTzQ8oj1Q" rel="noopener nofollow" target="_blank">Register</a>
 </p>
 <p>Planning ahead isn’t just for the elderly — it’s for anyone who wants
 to make clear, informed decisions about their future and protect their
@@ -236,7 +236,7 @@ give you the clarity to make informed choices for the future.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_10_13_Planning_Ahead__Wasiat__Hibah___Inheritance_Issues__Syariah_Law___website_.png">
 </div>
 <p><strong>Planning Ahead: Wasiat, Hibah &amp; Inheritance Issues (Syariah Law)<br>13 October 2025, Monday<br>7.30pm – 9.00pm<br></strong>
-<a rel="noopener noreferrer nofollow" target="_blank">https://us02web.zoom.us/webinar/register/6117478058096/WN_xBUCyUGVQ2e3sT1-ukDrHw</a>
+<a href="https://us02web.zoom.us/webinar/register/6117478058096/WN_xBUCyUGVQ2e3sT1-ukDrHw" rel="noopener nofollow" target="_blank">Register</a>
 </p>
 <p>What happens to your estate after death under Syariah law? How do Faraidh,
 wasiat, and hibah apply in Singapore’s legal system? If you’re unsure how
@@ -262,7 +262,7 @@ and peace of mind.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_10_15_Cyber_Hygiene___Know_Your_Rights___Responsibilities_Online__website_.png">
 </div>
 <p><strong>Cyber Hygiene – Know Your Rights &amp; Responsibilities Online<br>15 October 2025, Wednesday<br>7.30pm – 9.00pm<br></strong>
-<a rel="noopener noreferrer nofollow" target="_blank">https://us02web.zoom.us/webinar/register/6117478058096/WN_mOMg68nHTs2LYSOU5w5f4Q</a>
+<a href="https://us02web.zoom.us/webinar/register/6117478058096/WN_mOMg68nHTs2LYSOU5w5f4Q" rel="noopener nofollow" target="_blank">Register</a>
 </p>
 <p>From phishing scams to data breaches, staying safe online is more important
 than ever. But do you know what your rights are if your data is misused
@@ -288,7 +288,7 @@ protect yourself online.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_10_22_Youth_Offences___Bullying___Legal_Guidance_for_Parents___Educators__website_.png">
 </div>
 <p><strong>Youth Offences &amp; Bullying – Legal Guidance for Parents &amp; Educators<br>22 October 2025, Wednesday<br>7.30pm – 9.00pm<br></strong>
-<a rel="noopener noreferrer nofollow" target="_blank">https://us02web.zoom.us/webinar/register/6117478058096/WN_mg5Z_GnuTiOrW4ykVrnF0g</a>
+<a href="https://us02web.zoom.us/webinar/register/6117478058096/WN_mg5Z_GnuTiOrW4ykVrnF0g" rel="noopener nofollow" target="_blank">Register</a>
 </p>
 <p>When young people get into trouble—whether it’s bullying, theft, fighting,
 or online missteps—what are the legal consequences, and how should adults
@@ -311,7 +311,7 @@ help you support young people with clarity, care, and accountability.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_10_23_Family_Violence___Legal_Protections___Support__website_.png">
 </div>
 <p><strong>Family Violence – Legal Protections &amp; Support<br>23 October 2025, Thursday<br>7.30pm – 9.00pm<br></strong>
-<a rel="noopener noreferrer nofollow" target="_blank">https://us02web.zoom.us/webinar/register/6117478058096/WN_saDUstz-QB-XJT_wOqjn-A</a>
+<a href="https://us02web.zoom.us/webinar/register/6117478058096/WN_saDUstz-QB-XJT_wOqjn-A" rel="noopener nofollow" target="_blank">Register</a>
 </p>
 <p>Family violence often happens behind closed doors — but its impact is
 far-reaching. This session will help you understand what family violence
@@ -335,8 +335,7 @@ offers clear guidance on how to respond and support those affected.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_10_27_Online_Harassment___What_You_Can_Do__website_.png">
 </div>
 <p><strong>Online Harassment – What You Can Do<br>27 October 2025, Monday<br>7.30pm – 9.00pm</strong>
-</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://us02web.zoom.us/webinar/register/6117478058096/WN_0Zg1b5HVTlu26vvTov3l5A</a>
+<br><a href="https://us02web.zoom.us/webinar/register/6117478058096/WN_0Zg1b5HVTlu26vvTov3l5A" rel="noopener nofollow" target="_blank">Register</a>
 </p>
 <p>Online harassment can take many forms — defamation, stalking, non-consensual
 image sharing, or repeated unwanted contact. If you or someone you know
@@ -361,7 +360,7 @@ steps to take action and access protection.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_10_29_Invisible_Disabilities___the_Law___Know_Your_Protections__website_.png">
 </div>
 <p><strong>Invisible Disabilities &amp; the Law – Know Your Protections<br>29 October 2025, Wednesday<br>7.30pm – 9.00pm<br></strong>
-<a rel="noopener noreferrer nofollow" target="_blank">https://us02web.zoom.us/webinar/register/6117478058096/WN_ecbtQNx-TD-2YD1k2VT4vA</a>
+<a href="https://us02web.zoom.us/webinar/register/6117478058096/WN_ecbtQNx-TD-2YD1k2VT4vA" rel="noopener nofollow" target="_blank">Register</a>
 </p>
 <p>Not all disabilities are visible—but that doesn’t make them any less real.
 From mental health conditions to chronic illnesses and learning differences,
@@ -388,7 +387,7 @@ and avenues for support.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_10_30_Animal_Welfare_Laws___Caring_for_Our_Companions__website_.png">
 </div>
 <p><strong>Animal Welfare Laws – Caring for Our Companions<br>30 October 2025, Thursday<br>7.30pm – 9.00pm<br></strong>
-<a rel="noopener noreferrer nofollow" target="_blank">https://us02web.zoom.us/webinar/register/6117478058096/WN_dRVXzKAcT1uF8bdZY87ZJg</a>
+<a href="https://us02web.zoom.us/webinar/register/6117478058096/WN_dRVXzKAcT1uF8bdZY87ZJg" rel="noopener nofollow" target="_blank">Register</a>
 </p>
 <p>What are your responsibilities as a pet owner? What should you do if you
 witness animal neglect or abuse? This session breaks down Singapore’s animal
