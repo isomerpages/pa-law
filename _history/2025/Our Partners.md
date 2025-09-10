@@ -41,7 +41,7 @@ District</p>
 <p>Mr Alex Yam – Mayor of North West District</p>
 </li>
 </ul>
-<p>For more information, please visit <a rel="noopener noreferrer nofollow" target="_blank">www.cdc.gov.sg</a>.</p>
+<p>For more information, please visit <a href="www.cdc.gov.sg" rel="noopener noreferrer nofollow" target="_blank">www.cdc.gov.sg</a>.</p>
 <p>​</p>
 <h4><strong>Pro Bono SG</strong></h4>
 <p>Pro Bono SG (UEN No. 201700430E) is a registered charity with the status
@@ -57,8 +57,7 @@ industries and specialisations.</p>
 Thanks to the support from our partners and supporters, we were renamed
 Pro Bono SG in 2022 to reflect the commitment of everyone in Singapore
 to our mission of doing good in the community.</p>
-<p>For more information on our pro bono programmes&nbsp;please visit&nbsp;
-<a rel="noopener noreferrer nofollow" target="_blank">https://www.probono.sg</a><a href="https://www.probono.sg." rel="noopener noreferrer nofollow" target="_blank">.</a>
+<p>For more information on our pro bono programmes&nbsp;please visit <a href="www.probono.sg" rel="noopener nofollow" target="_blank">www.probono.sg</a>
 </p>
 <p>&nbsp;</p>
 <h4><strong>National University of Singapore, Faculty of Law, Centre for Pro Bono &amp; Clinical Education</strong></h4>
@@ -74,8 +73,7 @@ organisations that promote the welfare of the vulnerable in society.</p>
 <p>In doing so, the Centre aims to prepare NUS Law students for real-world
 practice by exposing them to the challenges of delivering quality legal
 service while serving the community.&nbsp;</p>
-<p>For more information, please visit&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://law.nus.edu.sg/</a>
-<a href="https://law.nus.edu.sg/%C2%A0" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a>
+<p>For more information, please visit&nbsp;<a href="https://law.nus.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://law.nus.edu.sg/</a>
 </p>
 <p>​</p>
 <h4><strong>Singapore Management University, Pro Bono Centre</strong></h4>
@@ -91,7 +89,7 @@ clinic has since grown from a fortnightly service to a weekly service in
 gain a deeper understanding of the needs of our society and the less privileged,
 and cultivate in them a sense of service – of what it means to give without
 expecting anything in return.</p>
-<p>​For more information, please visit&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://pbc.smu.edu.sg/</a>
+<p>​For more information, please visit&nbsp;<a href="https://pbc.smu.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://pbc.smu.edu.sg/</a>
 </p>
 <p>​</p>
 <h4><strong>Singapore University of Social Sciences, School of Law</strong></h4>
@@ -106,8 +104,7 @@ students to engage meaningfully with members of both the Bar and the Judiciary,
 ensure that our graduates enter the profession primed for practice not
 just with the foundational knowledge and skills, but also a keen sense
 of purpose.</p>
-<p>For more information, please visit&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://www.suss.edu.sg/</a>
-<a href="https://www.suss.edu.sg/%C2%A0" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a>
+<p>For more information, please visit&nbsp;<a href="https://www.suss.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.suss.edu.sg/</a>
 </p>
 <p>​</p>
 <h4><strong>The Singapore Corporate Counsel Association</strong></h4>
@@ -118,7 +115,7 @@ industry conversations, legal counsel career toolkits, competency frameworks
 encompassing technical knowledge, skills, and the right attitude and character
 for corporate lawyers. SCCA Pro Bono Chapter aims to encourage volunteerism
 and the pro bono spirit among the in-house community. For more information,
-please visit&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">www.scca.org.sg</a>
+please visit&nbsp;<a href="www.scca.org.sg" rel="noopener noreferrer nofollow" target="_blank">www.scca.org.sg</a>
 </p>
 <p>&nbsp;</p>
 <h4><strong>Singapore Association of Social Workers</strong></h4>
@@ -142,5 +139,5 @@ on the national and international level</p>
 <p>Promote the well-being of Social Workers</p>
 </li>
 </ul>
-<p>For more information, please visit&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://www.sasw.org.sg/</a>
+<p>For more information, please visit&nbsp;<a href="https://www.sasw.org.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.sasw.org.sg/</a>
 </p>
