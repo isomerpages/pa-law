@@ -35,4 +35,5 @@ sections:
       image: /images/organisers7.png
       alt: Image alt text
       url: /2025/partners
+      button: Learn more
 ---
