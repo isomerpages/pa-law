@@ -283,3 +283,31 @@ challenges in hybrid work environments, and how to respond to security
 incidents. Whether you’re a consumer, employee, or business owner, you’ll
 walk away with a better understanding of your digital rights and how to
 protect yourself online.</p>
+<hr>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_10_22_Youth_Offences___Bullying___Legal_Guidance_for_Parents___Educators__website_.png">
+</div>
+<p><strong>Youth Offences &amp; Bullying – Legal Guidance for Parents &amp; Educators<br>22 October 2025, Wednesday<br>7.30pm – 9.00pm<br></strong>
+<a rel="noopener noreferrer nofollow" target="_blank">https://us02web.zoom.us/webinar/register/6117478058096/WN_mg5Z_GnuTiOrW4ykVrnF0g</a>
+</p>
+<p>When young people get into trouble—whether it’s bullying, theft, fighting,
+or online missteps—what are the legal consequences, and how should adults
+respond? This session is for parents, teachers, and youth workers who want
+to better understand the legal framework around youth misconduct in Singapore.</p>
+<p><u>Moderator<br></u><strong>Hannah Tjoa</strong>, Senior Legal Counsel,
+Booking.com</p>
+<p><u>Speakers<br></u><strong>Muslim Albakri</strong>, Partner, Lighthouse
+Law LLC<u><br></u><strong>James Lim</strong>, Director (Programme), Lutheran
+Community Care Services<u><br></u><strong>Aaron Scott Donovan</strong>,
+Assistant Senior Social Worker, Fei Yue Community Services</p>
+<p>The panel will explain what happens when a young person breaks the law,
+how bullying and harassment are treated under the law, and the roles of
+schools, parents, and the justice system. You’ll also hear about early
+intervention strategies and the support options available to guide youth
+back on track. This session offers practical legal insights and tools to
+help you support young people with clarity, care, and accountability.</p>
+<hr>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_10_23_Family_Violence___Legal_Protections___Support__website_.png">
+</div>
+<p></p>
