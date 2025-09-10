@@ -310,4 +310,98 @@ help you support young people with clarity, care, and accountability.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_10_23_Family_Violence___Legal_Protections___Support__website_.png">
 </div>
-<p></p>
+<p><strong>Family Violence – Legal Protections &amp; Support<br>23 October 2025, Thursday<br>7.30pm – 9.00pm<br></strong>
+<a rel="noopener noreferrer nofollow" target="_blank">https://us02web.zoom.us/webinar/register/6117478058096/WN_saDUstz-QB-XJT_wOqjn-A</a>
+</p>
+<p>Family violence often happens behind closed doors — but its impact is
+far-reaching. This session will help you understand what family violence
+looks like, how the law protects survivors, and what support services are
+available.</p>
+<p><u>Moderator<br></u><strong>Wang Liansheng</strong>, Partner, Bih Li &amp;
+Lee LLP</p>
+<p><u>Speakers<br></u><strong>Viviene Sandhu</strong>, Co-Managing Partner,
+Clifford Law LLP<u><br></u><strong>Bharathi Manogaran</strong>, Deputy
+Executive Director, AWARE<u><br></u><strong>Vanita Kaneson</strong>, Deputy
+Director / Lead Court Counsellor (Centre for Specialist Services), State
+Courts</p>
+<p>The speakers will explain the legal remedies available under the law,
+including Protection Orders and expedited support measures. You’ll also
+learn how to recognise warning signs, how social workers step in, and where
+individuals and families can turn for help. Whether you’re seeking information
+for yourself, a loved one, or your work in the community, this session
+offers clear guidance on how to respond and support those affected.</p>
+<hr>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_10_27_Online_Harassment___What_You_Can_Do__website_.png">
+</div>
+<p><strong>Online Harassment – What You Can Do<br>27 October 2025, Monday<br>7.30pm – 9.00pm</strong>
+</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://us02web.zoom.us/webinar/register/6117478058096/WN_0Zg1b5HVTlu26vvTov3l5A</a>
+</p>
+<p>Online harassment can take many forms — defamation, stalking, non-consensual
+image sharing, or repeated unwanted contact. If you or someone you know
+is experiencing this, it’s important to know your rights and the steps
+you can take.</p>
+<p><u>Moderator</u>
+<br><strong>Serene Gan</strong>, Deputy Head of Legal, International Property
+Group</p>
+<p><u>Speakers</u>
+<br><strong>Bestlyn Loo</strong>, Counsel, Providence Law Asia
+<br><strong>Natalie Chia</strong>, Director, Research, SG Her Empowerment
+(SHE) Ltd
+<br><strong>Saira Sultanah</strong>, Assistant Manager/Counsellor, SHECARES@SCWO</p>
+<p>This session will cover the types of online harassment covered under the
+law, how to gather evidence, and where to go for help. The panel will explain
+legal remedies such as Protection Orders under the Protection from Harassment
+Act, and highlight social support available to survivors. Whether you’re
+directly affected or helping someone else, you’ll leave with practical
+steps to take action and access protection.</p>
+<hr>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_10_29_Invisible_Disabilities___the_Law___Know_Your_Protections__website_.png">
+</div>
+<p><strong>Invisible Disabilities &amp; the Law – Know Your Protections<br>29 October 2025, Wednesday<br>7.30pm – 9.00pm<br></strong>
+<a rel="noopener noreferrer nofollow" target="_blank">https://us02web.zoom.us/webinar/register/6117478058096/WN_ecbtQNx-TD-2YD1k2VT4vA</a>
+</p>
+<p>Not all disabilities are visible—but that doesn’t make them any less real.
+From mental health conditions to chronic illnesses and learning differences,
+individuals with invisible disabilities often face misunderstanding, stigma,
+and unequal treatment.</p>
+<p><u>Moderator</u>
+<br><strong>Adelene Seah</strong>, Asia Pacific Regional Counsel, Control
+Risks</p>
+<p><u>Speakers</u>
+<br><strong>Peggy Sarah Yee</strong>, Director, PY Legal LLC
+<br><strong>Dr. Chen Shiling</strong>, Director, Happee Hearts Movement
+<br><strong>Julia Lee Wanyi</strong>, Senior Medical Social Worker, Institute
+of Mental Health (IMH)</p>
+<p>This session will explore how Singapore’s laws protect individuals with
+invisible disabilities in areas such as education, employment, and public
+services. The panel will explain how legal protections apply in practice,
+what accommodations can be requested, and how to navigate situations involving
+discrimination or unfair treatment. Whether you’re living with an invisible
+disability, supporting someone who is, or working in a related field, this
+session will give you a clearer understanding of rights, responsibilities,
+and avenues for support.</p>
+<hr>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_10_30_Animal_Welfare_Laws___Caring_for_Our_Companions__website_.png">
+</div>
+<p><strong>Animal Welfare Laws – Caring for Our Companions<br>30 October 2025, Thursday<br>7.30pm – 9.00pm<br></strong>
+<a rel="noopener noreferrer nofollow" target="_blank">https://us02web.zoom.us/webinar/register/6117478058096/WN_dRVXzKAcT1uF8bdZY87ZJg</a>
+</p>
+<p>What are your responsibilities as a pet owner? What should you do if you
+witness animal neglect or abuse? This session breaks down Singapore’s animal
+welfare laws and what they mean in practice.</p>
+<p><u>Moderator<br></u><strong>Sangeetha Pusphanathan</strong>, Director,
+Data Privacy (Head, APAC), Alcon Pte Ltd</p>
+<p><u>Speakers<br></u><strong>Sadhana Rai</strong>, Chief Representation
+Officer, Pro Bono SG<u><br></u><strong>Walter Leong</strong>, Executive
+Director, Society for the Prevention of Cruelty to Animals (SPCA)</p>
+<p>The panel will explain key protections under the Animals and Birds Act,
+how to recognise signs of cruelty or neglect, and the process for reporting
+suspected cases. You’ll also hear about common legal issues involving pet
+abandonment, poor care standards, and the work of welfare organisations.
+Whether you’re a pet owner, an animal advocate, or simply concerned about
+animal well-being, this session will give you practical guidance on how
+to act responsibly and contribute to a more humane community.</p>
