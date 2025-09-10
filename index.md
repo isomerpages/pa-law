@@ -10,7 +10,7 @@ notification: Government officials will never ask you to transfer money or
   href="https://www.scamshield.gov.sg/">Click here for more information</a>.
 sections:
   - hero:
-      background: /images/LAW_2025_KV.jpg
+      background: /images/LAW_2025_KV.png
       url: /about/
       variant: center
   - infopic:
