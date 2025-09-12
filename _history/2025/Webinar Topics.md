@@ -79,8 +79,8 @@ of how we work, hire, and manage.</p>
 looking to stay compliant, this session will walk you through what’s changing—and
 what it means for you.</p>
 <p><u>Moderator</u>
-<br><strong>Kelvin Kwek</strong>
-</p>
+<br><strong>Kelvin Kwek</strong>, Former Regional General Counsel, Fortune
+50 MNC</p>
 <p><u>Speakers</u>
 <br><strong>Toh Wei Yi</strong>, Partner, Litigation and Dispute Management,
 Head, Employment, Harry Elias Partnership LLP
@@ -127,22 +127,26 @@ your peace of mind.</p>
 <p><strong>Marriage &amp; Divorce – Understanding Your Rights (Syariah Law)<br>29 September 2025, Monday<br>7.30pm – 9.00pm<br></strong>
 <a href="https://us02web.zoom.us/webinar/register/6117478058096/WN_B_ZPEYSJRbCxJYQm-jieWw" rel="noopener nofollow" target="_blank">Register</a>
 </p>
-<p>Thinking about divorce under Syariah law or already going through the
-process? Not sure what to expect from the Syariah Court, or how to manage
-without a lawyer? This session will explain what you need to know about
-your rights, the legal process, and the social support available to you.</p>
+<p>Thinking about divorce under&nbsp;Syariah&nbsp;law or already going through
+the process? Not sure what to expect from the&nbsp;Syariah&nbsp;Court,
+or what support is available to you? This session will explain your rights,
+the legal process, and the social resources that can guide you through
+this journey.</p>
 <p><u>Moderator</u>
 <br><strong>Jannelle Lau</strong>, Senior Legal Counsel, DSV</p>
 <p><u>Speakers</u>
 <br><strong>Ahmad Nizam Abbas</strong>, Managing Director, Crescent Law Chambers
 <br><strong>Muhammad Al-Hakim Abdul Kadir</strong>, Assistant Senior Social
 Worker, PPIS FAM@FSC</p>
-<p>They will cover how divorce works under Syariah law in Singapore, including
-key issues like nafkah, custody, and division of matrimonial assets. You
-will also hear practical advice on what to expect if you are self-represented,
-and how to manage the emotional and family impact. Whether you are just
-starting to consider your options or already in the process, this session
-will help you make clearer, more confident decisions.</p>
+<p>The session will cover the grounds of divorce, how divorce works under&nbsp;Syariah&nbsp;law
+in Singapore and important issues such as nafkah, custody, care and control
+of children and the division of matrimonial assets. Speakers will also
+share guidance on navigating the&nbsp;Syariah&nbsp;Court process, managing
+the emotional and family impact, and accessing legal aid, counselling,
+and community support.</p>
+<p>Whether you are just starting to consider your options or are already
+in the process, this session will provide clarity and resources to help
+you make informed, confident decisions.</p>
 <hr>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_10_01_Social_Media___the_Law___Post_with_Prudence__website_.png">
@@ -219,8 +223,8 @@ that help you plan for incapacity, serious illness, and death.</p>
 <br><strong>Anidha Subramanion</strong>, Senior Legal Counsel, Infosys Compaz
 Pte Ltd</p>
 <p><u>Speakers</u>
-<br><strong>Tan Shen Kiat</strong>, CEO, Founder &amp; Director, Kin &amp;
-Kith Law Corporation
+<br><strong>Tan Shen Kiat</strong>, CEO, Founder &amp; Director, Kith &amp;
+Kin Law Corporation
 <br><strong>Dr. Adeline Lam</strong>, Senior Consultant for General Medicine
 and Clinical Co-Lead for Advance Care Planning, Tan Tock Seng Hospital
 <br><strong>Liau Yi Fang</strong>, TOUCH Community Services</p>
@@ -261,7 +265,7 @@ and peace of mind.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_10_15_Cyber_Hygiene___Know_Your_Rights___Responsibilities_Online__website_.png">
 </div>
-<p><strong>Cyber Hygiene – Know Your Rights &amp; Responsibilities Online<br>15 October 2025, Wednesday<br>7.30pm – 9.00pm<br></strong>
+<p><strong>Cyber Hygiene – Know Your Rights &amp; Responsibilities Online<br>16 October 2025, Wednesday<br>7.30pm – 9.00pm<br></strong>
 <a href="https://us02web.zoom.us/webinar/register/6117478058096/WN_mOMg68nHTs2LYSOU5w5f4Q" rel="noopener nofollow" target="_blank">Register</a>
 </p>
 <p>From phishing scams to data breaches, staying safe online is more important
