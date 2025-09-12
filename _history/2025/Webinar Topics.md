@@ -265,7 +265,7 @@ and peace of mind.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_10_15_Cyber_Hygiene___Know_Your_Rights___Responsibilities_Online__website_.png">
 </div>
-<p><strong>Cyber Hygiene – Know Your Rights &amp; Responsibilities Online<br>16 October 2025, Wednesday<br>7.30pm – 9.00pm<br></strong>
+<p><strong>Cyber Hygiene – Know Your Rights &amp; Responsibilities Online<br>16 October 2025, Thursday<br>7.30pm – 9.00pm<br></strong>
 <a href="https://us02web.zoom.us/webinar/register/6117478058096/WN_mOMg68nHTs2LYSOU5w5f4Q" rel="noopener nofollow" target="_blank">Register</a>
 </p>
 <p>From phishing scams to data breaches, staying safe online is more important
