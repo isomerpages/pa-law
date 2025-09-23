@@ -196,8 +196,7 @@ your work and run it sustainably.</p>
 <p><u>Speakers</u> 
 <br><strong>Benjamin Goh</strong>, Director, Dispute Resolution, Drew &amp;
 Napier LLC
-<br><strong>Sebastian Boon-Ngee</strong>, Senior Director, Community Networks
-and Partnerships, Temasek Foundation
+<br><strong>Jonathan Ley</strong>, Director, Community Networks and Partnerships, Temasek Foundation
 <br><strong>Michele Wooi</strong>, Deputy Director, Segment and Market Development,
 National Volunteer and Philanthropy Centre (NVPC)</p>
 <p>This session will cover key legal considerations for ground-up initiatives,
@@ -374,7 +373,7 @@ and unequal treatment.</p>
 <br><strong>Adelene Seah</strong>, Asia Pacific Regional Counsel, Control
 Risks</p>
 <p><u>Speakers</u>
-<br><strong>Peggy Sarah Yee</strong>, Director, PY Legal LLC
+<br><strong>Peggy Sarah Yee</strong>, Managing Director, PY Legal LLC
 <br><strong>Dr. Chen Shiling</strong>, Director, Happee Hearts Movement
 <br><strong>Julia Lee Wanyi</strong>, Senior Medical Social Worker, Institute
 of Mental Health (IMH)</p>
