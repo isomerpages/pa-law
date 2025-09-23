@@ -6,7 +6,7 @@ description: ""
 third_nav_title: "2025"
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aaron_Scott_Donovan.png">
+<img style="width: 30%" height="auto" width="30%" alt="" src="/images/Aaron_Scott_Donovan.png">
 </div>
 <h3>AARON SCOTT DONOVAN</h3>
 <p></p>
