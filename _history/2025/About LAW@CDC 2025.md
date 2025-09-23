@@ -17,9 +17,9 @@ Chapter, supported by the People’s Association.</p>
 <p>LAW@CDC 2025 is a nationwide effort to promote awareness and understanding
 of the law in the community through a series of talks, so that people living
 and working in Singapore may know their rights and be empowered when faced
-with common legal issues.&nbsp;&nbsp; This year, there will be 15 law awareness
-webinars aired ‘live’ online from 22 September - 31 October 2025. There
-will also be a series of in-person legal talks happening in the community.</p>
+with common legal issues. This year, there will be 15 law awareness webinars
+aired ‘live’ online from 22 September - 30 October 2025. There will also
+be a series of in-person legal talks happening in the community.</p>
 <p>As Singapore marks SG60, this year’s LAW@CDC campaign invites everyone
 to learn how the law helps us build stronger, safer, and more supportive
 communities. The theme <em>“Let’s Connect, Contribute and Care for our Community”</em> brings
