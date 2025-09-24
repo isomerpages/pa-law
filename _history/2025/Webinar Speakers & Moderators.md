@@ -93,7 +93,7 @@ For his services in community work, Ahmad was awarded the PBM (Pingat Bakti Masy
 
 </p><h3>CHO PEI LIN</h3>
 <div class="isomer-image-wrapper">
-<img style="width:250px" src="/images/Cho_Pei_Lin.png">
+<img style="width:250px" src="/images/Cho_Pei_Lin_1.png">
 </div>
 <p>Pei Lin is a pioneer in introducing Litigation PR to Singapore and her forte includes providing strategic PR consultancy in public affairs and public education campaign communications, corporate, litigation and crisis communications and government relations. Her strong acumen for developing creative and effective communication strategies has seen her sought after by clients ranging from government agencies, to global listed companies and non-profit organizations. Pei Lin is an accredited PR Practitioner of the Institute of Public Relations Singapore and has an Honours Bachelor of Law Degree from the National University of Singapore. She volunteers with various community and non-profit organizations.  
  
@@ -180,7 +180,7 @@ For his services in community work, Ahmad was awarded the PBM (Pingat Bakti Masy
  
 </p><h3>KATHERINE YAP</h3>
 <div class="isomer-image-wrapper">
-<img style="width:250px" src="/images/Katherine_Yap.png">
+<img style="width:250px" src="/images/Katherine_Yap_1.png">
 </div>
 <p>Katherine brings to every mediation table a rare combination of strategic insight, emotional intelligence, and deep operational knowledge of dispute resolution.
 </p><p>Her 16-year career at Maxwell Chambers wasn’t just about growing an institution—it was about understanding how conflict unfolds and what people truly need to move forward.
@@ -211,11 +211,9 @@ For his services in community work, Ahmad was awarded the PBM (Pingat Bakti Masy
 <div class="isomer-image-wrapper">
 <img style="width:250px" src="/images/Melvin_Loh_2.png">
 </div>
-<p>Melvin is a Senior Lecturer with the School of Law, Singapore University of Social Sciences. He specializes in mediation and negotiation, as well as criminal law.
-</p><p>An active volunteer at heart, Melvin assists as an advocate and solicitor with various pro bono initiatives of the Law Society of Singapore, which include the Criminal Legal Scheme (“CLAS”), Community Legal Clinics (“CLC”) and Legal Aid Bureau matters. Melvin also provides representation in matters through the Legal Assistance Scheme for Capital Offences (“LASCO”).
-</p><p>He is an Executive Committee member with the Mediation Committee of the Law Society of Singapore, as well as the CLAS and the CLC Committee of Pro Bono SG.
-</p><p>Melvin is a Certified Mediator with the Singapore International Mediation Institute and an empaneled Associate Mediator with the Singapore Mediation Centre. With over a decade of experience, he has mediated a vast spectrum of cases both inside and outside the Courts, including criminal, family, commercial, real estate amongst others. He is a professional international trainer in mediation and other skills-based modules.
-</p><p>He is also a lifelong volunteer outside of his legal profession, giving time to help with various causes such as with at-risk families, youth, and foreign workers.
+<p>Melvin Loh is a Senior Lecturer at the School of Law, Singapore University of Social Sciences (SUSS), where he teaches conflict resolution, mediation, and criminal law. A Certified Mediator (SIMI), court-appointed mediator, and Faculty Leader at the Sage Mediation Institute, he also serves as Counsel at Peter Low Chambers LLC. With over 17 years of experience, he has resolved hundreds of cases in courts and communities, both as mediator and counsel, and speaks on global platforms to advance mediation and restorative justice.
+</p><p>Melvin has received the SUSS Excellence in Teaching Award and the CPR Outstanding Professional Short Article Award—the first from an Asian journal to do so. He has also been recognised with the State Courts’ Outstanding Court Volunteer Award, the SMC Faculty Award, and Pro Bono SG’s Top Volunteer Award. He serves on the CLAS and CLC executive committees, and as a Committee Member of the Law Society’s Mediation Committee and Foreign Bar Liaison Committee (China Chapter).
+
 
 </p><h3>MICHELE WOOI</h3>
 <div class="isomer-image-wrapper">
@@ -394,7 +392,7 @@ She will never stop making mistakes and continue to learn from them.
 
 </p><h3>YEOW MING ZHEN</h3>
 <div class="isomer-image-wrapper">
-<img style="width:250px" src="/images/Yeow_Ming_Zhen.png">
+<img style="width:250px" src="/images/Yeow_Ming_Zhen_1.png">
 </div>
 <p>Ms Yeow Ming Zhen is currently the Associate Director – Strategic Development of Family Services for Methodist Welfare Services (MWS). Prior to this position, she was heading Strengthening Families Programme@Family Service Centre (FAM@FSC), under MWS. FAM@FSC programme is an initiative by Ministry of Social and Family Development (MSF) to support couples and families with family counselling, as well as divorce support programmes.
 </p><p>The counselling service is aimed to provide therapeutic support for couples and families who may experience early signs of stress and is an upstream intervention to prevent further issues from occurring within the marital and family system.
