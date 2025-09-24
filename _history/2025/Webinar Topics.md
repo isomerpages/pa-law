@@ -365,26 +365,16 @@ steps to take action and access protection.</p>
 <p><strong>Invisible Disabilities &amp; the Law – Know Your Protections<br>29 October 2025, Wednesday<br>7.30pm – 9.00pm<br></strong>
 <a href="https://us02web.zoom.us/webinar/register/6117478058096/WN_ecbtQNx-TD-2YD1k2VT4vA" rel="noopener nofollow" target="_blank">Register</a>
 </p>
-<p>Not all disabilities are visible—but that doesn’t make them any less real.
-From mental health conditions to chronic illnesses and learning differences,
-individuals with invisible disabilities often face misunderstanding, stigma,
-and unequal treatment.</p>
+<p>When persons with invisible disabilities such as mental health conditions, autism spectrum disorders, or chronic illnesses come into contact with the law, their challenges can be overlooked or misunderstood.</p>
 <p><u>Moderator</u>
-<br><strong>Adelene Seah</strong>, Asia Pacific Regional Counsel, Control
-Risks</p>
+<br><strong>Adelene Seah</strong>, Asia Pacific Regional Counsel, Control Risks</p>
 <p><u>Speakers</u>
 <br><strong>Peggy Sarah Yee</strong>, Managing Director, PY Legal LLC
 <br><strong>Dr. Chen Shiling</strong>, Director, Happee Hearts Movement
 <br><strong>Julia Lee Wanyi</strong>, Senior Medical Social Worker, Institute
 of Mental Health (IMH)</p>
-<p>This session will explore how Singapore’s laws protect individuals with
-invisible disabilities in areas such as education, employment, and public
-services. The panel will explain how legal protections apply in practice,
-what accommodations can be requested, and how to navigate situations involving
-discrimination or unfair treatment. Whether you’re living with an invisible
-disability, supporting someone who is, or working in a related field, this
-session will give you a clearer understanding of rights, responsibilities,
-and avenues for support.</p>
+<p>This webinar brings together legal, medical, and social work experts to discuss the unique challenges faced by persons with invisible disabilities in the justice system, from investigation and court proceedings to sentencing and rehabilitation. The panel will also highlight practical accommodations available, protections under the law, and avenues of support for affected individuals and their families.</p>
+<p>Whether you are a person with an invisible disability, a caregiver, community worker, or professional supporting vulnerable groups, this session will help you to better understand how individuals with invisible disabilities can navigate the judicial system and how the system is evolving to support their needs.</p>
 <hr>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_10_30_Animal_Welfare_Laws___Caring_for_Our_Companions.png">
