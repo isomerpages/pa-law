@@ -1,12 +1,12 @@
 ---
 title: Webinar Topics
 permalink: /2025/webinar/
-variant: tiptap
+variant: markdown
 description: ""
 third_nav_title: "2025"
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_09_22_Protect_Yourself___How_to_Spot_and_Avoid_Scams__website_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_09_22_Protect_Yourself___How_to_Spot_and_Avoid_Scams.png">
 </div>
 <p><strong>Protect Yourself – How to Spot and Avoid Scams</strong>
 <br><strong>22 September 2025, Monday</strong>
@@ -35,7 +35,7 @@ you with practical, clear-headed tools to stay safe.</p>
 <hr>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_09_24_Marriage___Divorce___Understanding_Your_Rights__Civil_Law___website_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_09_24_Marriage___Divorce___Understanding_Your_Rights__Civil_Law_.png">
 </div>
 <p><strong>Marriage &amp; Divorce – Understanding Your Rights (Civil Law)</strong>
 <br><strong>24 September 2025, Wednesday</strong>
@@ -65,7 +65,7 @@ want to understand your rights and options, this session will provide guidance
 and resources to help you land on surer footing for your next steps.</p>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_09_25_Workplace_Rights___Responsibilities__website_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_09_25_Workplace_Rights___Responsibilities.png">
 </div>
 <p><strong>Workplace Rights &amp; Responsibilities</strong>
 <br><strong>25 September 2025, Thursday</strong>
@@ -98,7 +98,7 @@ help you understand the legal shifts and how to respond effectively.</p>
 of work with confidence.</p>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_09_26_Neighbours_in_Dispute___What_Are_My_Legal_Options__website_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_09_26_Neighbours_in_Dispute___What_Are_My_Legal_Options.png">
 </div>
 <p><strong>Neighbours in Dispute – What Are My Legal Options?</strong>
 <br><strong>26 September 2025, Friday</strong>
@@ -122,7 +122,7 @@ leave with clear, actionable advice on how to resolve disputes and protect
 your peace of mind.</p>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_09_29_Marriage___Divorce___Understanding_Your_Rights__Syariah_Law___website_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_09_29_Marriage___Divorce___Understanding_Your_Rights__Syariah_Law_.png">
 </div>
 <p><strong>Marriage &amp; Divorce – Understanding Your Rights (Syariah Law)<br>29 September 2025, Monday<br>7.30pm – 9.00pm<br></strong>
 <a href="https://us02web.zoom.us/webinar/register/6117478058096/WN_B_ZPEYSJRbCxJYQm-jieWw" rel="noopener nofollow" target="_blank">Register</a>
@@ -149,7 +149,7 @@ in the process, this session will provide clarity and resources to help
 you make informed, confident decisions.</p>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_10_01_Social_Media___the_Law___Post_with_Prudence__website_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_10_01_Social_Media___the_Law___Post_with_Prudence.png">
 </div>
 <p><strong>Social Media &amp; the Law – Post with Prudence<br>1 October 2025, Wednesday<br>7.30pm – 9.00pm<br></strong>
 <a href="https://us02web.zoom.us/webinar/register/6117478058096/WN_QDaAt7Z6QEahGpk_m4fMPg" rel="noopener nofollow" target="_blank">Register</a>
@@ -178,7 +178,7 @@ or social media professional, this webinar will equip you with the knowledge
 to post with confidence and prudence.</p>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_10_06_Legal_Toolkit_for_Ground_Up_Community_Action__website_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_10_06_Legal_Toolkit_for_Ground_Up_Community_Action.png">
 </div>
 <p><strong>Legal Toolkit for Ground-Up Community Action<br>6 October 2025, Monday<br>7.30pm – 9.00pm<br></strong>
 <a href="https://us02web.zoom.us/webinar/register/6117478058096/WN_WW0a4_YdSxKuI618fK5lIw" rel="noopener nofollow" target="_blank">Register</a>
@@ -196,8 +196,7 @@ your work and run it sustainably.</p>
 <p><u>Speakers</u> 
 <br><strong>Benjamin Goh</strong>, Director, Dispute Resolution, Drew &amp;
 Napier LLC
-<br><strong>Sebastian Boon-Ngee</strong>, Senior Director, Community Networks
-and Partnerships, Temasek Foundation
+<br><strong>Jonathan Ley</strong>, Director, Community Networks and Partnerships, Temasek Foundation
 <br><strong>Michele Wooi</strong>, Deputy Director, Segment and Market Development,
 National Volunteer and Philanthropy Centre (NVPC)</p>
 <p>This session will cover key legal considerations for ground-up initiatives,
@@ -210,7 +209,7 @@ a volunteer project from the ground up, this session will equip you with
 practical legal knowledge to strengthen your impact and stay out of trouble.</p>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_10_08_Planning_Ahead__Wills__LPAs___End_of_Life_Matters__Civil_Law___website_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_10_08_Planning_Ahead__Wills__LPAs___End_of_Life_Matters__Civil_Law_.png">
 </div>
 <p><strong>Planning Ahead: Wills, LPAs &amp; End-of-Life Matters (Civil Law)<br>8 October 2025, Wednesday<br>7.30pm – 9.00pm<br></strong>
 <a href="https://us02web.zoom.us/webinar/register/6117478058096/WN_uI7yxY-aR_y1GwTzQ8oj1Q" rel="noopener nofollow" target="_blank">Register</a>
@@ -237,7 +236,7 @@ just getting started or reviewing your existing plans, this session will
 give you the clarity to make informed choices for the future.</p>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_10_13_Planning_Ahead__Wasiat__Hibah___Inheritance_Issues__Syariah_Law___website_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_10_13_Planning_Ahead__Wasiat__Hibah___Inheritance_Issues__Syariah_Law_.png">
 </div>
 <p><strong>Planning Ahead: Wasiat, Hibah &amp; Inheritance Issues (Syariah Law)<br>13 October 2025, Monday<br>7.30pm – 9.00pm<br></strong>
 <a href="https://us02web.zoom.us/webinar/register/6117478058096/WN_xBUCyUGVQ2e3sT1-ukDrHw" rel="noopener nofollow" target="_blank">Register</a>
@@ -263,7 +262,7 @@ for yourself or helping a loved one, this session will give you clarity
 and peace of mind.</p>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_10_15_Cyber_Hygiene___Know_Your_Rights___Responsibilities_Online__website_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_10_15_Cyber_Hygiene___Know_Your_Rights___Responsibilities_Online.png">
 </div>
 <p><strong>Cyber Hygiene – Know Your Rights &amp; Responsibilities Online<br>16 October 2025, Thursday<br>7.30pm – 9.00pm<br></strong>
 <a href="https://us02web.zoom.us/webinar/register/6117478058096/WN_mOMg68nHTs2LYSOU5w5f4Q" rel="noopener nofollow" target="_blank">Register</a>
@@ -289,7 +288,7 @@ walk away with a better understanding of your digital rights and how to
 protect yourself online.</p>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_10_22_Youth_Offences___Bullying___Legal_Guidance_for_Parents___Educators__website_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_10_22_Youth_Offences___Bullying___Legal_Guidance_for_Parents___Educators.png">
 </div>
 <p><strong>Youth Offences &amp; Bullying – Legal Guidance for Parents &amp; Educators<br>22 October 2025, Wednesday<br>7.30pm – 9.00pm<br></strong>
 <a href="https://us02web.zoom.us/webinar/register/6117478058096/WN_mg5Z_GnuTiOrW4ykVrnF0g" rel="noopener nofollow" target="_blank">Register</a>
@@ -312,7 +311,7 @@ back on track. This session offers practical legal insights and tools to
 help you support young people with clarity, care, and accountability.</p>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_10_23_Family_Violence___Legal_Protections___Support__website_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_10_23_Family_Violence___Legal_Protections___Support.png">
 </div>
 <p><strong>Family Violence – Legal Protections &amp; Support<br>23 October 2025, Thursday<br>7.30pm – 9.00pm<br></strong>
 <a href="https://us02web.zoom.us/webinar/register/6117478058096/WN_saDUstz-QB-XJT_wOqjn-A" rel="noopener nofollow" target="_blank">Register</a>
@@ -336,7 +335,7 @@ for yourself, a loved one, or your work in the community, this session
 offers clear guidance on how to respond and support those affected.</p>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_10_27_Online_Harassment___What_You_Can_Do__website_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_10_27_Online_Harassment___What_You_Can_Do.png">
 </div>
 <p><strong>Online Harassment – What You Can Do<br>27 October 2025, Monday<br>7.30pm – 9.00pm</strong>
 <br><a href="https://us02web.zoom.us/webinar/register/6117478058096/WN_0Zg1b5HVTlu26vvTov3l5A" rel="noopener nofollow" target="_blank">Register</a>
@@ -361,34 +360,24 @@ directly affected or helping someone else, you’ll leave with practical
 steps to take action and access protection.</p>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_10_29_Invisible_Disabilities___the_Law___Know_Your_Protections__website_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_10_29_Invisible_Disabilities___the_Law___Know_Your_Protections.png">
 </div>
 <p><strong>Invisible Disabilities &amp; the Law – Know Your Protections<br>29 October 2025, Wednesday<br>7.30pm – 9.00pm<br></strong>
 <a href="https://us02web.zoom.us/webinar/register/6117478058096/WN_ecbtQNx-TD-2YD1k2VT4vA" rel="noopener nofollow" target="_blank">Register</a>
 </p>
-<p>Not all disabilities are visible—but that doesn’t make them any less real.
-From mental health conditions to chronic illnesses and learning differences,
-individuals with invisible disabilities often face misunderstanding, stigma,
-and unequal treatment.</p>
+<p>When persons with invisible disabilities such as mental health conditions, autism spectrum disorders, or chronic illnesses come into contact with the law, their challenges can be overlooked or misunderstood.</p>
 <p><u>Moderator</u>
-<br><strong>Adelene Seah</strong>, Asia Pacific Regional Counsel, Control
-Risks</p>
+<br><strong>Adelene Seah</strong>, Asia Pacific Regional Counsel, Control Risks</p>
 <p><u>Speakers</u>
-<br><strong>Peggy Sarah Yee</strong>, Director, PY Legal LLC
+<br><strong>Peggy Sarah Yee</strong>, Managing Director, PY Legal LLC
 <br><strong>Dr. Chen Shiling</strong>, Director, Happee Hearts Movement
 <br><strong>Julia Lee Wanyi</strong>, Senior Medical Social Worker, Institute
 of Mental Health (IMH)</p>
-<p>This session will explore how Singapore’s laws protect individuals with
-invisible disabilities in areas such as education, employment, and public
-services. The panel will explain how legal protections apply in practice,
-what accommodations can be requested, and how to navigate situations involving
-discrimination or unfair treatment. Whether you’re living with an invisible
-disability, supporting someone who is, or working in a related field, this
-session will give you a clearer understanding of rights, responsibilities,
-and avenues for support.</p>
+<p>This webinar brings together legal, medical, and social work experts to discuss the unique challenges faced by persons with invisible disabilities in the justice system, from investigation and court proceedings to sentencing and rehabilitation. The panel will also highlight practical accommodations available, protections under the law, and avenues of support for affected individuals and their families.</p>
+<p>Whether you are a person with an invisible disability, a caregiver, community worker, or professional supporting vulnerable groups, this session will help you to better understand how individuals with invisible disabilities can navigate the judicial system and how the system is evolving to support their needs.</p>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_10_30_Animal_Welfare_Laws___Caring_for_Our_Companions__website_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_10_30_Animal_Welfare_Laws___Caring_for_Our_Companions.png">
 </div>
 <p><strong>Animal Welfare Laws – Caring for Our Companions<br>30 October 2025, Thursday<br>7.30pm – 9.00pm<br></strong>
 <a href="https://us02web.zoom.us/webinar/register/6117478058096/WN_dRVXzKAcT1uF8bdZY87ZJg" rel="noopener nofollow" target="_blank">Register</a>
