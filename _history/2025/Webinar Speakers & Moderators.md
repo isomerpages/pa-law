@@ -196,7 +196,7 @@ For his services in community work, Ahmad was awarded the PBM (Pingat Bakti Masy
 
 </p><h3>KELVIN KWEK</h3>
 <div class="isomer-image-wrapper">
-<img style="width:250px" src="/images/Kelvin_Kwek.png">
+<img style="width:250px" src="/images/Kelvin_Kwek_1.png">
 </div>
 <p>Kelvin Kwek is a seasoned legal professional with over two decades of experience in corporate law and compliance across Southeast Asia and Oceania. He was formerly the Regional General Counsel of a Fortune 50 multinational corporation, where he advised on a wide range of legal issues, including employment law, regulatory compliance, and corporate governance. Kelvin is qualified to practice law in both Singapore and Australia, and holds credentials as a Certified Information Privacy Manager (CIPM) and an Accredited Mediator. He is also a Member of the Singapore Institute of Directors (MSID).
 
