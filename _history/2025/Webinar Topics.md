@@ -65,7 +65,7 @@ want to understand your rights and options, this session will provide guidance
 and resources to help you land on surer footing for your next steps.</p>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_09_25_Workplace_Rights___Responsibilities.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_09_25_Workplace_Rights___Responsibilities_1.png">
 </div>
 <p><strong>Workplace Rights &amp; Responsibilities</strong>
 <br><strong>25 September 2025, Thursday</strong>
