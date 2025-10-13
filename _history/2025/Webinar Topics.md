@@ -11,7 +11,7 @@ third_nav_title: "2025"
 <p><strong>Protect Yourself – How to Spot and Avoid Scams</strong>
 <br><strong>22 September 2025, Monday</strong>
 <br><strong>7.30pm – 9.00pm</strong>
-<br><a href="https://us02web.zoom.us/webinar/register/6117478058096/WN_aBPJQcdITpSOOxZ_M99YUA" rel="noopener nofollow" target="_blank">Register</a>
+<br><a href="https://youtu.be/V7kkQWjNzpk" rel="noopener nofollow" target="_blank">Watch the recording of the webinar</a>
 </p>
 <p>Scams are getting harder to spot and easier to fall for. Criminals are
 using more convincing tactics to steal your money, data, and identity —
@@ -40,7 +40,7 @@ you with practical, clear-headed tools to stay safe.</p>
 <p><strong>Marriage &amp; Divorce – Understanding Your Rights (Civil Law)</strong>
 <br><strong>24 September 2025, Wednesday</strong>
 <br><strong>7.30pm – 9.00pm</strong>
-<br><a href="https://us02web.zoom.us/webinar/register/6117478058096/WN_wwTYJzdzTuWDi20wac7_2Q" rel="noopener nofollow" target="_blank">Register</a>
+<br><a href="https://youtu.be/OpyxMVO5pPU" rel="noopener nofollow" target="_blank">Watch the recording of the webinar</a>
 </p>
 <p>Marriage comes with rights and obligations, from spousal and child maintenance
 to protection from family violence. But what happens when relationships
@@ -70,7 +70,7 @@ and resources to help you land on surer footing for your next steps.</p>
 <p><strong>Workplace Rights &amp; Responsibilities</strong>
 <br><strong>25 September 2025, Thursday</strong>
 <br><strong>7.30pm – 9.00pm</strong>
-<br><a href="https://us02web.zoom.us/webinar/register/6117478058096/WN_Iy97MefXS4ma59H37krxTQ" rel="noopener nofollow" target="_blank">Register</a>
+<br><a href="https://youtu.be/JMIzSyXIf1g" rel="noopener nofollow" target="_blank">Watch the recording of the webinar</a>
 </p>
 <p>Singapore’s employment landscape is shifting fast. New laws like the Workplace
 Fairness Legislation, changes in leave entitlements, and the reshaping
@@ -103,7 +103,7 @@ of work with confidence.</p>
 <p><strong>Neighbours in Dispute – What Are My Legal Options?</strong>
 <br><strong>26 September 2025, Friday</strong>
 <br><strong>7.30pm – 9.00pm</strong>
-<br><a href="https://us02web.zoom.us/webinar/register/6117478058096/WN_1zxiFZVAQFS0lUVOc1k1Vg" rel="noopener nofollow" target="_blank">Register</a>
+<br><a href="https://youtu.be/ceH671pI-b4" rel="noopener nofollow" target="_blank">Watch the recording of the webinar</a>
 </p>
 <p>Living close to others can sometimes lead to tension — noise complaints,
 boundary issues, blocked corridors, or difficult neighbours. If you’re
@@ -125,7 +125,7 @@ your peace of mind.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_09_29_Marriage___Divorce___Understanding_Your_Rights__Syariah_Law_.png">
 </div>
 <p><strong>Marriage &amp; Divorce – Understanding Your Rights (Syariah Law)<br>29 September 2025, Monday<br>7.30pm – 9.00pm<br></strong>
-<a href="https://us02web.zoom.us/webinar/register/6117478058096/WN_B_ZPEYSJRbCxJYQm-jieWw" rel="noopener nofollow" target="_blank">Register</a>
+<a href="https://youtu.be/w4dHkc3Zckg" rel="noopener nofollow" target="_blank">Watch the recording of the webinar</a>
 </p>
 <p>Thinking about divorce under&nbsp;Syariah&nbsp;law or already going through
 the process? Not sure what to expect from the&nbsp;Syariah&nbsp;Court,
