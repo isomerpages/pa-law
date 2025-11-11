@@ -152,7 +152,7 @@ you make informed, confident decisions.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_10_01_Social_Media___the_Law___Post_with_Prudence.png">
 </div>
 <p><strong>Social Media &amp; the Law – Post with Prudence<br>1 October 2025, Wednesday<br>7.30pm – 9.00pm<br></strong>
-<a href="https://us02web.zoom.us/webinar/register/6117478058096/WN_QDaAt7Z6QEahGpk_m4fMPg" rel="noopener nofollow" target="_blank">Register</a>
+<a href="https://youtu.be/jWL_ADc9oUI" rel="noopener nofollow" target="_blank">Watch the recording of the webinar</a>
 </p>
 <p>Social media is a powerful tool for branding, business growth and community
 engagement, but what you post, share, or promote can have real legal consequences.
@@ -181,8 +181,7 @@ to post with confidence and prudence.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_10_06_Legal_Toolkit_for_Ground_Up_Community_Action.png">
 </div>
 <p><strong>Legal Toolkit for Ground-Up Community Action<br>6 October 2025, Monday<br>7.30pm – 9.00pm<br></strong>
-<a href="https://us02web.zoom.us/webinar/register/6117478058096/WN_WW0a4_YdSxKuI618fK5lIw" rel="noopener nofollow" target="_blank">Register</a>
-</p>
+<a href="https://youtu.be/AbwctKhw9WE" rel="noopener nofollow" target="_blank">Watch the recording of the webinar</a></p>
 <p>Thinking of starting your own volunteer initiative now that the year-end
 holidays are near? Starting a ground-up project or a volunteer initiative?
 Whether you’re organising goodwill projects, running a community programme
@@ -212,8 +211,7 @@ practical legal knowledge to strengthen your impact and stay out of trouble.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_10_08_Planning_Ahead__Wills__LPAs___End_of_Life_Matters__Civil_Law_.png">
 </div>
 <p><strong>Planning Ahead: Wills, LPAs &amp; End-of-Life Matters (Civil Law)<br>8 October 2025, Wednesday<br>7.30pm – 9.00pm<br></strong>
-<a href="https://us02web.zoom.us/webinar/register/6117478058096/WN_uI7yxY-aR_y1GwTzQ8oj1Q" rel="noopener nofollow" target="_blank">Register</a>
-</p>
+<a href="https://youtu.be/uGOUO8wDp2M" rel="noopener nofollow" target="_blank">Watch the recording of the webinar</a></p>
 <p>Planning ahead isn’t just for the elderly — it’s for anyone who wants
 to make clear, informed decisions about their future and protect their
 loved ones from unnecessary stress. This session covers the key legal tools
@@ -239,8 +237,7 @@ give you the clarity to make informed choices for the future.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_10_13_Planning_Ahead__Wasiat__Hibah___Inheritance_Issues__Syariah_Law_.png">
 </div>
 <p><strong>Planning Ahead: Wasiat, Hibah &amp; Inheritance Issues (Syariah Law)<br>13 October 2025, Monday<br>7.30pm – 9.00pm<br></strong>
-<a href="https://us02web.zoom.us/webinar/register/6117478058096/WN_xBUCyUGVQ2e3sT1-ukDrHw" rel="noopener nofollow" target="_blank">Register</a>
-</p>
+<a href="https://youtu.be/UGlf0ry_T34" rel="noopener nofollow" target="_blank">Watch the recording of the webinar</a></p>
 <p>What happens to your estate after death under Syariah law? How do Faraidh,
 wasiat, and hibah apply in Singapore’s legal system? If you’re unsure how
 to start planning or want to make sure your loved ones are protected in
@@ -265,8 +262,7 @@ and peace of mind.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_10_15_Cyber_Hygiene___Know_Your_Rights___Responsibilities_Online.png">
 </div>
 <p><strong>Cyber Hygiene – Know Your Rights &amp; Responsibilities Online<br>16 October 2025, Thursday<br>7.30pm – 9.00pm<br></strong>
-<a href="https://us02web.zoom.us/webinar/register/6117478058096/WN_mOMg68nHTs2LYSOU5w5f4Q" rel="noopener nofollow" target="_blank">Register</a>
-</p>
+<a href="https://youtu.be/NA5J6gTyVnQ" rel="noopener nofollow" target="_blank">Watch the recording of the webinar</a></p>
 <p>From phishing scams to data breaches, staying safe online is more important
 than ever. But do you know what your rights are if your data is misused
 — or what responsibilities organisations have in protecting it?</p>
