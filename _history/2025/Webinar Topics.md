@@ -287,8 +287,7 @@ protect yourself online.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_10_22_Youth_Offences___Bullying___Legal_Guidance_for_Parents___Educators.png">
 </div>
 <p><strong>Youth Offences &amp; Bullying – Legal Guidance for Parents &amp; Educators<br>22 October 2025, Wednesday<br>7.30pm – 9.00pm<br></strong>
-<a href="https://us02web.zoom.us/webinar/register/6117478058096/WN_mg5Z_GnuTiOrW4ykVrnF0g" rel="noopener nofollow" target="_blank">Register</a>
-</p>
+<a href="https://youtu.be/rFAHykBMQn8" rel="noopener nofollow" target="_blank">Watch the recording of the webinar</a></p>
 <p>When young people get into trouble—whether it’s bullying, theft, fighting,
 or online missteps—what are the legal consequences, and how should adults
 respond? This session is for parents, teachers, and youth workers who want
@@ -310,8 +309,7 @@ help you support young people with clarity, care, and accountability.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_10_23_Family_Violence___Legal_Protections___Support.png">
 </div>
 <p><strong>Family Violence – Legal Protections &amp; Support<br>23 October 2025, Thursday<br>7.30pm – 9.00pm<br></strong>
-<a href="https://us02web.zoom.us/webinar/register/6117478058096/WN_saDUstz-QB-XJT_wOqjn-A" rel="noopener nofollow" target="_blank">Register</a>
-</p>
+<a href="https://youtu.be/iXgDiVGTSR8" rel="noopener nofollow" target="_blank">Watch the recording of the webinar</a></p>
 <p>Family violence often happens behind closed doors — but its impact is
 far-reaching. This session will help you understand what family violence
 looks like, how the law protects survivors, and what support services are
@@ -333,9 +331,8 @@ offers clear guidance on how to respond and support those affected.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_10_27_Online_Harassment___What_You_Can_Do.png">
 </div>
-<p><strong>Online Harassment – What You Can Do<br>27 October 2025, Monday<br>7.30pm – 9.00pm</strong>
-<br><a href="https://us02web.zoom.us/webinar/register/6117478058096/WN_0Zg1b5HVTlu26vvTov3l5A" rel="noopener nofollow" target="_blank">Register</a>
-</p>
+<p><strong>Online Harassment – What You Can Do<br>27 October 2025, Monday<br>7.30pm – 9.00pm</strong><br>
+<a href="https://youtu.be/1sjlLIewNuM" rel="noopener nofollow" target="_blank">Watch the recording of the webinar</a></p>
 <p>Online harassment can take many forms — defamation, stalking, non-consensual
 image sharing, or repeated unwanted contact. If you or someone you know
 is experiencing this, it’s important to know your rights and the steps
@@ -359,8 +356,7 @@ steps to take action and access protection.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_10_29_Invisible_Disabilities___the_Law___Know_Your_Protections.png">
 </div>
 <p><strong>Invisible Disabilities &amp; the Law – Know Your Protections<br>29 October 2025, Wednesday<br>7.30pm – 9.00pm<br></strong>
-<a href="https://us02web.zoom.us/webinar/register/6117478058096/WN_ecbtQNx-TD-2YD1k2VT4vA" rel="noopener nofollow" target="_blank">Register</a>
-</p>
+<a href="https://youtu.be/y8bOoP3bIUg" rel="noopener nofollow" target="_blank">Watch the recording of the webinar</a></p>
 <p>When persons with invisible disabilities such as mental health conditions, autism spectrum disorders, or chronic illnesses come into contact with the law, their challenges can be overlooked or misunderstood.</p>
 <p><u>Moderator</u>
 <br><strong>Adelene Seah</strong>, Asia Pacific Regional Counsel, Control Risks</p>
@@ -376,8 +372,7 @@ of Mental Health (IMH)</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_10_30_Animal_Welfare_Laws___Caring_for_Our_Companions.png">
 </div>
 <p><strong>Animal Welfare Laws – Caring for Our Companions<br>30 October 2025, Thursday<br>7.30pm – 9.00pm<br></strong>
-<a href="https://us02web.zoom.us/webinar/register/6117478058096/WN_dRVXzKAcT1uF8bdZY87ZJg" rel="noopener nofollow" target="_blank">Register</a>
-</p>
+<a href="https://youtu.be/C836iVzK96g" rel="noopener nofollow" target="_blank">Watch the recording of the webinar</a></p>
 <p>What are your responsibilities as a pet owner? What should you do if you
 witness animal neglect or abuse? This session breaks down Singapore’s animal
 welfare laws and what they mean in practice.</p>
