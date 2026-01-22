@@ -378,8 +378,7 @@ witness animal neglect or abuse? This session breaks down Singapore’s animal
 welfare laws and what they mean in practice.</p>
 <p><u>Moderator<br></u><strong>Sangeetha Pusphanathan</strong>, Director,
 Data Privacy (Head, APAC), Alcon Pte Ltd</p>
-<p><u>Speakers<br></u><strong>Sadhana Rai</strong>, Chief Representation
-Officer, Pro Bono SG<u><br></u><strong>Walter Leong</strong>, Executive
+<p><u>Speakers<br></u><strong>Anisa Low</strong>, Associate, Peter Low Chambers LLC<u><br></u><strong>Walter Leong</strong>, Executive
 Director, Society for the Prevention of Cruelty to Animals (SPCA)</p>
 <p>The panel will explain key protections under the Animals and Birds Act,
 how to recognise signs of cruelty or neglect, and the process for reporting
