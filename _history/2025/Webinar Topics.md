@@ -369,7 +369,7 @@ of Mental Health (IMH)</p>
 <p>Whether you are a person with an invisible disability, a caregiver, community worker, or professional supporting vulnerable groups, this session will help you to better understand how individuals with invisible disabilities can navigate the judicial system and how the system is evolving to support their needs.</p>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_10_30_Animal_Welfare_Laws___Caring_for_Our_Companions.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_10_30_Animal_Welfare_Laws___Caring_for_Our_Companions__2_.png">
 </div>
 <p><strong>Animal Welfare Laws – Caring for Our Companions<br>30 October 2025, Thursday<br>7.30pm – 9.00pm<br></strong>
 <a href="https://youtu.be/C836iVzK96g" rel="noopener nofollow" target="_blank">Watch the recording of the webinar</a></p>
